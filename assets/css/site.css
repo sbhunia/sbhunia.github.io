@@ -93,3 +93,14 @@ body {
 .centered-text{
   text-align: center;
 }
+.margin-top-large{
+  margin-top: 40px;
+}
+
+.font-bigger{
+  font-size: 1.15em;
+}
+
+.justify-text{
+  text-align: justify;
+}
