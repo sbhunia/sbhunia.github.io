@@ -104,3 +104,8 @@ body {
 .justify-text{
   text-align: justify;
 }
+
+.resume-dl {
+    text-align: center;
+    margin-bottom: 5px;
+}
