@@ -1,0 +1,25 @@
+mainmenu:
+  home:
+    url: "/"
+    text: "Home"
+    icon_class: "fa-home"
+  research:
+    url: "/research"
+    text: "Research"
+    icon_class: "fa-camera"
+  publication:
+    url: "/publications"
+    text: "Publications"
+    icon_class: "fa-book"
+  blog:
+    url: "/blog/"
+    text: "Blog"
+    icon_class: "fa-newspaper-o"
+  cv:
+    url: "https://www.dropbox.com/s/o2esymylo1g5w2z/cv_suman_bhunia.pdf?dl=1"
+    text: "CV"
+    icon_class: "fa-file-text"
+  aboutme:
+    url: "/about/"
+    text: "About Me"
+    icon_class: "fa-info-circle"

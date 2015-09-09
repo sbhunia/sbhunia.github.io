@@ -1,0 +1,18 @@
+# Site settings
+title: Suman Bhunia
+email: sbhunia@nevada.unr.edu
+description: "Personal website of Suman Bhunia, PhD student at the department of CSE, UNR"
+logo_location: "https://secure.gravatar.com/avatar/3b6b81fe97ec9abc7273242effb21a03?s=200"
+
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+highlighter: pygments
+
+#Other Global Configuration
+exclude: ['README.md']
