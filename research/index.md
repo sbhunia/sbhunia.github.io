@@ -4,6 +4,14 @@ title: Research
 date: 2014-10-19 23:51
 ---
 
-- Frequency Agile Radio Testbed
+- #### Sustainance  against Jamming using Honeynet in Cognitive Radio Network
 
-- Sustainance againest Jamming attack
+- #### Mitigate Jamming using Adaptive Beamforming Antenna
+
+- #### Frequency Agile Radio Testbed
+
+- #### Neighbor Discovery for Directional Tranceivers
+
+- #### Enhance Performance of Voice Service for Congested Network
+
+- #### Evaluate Performance of WiMAX
