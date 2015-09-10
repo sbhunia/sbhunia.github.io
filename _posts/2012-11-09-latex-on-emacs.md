@@ -2,7 +2,6 @@
 layout: post
 tags: latex emacs ubuntu
 datee: 2012-11-09 13:00
-thumbnail: http://placehold.it/100x100
 title: Using latex on Emacs Linux
 published: true
 ---

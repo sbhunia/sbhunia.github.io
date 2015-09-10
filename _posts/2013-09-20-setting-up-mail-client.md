@@ -2,7 +2,6 @@
 layout: post
 tags: mail-client thunderbird ubuntu
 date: 2013-09-20 13:08
-thumbnail: http://placehold.it/100x100
 title: Setting Up Mail Client in Ubuntu
 published: true
 ---

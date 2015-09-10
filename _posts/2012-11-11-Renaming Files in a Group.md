@@ -2,7 +2,6 @@
 layout: post
 tags: Rename Linux
 date: 2012-11-11 13:08
-thumbnail: http://placehold.it/100x100
 title: Renaming Files in Group
 published: true
 ---

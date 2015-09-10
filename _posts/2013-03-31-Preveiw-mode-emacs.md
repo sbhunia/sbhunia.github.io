@@ -2,7 +2,6 @@
 layout: post
 tags: emacs math preview
 date: 2013-03-31 13:08
-thumbnail: http://placehold.it/100x100
 title: Preview Math Formulas in Emacs
 published: true
 ---

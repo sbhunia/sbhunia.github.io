@@ -13,10 +13,10 @@ date: 2015-10-10 18:18
           <small>
             <i class="fa fa-calendar"></i>
             <time>
-              {% if page.lastmodified %}
-                {{ page.lastmodified | date:'%A, %B %d, %Y'}}
+              {% if post.lastmodified %}
+                {{ post.lastmodified | date:'%A, %B %d, %Y'}}
               {% else %}
-                {{ page.date | date:'%A, %B %d, %Y'}}
+                {{ post.date | date:'%A, %B %d, %Y'}}
               {% endif %}
             </time>
           </small>

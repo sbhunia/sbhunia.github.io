@@ -2,7 +2,6 @@
 layout: post
 tags: GNUPlot Emacs Linux
 date: 2012-12-12 13:08
-thumbnail: http://placehold.it/100x100
 title: Plotting graphs for latex
 published: true
 ---

@@ -2,7 +2,6 @@
 layout: post
 tags: Network-Simulator
 date: 2012-10-24 13:08
-thumbnail: http://placehold.it/100x100
 title: Choosing Network Simulator
 published: true
 ---

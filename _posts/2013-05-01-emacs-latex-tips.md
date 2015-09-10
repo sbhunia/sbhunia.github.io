@@ -2,7 +2,6 @@
 layout: post
 tags: emacs latex epstopdf pdflatex graphics
 date: 2013-05-01 13:08
-thumbnail: http://placehold.it/100x100
 title: Useful Tips for Latex in Emacs
 published: true
 ---

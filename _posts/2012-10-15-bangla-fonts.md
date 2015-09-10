@@ -2,7 +2,6 @@
 layout: post
 tags: Fonta Avrao Bangla
 date: 2012-10-15 13:08
-thumbnail: http://placehold.it/100x100
 title: Writing Bangla fonts
 published: true
 ---

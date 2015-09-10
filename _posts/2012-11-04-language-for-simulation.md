@@ -2,7 +2,6 @@
 layout: post
 tags: Network-Simulator language
 date: 2012-11-04 13:08
-thumbnail: http://placehold.it/100x100
 title: Choosing language for simulating networks/graphs
 published: true
 ---

@@ -2,7 +2,6 @@
 layout: post
 tags: Editor Emacs
 date: 2012-10-01 13:06
-thumbnail: http://placehold.it/100x100
 title: Text Editors
 published: true
 ---

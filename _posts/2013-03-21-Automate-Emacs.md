@@ -2,7 +2,6 @@
 layout: post
 tags: Emacs
 date: 2013-03-21 13:08
-thumbnail: http://placehold.it/100x100
 title: Automate Emacs
 published: true
 ---

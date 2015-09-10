@@ -2,7 +2,6 @@
 layout: post
 tags: linux file-share
 date: 2013-09-14 13:08
-thumbnail: http://placehold.it/100x100
 title: Sharing Files between two Computers
 published: true
 ---

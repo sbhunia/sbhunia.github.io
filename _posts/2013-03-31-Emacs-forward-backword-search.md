@@ -2,7 +2,6 @@
 layout: post
 tags: emacs latex forward-search backward-search evince
 date: 2013-03-31 14:08
-thumbnail: http://placehold.it/100x100
 title: Forward and Backward Search in Emacs with Latex
 published: true
 ---
