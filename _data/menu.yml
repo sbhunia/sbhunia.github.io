@@ -6,11 +6,15 @@ mainmenu:
   research:
     url: "/research"
     text: "Research"
-    icon_class: "fa-camera"
+    icon_class: "fa-flask"
   publication:
     url: "/publications"
     text: "Publications"
     icon_class: "fa-book"
+  teaching:
+    url: "/teaching"
+    text: "Teaching"
+    icon_class: "fa-university"
   blog:
     url: "/blog/"
     text: "Blog"
