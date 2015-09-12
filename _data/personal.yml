@@ -1,0 +1,13 @@
+---
+  name: "Suman Bhunia"
+  position: "Phd Candidate"
+  address:
+    line1: "Scrugham Engineering and Mines, Room # 211"
+    line2: "1664 N. Virginia Street, Reno, NV 89557"
+  dept: "Dept of Computer Science and Engineering"
+  deptlink: "http://cse.unr.edu/"
+  school: "University of Nevada, Reno"
+  city: "Reno"
+  state: "NV"
+  email: "sbhunia@nevada.unr.edu"
+  gravatar: "https://secure.gravatar.com/avatar/3b6b81fe97ec9abc7273242effb21a03?s=300"

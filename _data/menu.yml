@@ -20,7 +20,7 @@ mainmenu:
     text: "Blog"
     icon_class: "fa-newspaper-o"
   cv:
-    url: "https://www.dropbox.com/s/o2esymylo1g5w2z/cv_suman_bhunia.pdf?dl=1"
+    url: "/cv_suman_bhunia.pdf"
     text: "CV"
     icon_class: "fa-file-text"
   aboutme:
