@@ -8,7 +8,7 @@ date: 2014-10-19 23:51
   <div class="row">
   <div class="col-xs-12 col-sm-3 text-center">
     <figure>
-      <img src="{{site.data.personal.gravatar}}" alt="" class=" img-responsive">
+      <img src="/assets/images/protrait2.png" alt="protrait" class=" img-responsive">
     </figure>
   </div>
     <div class="col-sm-9">
@@ -33,8 +33,6 @@ date: 2014-10-19 23:51
             <p itemprop="email"> {{site.data.personal.email}}</p>
             <p>&nbsp;</p>
           </div>
-
-
         </div>
       </div>
     </div>
@@ -72,11 +70,5 @@ ___________________________________
 
 ### Professional Services:
 - Served as session Chair at IEEE CSS 201
-- Technical Program Committee of ICIT 2015
+- Technical Program Committee Member of ICIT 2015
 
-----------------------------------
-
-### Other Activities:
-- Elected College of Engineering Representative, Graduate Student Association, UNR
-- Elected Vice President, Computer Science Graduate Student Club, UNR
-- Elected Vice President, Indian Student Organization, UNR

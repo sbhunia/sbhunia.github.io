@@ -39,7 +39,16 @@ date: 2014-10-19 23:51
 	</div>
 </div>
 <article markdown="1" class="margin-top-large">
-<p>Hi! I am Suman Bhunia, a PhD student in the <a href="http://cse.unr.edu">Department of Computer Science at University of Nevada, Reno (UNR)</a>. I am working as a Graduate Research Assistant in the Computer Networking laboratory (CNL). My PhD supervisor is Prof. <a href="http://cse.unr.edu/~shamik">Shamik Sengupta</a>. I am doing research on Security and vulnerability of Cognitive Radio Network. Before joining UNR, I was a PhD candidate at<a href="http://gc.cuny.edu">Graduate Center of City University of New York (CUNY) </a>. At CUNY, I was an adjunct lecturer for 2011-'12 academic year and Research Assistant for 2012-'13 academic year.</p>
-<p>I have finished my Bachelor of Technology degree in Electronics and Communication Engineering from <a href="http://www.msitcollege.org">Meghnad Saha Institute of technology</a>, a college under <a href="http://www.wbut.net">West Bengal university of technology</a>and Master of Technology in <a href="http://www.jaduniv.edu.in/view_department.php?deptid=146">Distributed and Mobile Computing</a> at The <a href="http://www.jaduniv.edu.in">Jadavpur University</a>. I did my My Master's thesis in the area of Reliable Data Transfer over WiMax network under the supervision of Prof. <a href="http://www.jaduniv.edu.in/profile.php?uid=357">Iti Saha Misra</a>. After the completion of M.Tech, I continued to work in the department of <a href="http://www.jaduniv.edu.in/view_department.php?deptid=84">Electronics and Telecommunication engineering</a> at Jadavpur University as Senior Research Fellow on a <a href="http://www.dst.gov.in">Department of Science and Technology</a> funded project on Cognitive Radio Network.</p>
+Hi! I am Suman Bhunia, a PhD student in the Department of Computer Science at University of Nevada, Reno (UNR). I am working as a Graduate Research Assistant in the Computer Networking laboratory (CNL). My PhD supervisor is Dr. Shamik Sengupta. I am doing research on Security and vulnerability of Cognitive Radio Network. Before joining UNR, I was a PhD candidate at Graduate Center of City University of New York (CUNY). At CUNY, I was an adjunct lecturer for 2011-'12 academic year and Research Assistant for 2012-'13 academic year.
+
+I have finished my Bachelor of Technology degree in Electronics and Communication Engineering from Meghnad Saha Institute of technology, affiliated to West Bengal university of technology and Master of Technology in Distributed and Mobile Computing at The Jadavpur University. I did my My Master's thesis in the area of Reliable Data Transfer over WiMax network under the supervision of Prof.Iti Saha Misra. After the completion of M.Tech, I continued to work in the department of Electronics and Telecommunication engineering at Jadavpur University as Senior Research Fellow on a Department of Science and Technology funded project on Cognitive Radio Network.
+
+----------------------------------
+
+### Other Activities:
+- Elected College of Engineering Representative, Graduate Student Association, UNR
+- Elected Vice President, Computer Science Graduate Student Club, UNR
+- Elected Vice President, Indian Student Organization, UNR
+
 
 </article>
