@@ -68,6 +68,6 @@ ___________________________________
 ----------------------------------
 
 ### Professional Services:
-- Served as session Chair at IEEE CSS 201
+- Served as session Chair at IEEE CSS 2015 track: Active Defense Techniques and Systems
 - Technical Program Committee Member of ICIT 2015
 

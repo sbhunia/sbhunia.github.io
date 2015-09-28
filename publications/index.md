@@ -11,13 +11,14 @@ date: 2014-10-19 23:51
 
 5. S Mneimneh, **S Bhunia**, F Vazquez-Abad and S Sengupta, "A Game-Theoretic and Stochastic Survivability Mechanism against Induced Attacks in Cognitive Radio Networks", revised manuscript submitted to  IEEE Transactions on Cognitive Communications and Networking.
 
-4. **S Bhunia**, S Sengupta and F Vazquez-Abad, "[Performance Analysis of CR-Honeynet to prevent Jamming Attack through Stochastic Modeling][2]", To appear in Elsevier Pervasive and Mobile Computing, doi:10.1016/j.pmcj.2015.04.004.[{{pdfsign}}](manuscripts/pmc15.pdf)
+4. **S Bhunia**, S Sengupta and F Vazquez-Abad, "Performance Analysis of CR-Honeynet to prevent Jamming Attack through Stochastic Modeling", To appear in Elsevier Pervasive and Mobile Computing, doi:10.1016/j.pmcj.2015.04.004.[{{pdfsign}}](manuscripts/pmc15.pdf)
 
-3. T Chakraborty, A Mukhopadhyay, **S Bhunia**, I S Misra, S K Sanyal, "An Optimization Technique for Improved VoIP Performance over Wireless LAN", Journal of Networks, Vol-7, Issus-3, pp. 480-493.
+3. T Chakraborty, A Mukhopadhyay, **S Bhunia**, I S Misra, S K Sanyal, "An Optimization Technique for Improved VoIP Performance over Wireless LAN", Journal of Networks, Vol-7, Issus-3, 2012, pp. 480-493. [{{pdfsign}}](manuscripts/jon12.pdf)
 
-2. **S Bhunia**, I S Misra, S K Sanyal, A Kundu, "Performance Study of Mobile WiMAX Network with Changing Scenarios Under different Modulation and Coding", International Journal of Communication Systems, John Wiley & Sons, Vol-24, Issue 8, pp. 1087-1104, Aug '11. [{{pdfsign}}][5]
+2. **S Bhunia**, I S Misra, S K Sanyal, A Kundu, "Performance Study of Mobile WiMAX Network with Changing Scenarios Under different Modulation and Coding", International Journal of Communication Systems, John Wiley & Sons, Vol-24, Issue 8, pp. 1087-1104, Aug '11. [{{pdfsign}}](manuscripts/ijcs11.pdf)
 
-1. A Kundu, I S Misra, S K Sanyal, **Suman Bhunia**, "VoIP Performance Over Broadband Wireless Networks Under Static and Mobile Environments", International Journal of Wireless & Mobile Networks (IJWMN), pp.82-93, Vol.2, No.4, November 2010.
+
+1. A Kundu, I S Misra, S K Sanyal, **Suman Bhunia**, "VoIP Performance Over Broadband Wireless Networks Under Static and Mobile Environments", International Journal of Wireless & Mobile Networks (IJWMN), pp.82-93, Vol.2, No.4, November 2010. [{{pdfsign}}](manuscripts/ijwmn10.pdf)
 
 ### Conference proceedings Publication
 
@@ -29,21 +30,24 @@ date: 2014-10-19 23:51
 
 9. **S Bhunia**, X Su, S Sengupta and F Vazquez-Abad, "Stochastic model for Cognitive Radio Networks under jamming attacks and honeypot-based prevention", 15th International Conference on Distributed Computing and Networking (ICDCN), 2014. [{{pdfsign}}](manuscripts/icdcn14.pdf)
 
-8. E Troja, K Ezirim, **S Bhunia**, "Route Aware Dynamic Channel Scheduling and Selection for Multi-Hop Cognitive Radio Networks", proc. of IEEE 78th Vehicular Technology Conference (VTC Fall), 2013. [{{pdfsign}}][4]
+8. E Troja, K Ezirim, **S Bhunia**, "Route Aware Dynamic Channel Scheduling and Selection for Multi-Hop Cognitive Radio Networks", proc. of IEEE 78th Vehicular Technology Conference (VTC Fall), 2013.  [{{pdfsign}}](manuscripts/vtc10.pdf)
 
 7. T Chakraborty, A Mukhopadhyay, **S Bhunia**, I S Misra, S K Sanyal, "Analysis and Enhancement of QoS in Cognitive Radio Network for Efficient VoIP Performance", proc. of World Congress on Information and Communication Technologies, Mumbai, India, December 11-14, 2011. [{{pdfsign}}](manuscripts/wcitc11.pdf)
 
-6. A Mukhopadhyay, T Chakraborty, **S Bhunia**, I S Misra, S K Sanyal, "Study of Enhanced VoIP Performance underÂ Congested Wireless Network Scenarios", proc. of Fifth Workshop on Intelligent Networks: Adaptation, Communication & Reconfiguration (IAMCOM 2011), 5 January 2011, Bangalore, India.
+6. A Mukhopadhyay, T Chakraborty, **S Bhunia**, I S Misra, S K Sanyal, "Study of Enhanced VoIP Performance underÂ Congested Wireless Network Scenarios", proc. of Fifth Workshop on Intelligent Networks: Adaptation, Communication & Reconfiguration (IAMCOM 2011), 5 January 2011, Bangalore, India. [{{pdfsign}}](manuscripts/iamcom11.pdf)
 
-5. A Mukhopadhyay, T Chakraborty, **S Bhunia**, I S Misra, S K Sanyal, "An Adaptive Jitter Buffer Playout Algorithm for Enhanced VoIP Performance", in proc. of The First International Conference on Advances in Computing and Information Technology (ACITY 2011), 15-17 July 2011, Chennai, India.
+5. A Mukhopadhyay, T Chakraborty, **S Bhunia**, I S Misra, S K Sanyal, "An Adaptive Jitter Buffer Playout Algorithm for Enhanced VoIP Performance", in proc. of The First International Conference on Advances in Computing and Information Technology (ACITY 2011), 15-17 July 2011, Chennai, India.[{{pdfsign}}](manuscripts/acity11.pdf)
 
-4. T Chakraborty, A Mukhopadhyay, **S Bhunia**, I S Misra, S K Sanyal, "Otimizing VoIP Call in Diverse Network Scenarios using State-Space Search Technique", Proc. of The First International Conference on Advances in Computing and Information Technology (ACITY 2011), 15-17 July 2011, Chennai, India.
 
-3. A Kundu, **S Bhunia**, I S Misra, S K Sanyal, "Comparison of VoIP Performance over WiMAX, WLAN and WiMAX-WLAN Integrated Network using OPNET", Recent trends in Networks and Communications, Communications in Computer and Information Science, 2010, Vol 90, part 2, pp 316-325, Second International Conference on Wireless and Mobile Networks, August 2010, Chennai, India.
+4. T Chakraborty, A Mukhopadhyay, **S Bhunia**, I S Misra, S K Sanyal, "Otimizing VoIP Call in Diverse Network Scenarios using State-Space Search Technique", Proc. of The First International Conference on Advances in Computing and Information Technology (ACITY 2011), 15-17 July 2011, Chennai, India. [{{pdfsign}}](manuscripts/acity11_t.pdf)
 
-2. **S Bhunia**, A Kundu, I S Misra, S K Sanyal, "Reducing Hand-Off Latency in WiMAX Network Using Cross Layer Information", proc. of International Conference on Advances in Computer Engineering (ACE)-2010, pp.346-348,20-21 June 2010, Bangalore, India.
 
-1. A Kundu, **S Bhunia**, "Study of OPNET and performance evaluation ofÂ WiMAX network under various terrain conditions in OPNET", proc. of National Conference on Microwave and Communication NCMicroCom-2010, February 2010.
+3. A Kundu, **S Bhunia**, I S Misra, S K Sanyal, "Comparison of VoIP Performance over WiMAX, WLAN and WiMAX-WLAN Integrated Network using OPNET", Recent trends in Networks and Communications, Communications in Computer and Information Science, 2010, Vol 90, part 2, pp 316-325, Second International Conference on Wireless and Mobile Networks, August 2010, Chennai, India. [{{pdfsign}}](manuscripts/wimon10.pdf)
+
+
+2. **S Bhunia**, A Kundu, I S Misra, S K Sanyal, "Reducing Hand-Off Latency in WiMAX Network Using Cross Layer Information", proc. of International Conference on Advances in Computer Engineering (ACE)-2010, pp.346-348,20-21 June 2010, Bangalore, India. [{{pdfsign}}](manuscripts/ace10.pdf)
+
+1. A Kundu, **S Bhunia**, "Study of OPNET and performance evaluation ofÂ WiMAX network under various terrain conditions in OPNET", proc. of National Conference on Microwave and Communication NCMicroCom-2010, February 2010. 
 
 ### Invited Article
 1. **S. Bhunia** and S. Sengupta, "Feasibility of Channel Hopping in Jamming Attack", IEEE TCSIM Newsletter, Quarterly Newsletter, issue 19, pp. 2-5, 2013. [{{pdfsign}}](manuscripts/tccsim.pdf)
@@ -60,10 +64,7 @@ date: 2014-10-19 23:51
 7. Wireless Communications and Mobile Computing (Wiley)
 8. International Journal of Distributed Sensor Networks (Hindawi)
 
-[1]: http://www.cse.unr.edu/~bhunias/wp-content/themes/bhunias/images/potrait2.jpg
-[2]: http://www.sciencedirect.com/science/article/pii/S1574119215000784
+
 [3]: http://globecom2015.ieee-globecom.org/
 [4]: www.milcom.org
-[4]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6692397&isnumber=6691970
 
-[5]: http://onlinelibrary.wiley.com/doi/10.1002/dac.1217/epdf
