@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: |
-<a href="https://scholar.google.com/citations?user=KvvkHMIAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar Profile</a>
+subtitle: Google Scholar Profile
 date: 2014-10-19 23:51
 ---
 {% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
