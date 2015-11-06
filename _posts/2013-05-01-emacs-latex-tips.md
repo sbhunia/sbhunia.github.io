@@ -11,7 +11,7 @@ Working with latex is sometimes very painful because of several packages to be i
 ### Formatting Table:
 I use tabularx package for building table. The advantage with this is, I don't have to think of table width. if I line in cell exceeds the width of that column, then tabularx package wrap that particular cell to fit into the table width. My default code for table is given below
 
-```
+```latex
 \usepackage{tabularx}
 \begin{table}
   \centering
@@ -27,7 +27,7 @@ I use tabularx package for building table. The advantage with this is, I don't h
 ### Including Graphics:
 It is always preferred to use vector graphics instead of raster graphics. Details of importing figure using `graphicx` package can be found in [wiki](http://en.wikibooks.org/wiki/LaTeX/Importing_Graphics). pdflatex (default compiler for latex in linux) can not compile eps files into pdf. It can only include pdf, jpg, png, gif etc. To include eps files, I have included the package `epstopdf` in the header. epstopdf must be installed in the system.
 
-```
+```latex
     \usepackage{graphicx}
     \usepackage{epstopdf}
 
