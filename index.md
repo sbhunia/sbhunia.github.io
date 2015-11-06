@@ -56,14 +56,14 @@ ___________________________________
 ----------------------------------
 
 ### Latest Updates:
-- [Sep'15]  Won a travel grant for IEEE MILCOM 2015
-- [Aug'15]  Served as session Chair at IEEE CSS 2015 track: Active Defense Techniques and Systems 
-- [Jul'15]  One paper got accepted at MILCOM 2015, Tampa, Florida
-- [Jun'15]  One paper has been accepted at IEEE CSS 2015, New York, USA
-- [Apr'15]  Won Outstanding International Graduate Student award from UNR-GSA
-- [Apr'15]  One paper has been accepted at Elsevier Pervasive and Mobile Computing
-- [Oct'14]  Presented a paper at 2014 IEEE MILCOM, Baltimore, Maryland, USA.
-- [Sep'14]  Won a travel grant for 2014 IEEE MILCOM
+- `[Sep'15]`  Won a travel grant for IEEE MILCOM 2015
+- `[Aug'15]`  Served as session Chair at IEEE CSS 2015 track: Active Defense Techniques and Systems 
+- `[Jul'15]`  One paper got accepted at MILCOM 2015, Tampa, Florida
+- `[Jun'15]`  One paper has been accepted at IEEE CSS 2015, New York, USA
+- `[Apr'15]`  Won Outstanding International Graduate Student award from UNR-GSA
+- `[Apr'15]`  One paper has been accepted at Elsevier Pervasive and Mobile Computing
+- `[Oct'14]`  Presented a paper at 2014 IEEE MILCOM, Baltimore, Maryland, USA.
+- `[Sep'14]`  Won a travel grant for 2014 IEEE MILCOM
 
 ----------------------------------
 
