@@ -6,8 +6,8 @@ date: 2014-10-19 23:51
 {% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
 {% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
 
-<div style="text-align:center;" markdown="true">
-  [Google Scholar Profile](https://scholar.google.com/citations?user=KvvkHMIAAAAJ&hl=en&oi=ao)
+<div style="text-align:center;">
+  <a href="https://scholar.google.com/citations?user=KvvkHMIAAAAJ&hl=en&oi=ao">Google Scholar Profile</a>
 </div>
 
 ### Journal Paper Publication
