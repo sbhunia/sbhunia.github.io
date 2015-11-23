@@ -46,6 +46,7 @@ I have finished my Bachelor of Technology degree in Electronics and Communicatio
 ----------------------------------
 
 ### Other Activities:
+- Elected as Chair for Club funding commitee of GSA-UNR
 - Elected College of Engineering Representative, Graduate Student Association, UNR
 - Elected Vice President, Computer Science Graduate Student Club, UNR
 - Elected Vice President, Indian Student Organization, UNR
