@@ -10,7 +10,7 @@ date: 2014-10-19 23:51
   <a href="https://scholar.google.com/citations?user=KvvkHMIAAAAJ&hl=en&oi=ao">Google Scholar Profile</a>
 </div>
 
-### Journal Paper Publication
+### Journal Papers 
 
 6. **S Bhunia**, V Behzadan, P A Regis and S Sengupta, "Adaptive Beam Nulling in Multihop Ad Hoc Networks Against Jammer in Motion", submitted to Elsevier Future Generation Computer Systems.
 
@@ -25,7 +25,7 @@ date: 2014-10-19 23:51
 
 1. A Kundu, I S Misra, S K Sanyal, **Suman Bhunia**, "VoIP Performance Over Broadband Wireless Networks Under Static and Mobile Environments", International Journal of Wireless & Mobile Networks (IJWMN), pp.82-93, Vol.2, No.4, November 2010. [{{pdfsign}}](manuscripts/ijwmn10.pdf)
 
-### Conference proceedings Publication
+### Conference proceedings
 
 1. **S Bhunia**, V Behzadan and S Sengupta, "Enhancement of Spectrum Utilization in Non-Contiguous DSA with Online Defragmentation", proc. of IEEE MILCOM 2015, Tampa, Florida.  [{{pdfsign}}](manuscripts/milcom15.pdf)  [{{pptsign}}](manuscripts/milcom15.pptx)
 
@@ -56,7 +56,7 @@ date: 2014-10-19 23:51
 
 1. A Kundu, **S Bhunia**, "Study of OPNET and performance evaluation ofÂ WiMAX network under various terrain conditions in OPNET", proc. of National Conference on Microwave and Communication NCMicroCom-2010, February 2010. [{{pdfsign}}](manuscripts/ncmicrocom.pdf) [{{pptsign}}](manuscripts/ncmicrocom.ppt)
 
-### Invited Article
+### Invited Articles
 1. **S. Bhunia** and S. Sengupta, "Feasibility of Channel Hopping in Jamming Attack", IEEE TCSIM Newsletter, Quarterly Newsletter, issue 19, pp. 2-5, 2013. [{{pdfsign}}](manuscripts/tccsim.pdf)
 
 
