@@ -5,6 +5,8 @@ date: 2014-10-19 23:51
 ---
 {% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
 {% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
+{% assign link = '<i class="fa fa-link"></i>'%}
+
 
 <div style="text-align:center;">
   <a href="https://scholar.google.com/citations?user=KvvkHMIAAAAJ&hl=en&oi=ao">Google Scholar Profile</a>
@@ -16,7 +18,7 @@ date: 2014-10-19 23:51
 
 5. S Mneimneh, **S Bhunia**, F Vazquez-Abad and S Sengupta, "A Game-Theoretic and Stochastic Survivability Mechanism against Induced Attacks in Cognitive Radio Networks", revised manuscript submitted to  IEEE Transactions on Cognitive Communications and Networking.
 
-4. **S Bhunia**, S Sengupta and F Vazquez-Abad, "Performance Analysis of CR-Honeynet to prevent Jamming Attack through Stochastic Modeling", To appear in Elsevier Pervasive and Mobile Computing, doi:10.1016/j.pmcj.2015.04.004.[{{pdfsign}}](manuscripts/pmc15.pdf)
+4. **S Bhunia**, S Sengupta and F Vazquez-Abad, "Performance Analysis of CR-Honeynet to prevent Jamming Attack through Stochastic Modeling", To appear in Elsevier Pervasive and Mobile Computing, doi:10.1016/j.pmcj.2015.04.004.[{{pdfsign}}](manuscripts/pmc15.pdf) [{{link}}](http://www.sciencedirect.com/science/article/pii/S1574119215000784)
 
 3. T Chakraborty, A Mukhopadhyay, **S Bhunia**, I S Misra, S K Sanyal, "An Optimization Technique for Improved VoIP Performance over Wireless LAN", Journal of Networks, Vol-7, Issus-3, 2012, pp. 480-493. [{{pdfsign}}](manuscripts/jon12.pdf)
 
