@@ -14,9 +14,9 @@ date: 2014-10-19 23:51
 
 ### Journal Papers 
 
-6. **S Bhunia**, V Behzadan, P A Regis and S Sengupta, "Adaptive Beam Nulling in Multihop Ad Hoc Networks Against Jammer in Motion", submitted to Elsevier Future Generation Computer Systems.
+6. **S Bhunia**, V Behzadan, P A Regis and S Sengupta, "Adaptive Beam Nulling in Multihop Ad Hoc Networks Against Jammer in Motion", revised manuscript submitted to Elsevier Future Generation Computer Systems.
 
-5. S Mneimneh, **S Bhunia**, F Vazquez-Abad and S Sengupta, "A Game-Theoretic and Stochastic Survivability Mechanism against Induced Attacks in Cognitive Radio Networks", revised manuscript submitted to  IEEE Transactions on Cognitive Communications and Networking.
+5. S Mneimneh, **S Bhunia**, F Vazquez-Abad and S Sengupta, "A Game-Theoretic and Stochastic Survivability Mechanism against Induced Attacks in Cognitive Radio Networks", submitted to Elsevier Pervasive and Mobile Computing.
 
 4. **S Bhunia**, S Sengupta and F Vazquez-Abad, "Performance Analysis of CR-Honeynet to prevent Jamming Attack through Stochastic Modeling", Elsevier Pervasive and Mobile Computing, Volume 21, August 2015, Pages 133–149. doi:[10.1016/j.pmcj.2015.04.004](http://www.sciencedirect.com/science/article/pii/S1574119215000784).[{{pdfsign}}](manuscripts/pmc15.pdf)
 
@@ -70,6 +70,9 @@ date: 2014-10-19 23:51
 1. ISCIT `2012`
 1. IEEE WoWMoM `2014`
 1. Computer Communications (Elsevier)
+2. Physical Communication (Elsevier)
+3. Pervasive and Mobile Computing (Elsevier)
+4. Future Generation Computer Systems (Elsevier)
 1. International Journal of Communication Systems (Wiley)
 1. Wireless Communications and Mobile Computing (Wiley)
 1. International Journal of Distributed Sensor Networks (Hindawi)
