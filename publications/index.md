@@ -70,9 +70,9 @@ date: 2014-10-19 23:51
 1. ISCIT `2012`
 1. IEEE WoWMoM `2014`
 1. Computer Communications (Elsevier)
-2. Physical Communication (Elsevier)
-3. Pervasive and Mobile Computing (Elsevier)
-4. Future Generation Computer Systems (Elsevier)
+1. Physical Communication (Elsevier)
+1. Pervasive and Mobile Computing (Elsevier)
+1. Future Generation Computer Systems (Elsevier)
 1. International Journal of Communication Systems (Wiley)
 1. Wireless Communications and Mobile Computing (Wiley)
 1. International Journal of Distributed Sensor Networks (Hindawi)
