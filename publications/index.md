@@ -68,7 +68,7 @@ date: 2014-10-19 23:51
 1. IEEE ICC `2014`, `2016`
 1. IEEE MILCOM `2012`, `2013`, `2014`
 1. ISCIT `2012`
-1. IEEE WoWMoM `2014`
+1. IEEE WoWMoM `2014`, `2016`
 1. Computer Communications (Elsevier)
 1. Physical Communication (Elsevier)
 1. Pervasive and Mobile Computing (Elsevier)
