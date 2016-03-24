@@ -59,6 +59,10 @@ date: 2014-10-19 23:51
 
 1. A Kundu, **S Bhunia**, "Study of OPNET and performance evaluation of WiMAX network under various terrain conditions in OPNET", proc. of National Conference on Microwave and Communication NCMicroCom-2010, February 2010. [{{pdfsign}}](manuscripts/ncmicrocom.pdf) [{{pptsign}}](manuscripts/ncmicrocom.ppt)
 
+### Thesis
+- "Performance Evaluation of WiMax Network in Aspect of Modulation and Coding Schemes and Hand-off using Opnet", Master's Thesis at Jadavpur University
+
+
 ### Invited Articles
 1. **S. Bhunia** and S. Sengupta, "Feasibility of Channel Hopping in Jamming Attack", IEEE TCSIM Newsletter, Quarterly Newsletter, issue 19, pp. 2-5, 2013. [{{pdfsign}}](manuscripts/tccsim.pdf)
 
