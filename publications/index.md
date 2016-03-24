@@ -57,7 +57,7 @@ date: 2014-10-19 23:51
 
 1. **S Bhunia**, A Kundu, I S Misra, S K Sanyal, "Reducing Hand-Off Latency in WiMAX Network Using Cross Layer Information", proc. of International Conference on Advances in Computer Engineering (ACE)-2010, pp.346-348,20-21 June 2010, Bangalore, India. [{{pdfsign}}](manuscripts/ace10.pdf) [{{pptsign}}](manuscripts/ace10.ppt)
 
-1. A Kundu, **S Bhunia**, "Study of OPNET and performance evaluation ofÂ WiMAX network under various terrain conditions in OPNET", proc. of National Conference on Microwave and Communication NCMicroCom-2010, February 2010. [{{pdfsign}}](manuscripts/ncmicrocom.pdf) [{{pptsign}}](manuscripts/ncmicrocom.ppt)
+1. A Kundu, **S Bhunia**, "Study of OPNET and performance evaluation of WiMAX network under various terrain conditions in OPNET", proc. of National Conference on Microwave and Communication NCMicroCom-2010, February 2010. [{{pdfsign}}](manuscripts/ncmicrocom.pdf) [{{pptsign}}](manuscripts/ncmicrocom.ppt)
 
 ### Invited Articles
 1. **S. Bhunia** and S. Sengupta, "Feasibility of Channel Hopping in Jamming Attack", IEEE TCSIM Newsletter, Quarterly Newsletter, issue 19, pp. 2-5, 2013. [{{pdfsign}}](manuscripts/tccsim.pdf)
