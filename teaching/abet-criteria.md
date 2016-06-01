@@ -6,7 +6,7 @@
 ####  Course Outcomes:
   The course outcomes are skills and abilities students should have acquired by the end of the course. These outcomes are defined in terms of the ABET Accreditation Criterion 3 Program Outcomes which are relevant to this course. All Criterion 3 Program Outcomes are listed in the next subsection and those relevant to this course are identified in the following table.
 
-{: .table .table-striped .table-bordered .table-condensed}
+{: .table .table-striped .table-bordered .table-condensed .table-responsive}
 | Program Outcomes | Course Outcomes | Assessment Methods/Metrics | Program Objectives Impact |
 |:----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|:---------------------------:|
 | 1                | Students will identify the logical requirements of a given problem, be able to evaluate and optimize the logical requirements, and then design a circuit to execute the logical condition. | Individual demonstration of competence in class quizzes and exams, and in laboratory activities. | 2, 3                        |
