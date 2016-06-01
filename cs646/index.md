@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CS 646
+title: Homepage For CS 646 at UNR
 date: 2016-06-01 23:51
 ---
 
-# Homepage for CSE 446 Course
+### todo
