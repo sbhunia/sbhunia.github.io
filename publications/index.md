@@ -59,6 +59,11 @@ date: 2014-10-19 23:51
 
 1. A Kundu, **S Bhunia**, "Study of OPNET and performance evaluation of WiMAX network under various terrain conditions in OPNET", proc. of National Conference on Microwave and Communication NCMicroCom-2010, February 2010. [{{pdfsign}}](manuscripts/ncmicrocom.pdf) [{{pptsign}}](manuscripts/ncmicrocom.ppt)
 
+### Patent Invention Disclosure
+**S. Bhunia**, M. R. Khan, S. Sengupta, and M. Yuksel. In-Band Line-of-Sight Discovery for Directional Full-Duplex Transceivers, U.S. Provisional Patent Application 62/338,953.
+
+
+
 ### Thesis
 - "Performance Evaluation of WiMax Network in Aspect of Modulation and Coding Schemes and Hand-off using Opnet", Master's Thesis at Jadavpur University
 
