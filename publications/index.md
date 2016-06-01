@@ -65,7 +65,7 @@ date: 2014-10-19 23:51
 
 
 ### Thesis
-- "Performance Evaluation of WiMax Network in Aspect of Modulation and Coding Schemes and Hand-off using Opnet", Master's Thesis at Jadavpur University
+- "Performance Evaluation of WiMax Network in Aspect of Modulation and Coding Schemes and Hand-off using Opnet", Master's Thesis at Jadavpur University. [{{pdfsign}}](manuscripts/thesis_mtech.pdf)
 
 
 ### Invited Articles
