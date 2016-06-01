@@ -9,7 +9,7 @@ date: 2015-09-12 23:51
 <div class='row'>
   <div class=" blog-short col-md-12" >
     <div class='row' >
-      <h4 style='color:#002e62'>{{item.title}}</h4>
+      <h3>{{item.title}}</h3>
       <div class='col-md-4 col-xs-12'>
         <img class='img-responsive' src='{{item.img}}'>
       </div>
