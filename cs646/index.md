@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-date: 2015-09-12 23:51
+title: CS 646
+date: 2016-06-01 23:51
 ---
 
 # Homepage for CSE 446 Course
