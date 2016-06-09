@@ -15,6 +15,7 @@ date: 2015-09-12 23:51
       </div>
       <div class='col-xs-12 col-md-8'>
         {{item.desc}}
+        <a class="pull-right marginBottom10" href="{{item.link}}">Read More</a>
       </div>
     </div>
   </div>
