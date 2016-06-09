@@ -11,3 +11,24 @@ amet pharetra urna. Cras ut tempus elit, quis suscipit est. Fusce eu sodales lor
 Quisque ante ligula, cursus mattis nisi ut, pulvinar ultrices ante. Nunc at leo commodo, 
 cursus odio nec, pellentesque diam. Donec posuere bibendum elit eget facilisis. Phasellus quis mauris tristique, 
 sodales ante in, ullamcorper metus.
+
+
+<div class="row">
+  
+  <div class="col-md-6">
+    <iframe width="100%" src="https://www.youtube.com/embed/cbP2N1BQdYc" frameborder="0" allowfullscreen=""></iframe>
+  </div>
+  <div class="col-md-6">
+    <iframe width="100%" src="https://www.youtube.com/embed/cbP2N1BQdYc" frameborder="0" allowfullscreen=""></iframe>
+  </div>
+</div>
+
+<div class="row">
+  
+  <div class="col-md-6">
+    <iframe width="100%" src="https://www.youtube.com/embed/cbP2N1BQdYc" frameborder="0" allowfullscreen=""></iframe>
+  </div>
+  <div class="col-md-6">
+    <iframe width="100%" src="https://www.youtube.com/embed/cbP2N1BQdYc" frameborder="0" allowfullscreen=""></iframe>
+  </div>
+</div>
