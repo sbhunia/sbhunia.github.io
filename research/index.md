@@ -11,7 +11,7 @@ date: 2015-09-12 23:51
     <div class='row' >
       <h3>{{item.title}}</h3>
       <div class='col-md-4 col-xs-12'>
-        <img class='img-responsive' src='{{item.img}}'>
+        <a href="{{item.link}}"><img class='img-responsive' src='{{item.img}}'> </a>
       </div>
       <div class='col-xs-12 col-md-8'>
         {{item.desc}}
