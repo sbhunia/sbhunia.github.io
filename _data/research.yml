@@ -26,6 +26,9 @@
 - title: Neighbor Discovery for Directional Tranceivers
   img: "images/network.png"
   desc:
+- title: 3D Obstacle Compliant Mobility Models for UAV networks in ns-3
+  img:
+  desc:
 - title: Enhance Performance of Voice Service for Congested Network
   img:
   desc:
