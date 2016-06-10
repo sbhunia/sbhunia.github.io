@@ -11,27 +11,29 @@
   link: "/research/honeynet"
 - title: Mitigate Jamming using Adaptive Beamforming Antenna
   img: "images/multi_hop_routing_3d.png"
-  desc: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo, 
-    augue non luctus lacinia, urna felis lacinia ipsum, at scelerisque felis elit 
-    vel justo. Pellentesque nec nulla at metus fermentum cursus. Phasellus sit
-    amet pharetra urna. Cras ut tempus elit, quis suscipit est. Fusce eu sodales lorem. 
-    Quisque ante ligula, cursus mattis nisi ut, pulvinar ultrices ante. Nunc at leo commodo, 
-    cursus odio nec, pellentesque diam. Donec posuere bibendum elit eget facilisis. Phasellus quis mauris tristique, 
-    sodales ante in, ullamcorper metus.
+  desc: 
   link:  "/research/beamnulling"
+- title: Coexistence between LTE and WiFi
+  img:  
+  desc: 
+  link: "/research/lte_wifi"
 - title: Frequency Agile Radio Testbed
   img: "images/dsa.png"
   desc:
+  link: 
 - title: Neighbor Discovery for Directional Tranceivers
   img: "images/network.png"
   desc:
+  link: 
 - title:  3D Obstacle Compliant Mobility Models for UAV networks in ns-3
   img:  "images/uav_mesh_3d_ns3.svg"
   desc:
+  link: 
 - title: Enhance Performance of Voice Service for Congested Network
   img:
   desc:
+  link: 
 - title: Evaluate Performance of WiMAX
   img:
   desc:
+  link: "/research/wimax/"
