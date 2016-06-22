@@ -14,7 +14,7 @@ date: 2014-10-19 23:51
 
 ### Journal Papers 
 
-6. **S Bhunia**, V Behzadan, P A Regis and S Sengupta, "Adaptive Beam Nulling in Multihop Ad Hoc Networks Against Jammer in Motion", accepted in Elsevier Computer Networks.
+6. **S Bhunia**, V Behzadan, P A Regis and S Sengupta, "Adaptive Beam Nulling in Multihop Ad Hoc Networks Against Jammer in Motion", To appear in Elsevier Computer Networks.
 
 5. S Mneimneh, **S Bhunia**, F Vazquez-Abad and S Sengupta, "A Game-Theoretic and Stochastic Survivability Mechanism against Induced Attacks in Cognitive Radio Networks", submitted to Elsevier Pervasive and Mobile Computing.
 
