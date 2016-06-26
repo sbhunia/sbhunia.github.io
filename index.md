@@ -8,7 +8,7 @@ date: 2014-10-19 23:51
   <div class="row">
   <div class="col-xs-12 col-sm-3 text-center">
     <figure>
-      <img src="/assets/images/protrait_3.png" alt="protrait" class=" img-responsive">
+      <img src="/assets/images/protrait_3.jpg" alt="protrait" class=" img-responsive">
     </figure>
   </div>
     <div class="col-sm-9">
