@@ -28,7 +28,8 @@ date: 2014-10-19 23:51
 1. A Kundu, I S Misra, S K Sanyal, **Suman Bhunia**, "VoIP Performance Over Broadband Wireless Networks Under Static and Mobile Environments", International Journal of Wireless & Mobile Networks (IJWMN), pp.82-93, Vol.2, No.4, November 2010. [{{pdfsign}}](manuscripts/ijwmn10.pdf)
 
 ### Conference proceedings
-1. P A Regis, **S Bhunia** and S Sengupta, "Implementation of 3D Obstacle Compliant Mobility Models for UAV networks in ns-3", proc. of The Workshop on ns-3 (WNS3), 2016, Seattle, Washington
+
+1. P A Regis, **S Bhunia** and S Sengupta, "Implementation of 3D Obstacle Compliant Mobility Models for UAV networks in ns-3", proc. of The Workshop on ns-3 (WNS3), 2016, Seattle, Washington. [{{pdfsign}}](manuscripts/wns3_16.pdf)  [{{pptsign}}](manuscripts/wns3_16.pptx)
 
 1. **S Bhunia**, V Behzadan and S Sengupta, "Enhancement of Spectrum Utilization in Non-Contiguous DSA with Online Defragmentation", proc. of IEEE MILCOM 2015, Tampa, Florida.  [{{pdfsign}}](manuscripts/milcom15.pdf)  [{{pptsign}}](manuscripts/milcom15.pptx)
 
