@@ -14,11 +14,11 @@ date: 2014-10-19 23:51
 
 ### Journal Papers 
 
-6. **S Bhunia**, V Behzadan, P A Regis and S Sengupta, "Adaptive Beam Nulling in Multihop Ad Hoc Networks Against a Jammer in Motion", To appear in Elsevier Computer Networks. [{{pdfsign}}](manuscripts/comnet_16.pdf)
+6. **S Bhunia**, V Behzadan, P A Regis and S Sengupta, "Adaptive Beam Nulling in Multihop Ad Hoc Networks Against a Jammer in Motion", To appear in Elsevier Computer Networks. DOI: 10.1016/j.comnet.2016.06.030 [{{pdfsign}}](manuscripts/comnet_16.pdf)
 
 5. S Mneimneh, **S Bhunia**, F Vazquez-Abad and S Sengupta, "A Game-Theoretic and Stochastic Survivability Mechanism against Induced Attacks in Cognitive Radio Networks", submitted to Elsevier Pervasive and Mobile Computing.
 
-4. **S Bhunia**, S Sengupta and F Vazquez-Abad, "Performance Analysis of CR-Honeynet to prevent Jamming Attack through Stochastic Modeling", Elsevier Pervasive and Mobile Computing, Volume 21, August 2015, Pages 133–149. doi:[10.1016/j.pmcj.2015.04.004](http://www.sciencedirect.com/science/article/pii/S1574119215000784).[{{pdfsign}}](manuscripts/pmc15.pdf)
+4. **S Bhunia**, S Sengupta and F Vazquez-Abad, "Performance Analysis of CR-Honeynet to prevent Jamming Attack through Stochastic Modeling", Elsevier Pervasive and Mobile Computing, Volume 21, August 2015, Pages 133–149. DOI:[10.1016/j.pmcj.2015.04.004](http://www.sciencedirect.com/science/article/pii/S1574119215000784).[{{pdfsign}}](manuscripts/pmc15.pdf)
 
 3. T Chakraborty, A Mukhopadhyay, **S Bhunia**, I S Misra, S K Sanyal, "An Optimization Technique for Improved VoIP Performance over Wireless LAN", Journal of Networks, Vol-7, Issus-3, 2012, pp. 480-493. [{{pdfsign}}](manuscripts/jon12.pdf)
 
