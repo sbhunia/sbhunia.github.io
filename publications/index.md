@@ -29,6 +29,10 @@ date: 2014-10-19 23:51
 
 ### Conference proceedings
 
+1. **S Bhunia**, M Khan, S Sengupta and M Yuksel, "LOS Discovery for Highly Directional Full Duplex RF/FSO Transceivers", to appear in IEEE MILCOM 2016, Baltimore, Maryland. [{{pdfsign}}](manuscripts/milcom_16_2d.pdf)
+
+1. M Khan, **S Bhunia**, M Yuksel and S Sengupta, "LOS Discovery in 3D for Highly Directional Transceivers", to appear in IEEE MILCOM 2016, Baltimore, Maryland. [{{pdfsign}}](manuscripts/milcom_16_3d.pdf)
+
 1. P A Regis, **S Bhunia** and S Sengupta, "Implementation of 3D Obstacle Compliant Mobility Models for UAV networks in ns-3", proc. of The Workshop on ns-3 (WNS3), 2016, Seattle, Washington.  [{{pdfsign}}](manuscripts/wns3_16.pdf)  [{{pptsign}}](manuscripts/wns3_16.pptx)
 
 1. **S Bhunia**, V Behzadan and S Sengupta, "Enhancement of Spectrum Utilization in Non-Contiguous DSA with Online Defragmentation", proc. of IEEE MILCOM 2015, Tampa, Florida.  [{{pdfsign}}](manuscripts/milcom15.pdf)  [{{pptsign}}](manuscripts/milcom15.pptx)
