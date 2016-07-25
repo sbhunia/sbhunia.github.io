@@ -20,6 +20,6 @@ date: 2014-10-19 23:51
 ### Prototype
 
 ### Publications
-1. **S Bhunia**, M Khan, S Sengupta and M Yuksel, "LOS Discovery for Highly Directional Full Duplex RF/FSO Transceivers", to appear in IEEE MILCOM 2016, Baltimore, Maryland. [{{pdfsign}}](/publicationsmanuscripts/milcom_16_2d.pdf)
+1. **S Bhunia**, M Khan, S Sengupta and M Yuksel, "LOS Discovery for Highly Directional Full Duplex RF/FSO Transceivers", to appear in IEEE MILCOM 2016, Baltimore, Maryland. [{{pdfsign}}](/publications/manuscripts/milcom_16_2d.pdf)
 
-1. M Khan, **S Bhunia**, M Yuksel and S Sengupta, "LOS Discovery in 3D for Highly Directional Transceivers", to appear in IEEE MILCOM 2016, Baltimore, Maryland. [{{pdfsign}}](publications/manuscripts/milcom_16_3d.pdf)
+1. M Khan, **S Bhunia**, M Yuksel and S Sengupta, "LOS Discovery in 3D for Highly Directional Transceivers", to appear in IEEE MILCOM 2016, Baltimore, Maryland. [{{pdfsign}}](/publications/manuscripts/milcom_16_3d.pdf)
