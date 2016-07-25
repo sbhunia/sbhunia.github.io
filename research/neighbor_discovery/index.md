@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-date: 2014-10-19 23:51
+title: Neighbor Discovery for Directional Tranceivers
+date: 2016-07-25 23:51
 ---
 {% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
 {% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
