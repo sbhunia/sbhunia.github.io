@@ -5,15 +5,16 @@ date: 2014-10-19 23:51
 ---
 {% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
 {% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
-{% assign link = '<i class="fa fa-link"></i>'%}
+
 
 
 ### Problem Statement and Motivation
 
 
-### Collaborators
-- Murat Yuksel (University of Central Florida)
-- Shamik Sengupta (University of Nevada, Reno)
+### People
+- [Murat Yuksel](https://www.cse.unr.edu/~yuksem/) (University of Central Florida)
+- [Shamik Sengupta](https://www.cse.unr.edu/~shamik/) (University of Nevada, Reno)
+- [Suman Bhunia](http://www.sbhunia.me) (University of Nevada, Reno)
 - Mahmudur Khan (University of Central Florida)
 
 
