@@ -11,6 +11,12 @@ date: 2014-10-19 23:51
 ### Problem Statement and Motivation
 
 
+### Collaborators
+- Murat Yuksel (University of Central Florida)
+- Shamik Sengupta (University of Nevada, Reno)
+- Mahmudur Khan (University of Central Florida)
+
+
 ### Prototype
 
 ### Publications
