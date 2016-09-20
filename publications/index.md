@@ -29,7 +29,7 @@ date: 2014-10-19 23:51
 
 ### Conference proceedings
 
-1. **S Bhunia** and S Sengupta, "Distributed Adaptive Beam Nulling to Mitigate Jamming in {3D} {UAV} Mesh
+1. **S Bhunia** and S Sengupta, "Distributed Adaptive Beam Nulling to Mitigate Jamming in 3D UAV Mesh
 Networks", to appear in International Conference on Computing, Networking and Communications (ICNC) 2017, Silicon Valley, USA, [{{pdfsign}}](manuscripts/icnc17_beamnull.pdf)
 
 1. P A Regis, **S Bhunia** and S Sengupta, "Enhancing Performance and Longevity of Multi-radio Multi-channel HetNets through Dynamic Path-assignment", to appear in International Conference on Computing, Networking and Communications (ICNC) 2017, Silicon Valley, USA, [{{pdfsign}}](manuscripts/icnc17_path.pdf)
