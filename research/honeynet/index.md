@@ -28,6 +28,10 @@ queuing model for CRNs, which pose unique modeling challenges, due to their fixe
  series of strategies for honeynode selection to combat these attacks while
  keeping the CRN’s performance optimal for different traffic scenarios.
 
+### People
+  - [Suman Bhunia](http://www.sbhunia.me) (University of Nevada, Reno)
+  - [Shamik Sengupta](https://www.cse.unr.edu/~shamik/) (University of Nevada, Reno)
+  - [Felisa Vazquez-Abad](http://www.compsci.hunter.cuny.edu/~felisav) (Hunter College of City University of New York)
 
 
 ### Publications
