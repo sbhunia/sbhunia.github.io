@@ -33,7 +33,7 @@
     of the communication link or neighbor discovery plays a significant role in mobile ad hoc networks
     with RF/FSO directional transceivers. In this project, we design protocols for discovering LOS
     of a neighbor for both in-band and out-of-band cases.
-  link: "http://sbhunia.me/research/neighbor_discovery"
+  link: "/research/neighbor_discovery"
 - title: Coexistence between LTE and WiFi
   img:
   desc:
