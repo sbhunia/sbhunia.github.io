@@ -1,47 +1,59 @@
 - title: Sustainance against Jamming using Honeynet in Cognitive Radio Network
   img: "images/cahannel_allocation.jpg"
   desc: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo, 
-    augue non luctus lacinia, urna felis lacinia ipsum, at scelerisque felis elit 
-    vel justo. Pellentesque nec nulla at metus fermentum cursus. Phasellus sit
-    amet pharetra urna. Cras ut tempus elit, quis suscipit est. Fusce eu sodales lorem. 
-    Quisque ante ligula, cursus mattis nisi ut, pulvinar ultrices ante. Nunc at leo commodo, 
-    cursus odio nec, pellentesque diam. Donec posuere bibendum elit eget facilisis. Phasellus quis mauris tristique, 
-    sodales ante in, ullamcorper metus.
+    Open and dynamic spectrum access model brings forth a serious challenge of sustenance among the CRN
+    and makes them more susceptible to jamming-based denial of service (DoS) attacks. Inspired by
+    honeypot in the network security, we propose a honeynet based defense mechanism called CR-honeynet.
+    CR-honeynet aims to avoid attacks on legitimate communications by dedicating a Secondary User (SU) as a honeynode,
+    to deter the attacker from attacking legitimate SUs and attack the honeynode instead.
   link: "/research/honeynet"
 - title: Mitigate Jamming using Adaptive Beamforming Antenna
   img: "images/multi_hop_routing_3d.png"
-  desc: 
+  desc: |
+    In multihop ad hoc networks, a jammer can drastically disrupt the flow of
+    information by intentionally interfering with links between a subset of nodes.
+    The impact of such attacks can escalate when the jammer is moving. As a countermeasure for
+    such attacks, adaptive beam-forming techniques can be employed for spatial filtering of the
+    jamming signal. This paper investigates the performance of adaptive beam nulling
+     as a mitigation technique against jamming attacks in multihop ad hoc networks.
+     Considering a moving jammer, a distributed beam nulling framework is proposed.
   link:  "/research/beamnulling"
 - title: Frequency Agile Radio Testbed
   img: "images/dsa.png"
   desc:
-  link: 
+  link:
 - title: Neighbor Discovery for Directional Tranceivers
   img: "images/network.png"
   desc: |
-    Directional  Radio  Frequency  (RF)  /  Free-Space Optical (FSO) transceivers have the potential 
-    to play a significant role in  future generation  wireless networks.  They are  advantageous in  
-    terms of  improved spectrum  utilization,  higher data transfer rate,  and lower  probability of 
-    interception  from unwanted sources. Despite these advantages, communications using directional 
-    transceivers require  establishment and  maintenance of line-of-sight (LOS). Thus, the establishment 
-    of the communication link or neighbor discovery plays a significant role in mobile ad hoc networks 
+    Directional  Radio  Frequency  (RF)  /  Free-Space Optical (FSO) transceivers have the potential
+    to play a significant role in  future generation  wireless networks.  They are  advantageous in
+    terms of  improved spectrum  utilization,  higher data transfer rate,  and lower  probability of
+    interception  from unwanted sources. Despite these advantages, communications using directional
+    transceivers require  establishment and  maintenance of line-of-sight (LOS). Thus, the establishment
+    of the communication link or neighbor discovery plays a significant role in mobile ad hoc networks
     with RF/FSO directional transceivers. In this project, we design protocols for discovering LOS
     of a neighbor for both in-band and out-of-band cases.
   link: "http://sbhunia.me/research/neighbor_discovery"
 - title: Coexistence between LTE and WiFi
-  img:  
-  desc: 
+  img:
+  desc:
   link: "/research/lte_wifi"
 - title:  3D Obstacle Compliant Mobility Models for UAV networks in ns-3
   img:  "images/uav_mesh_3d_ns3.svg"
   desc:
-  link: 
+  link:
 - title: Enhance Performance of Voice Service for Congested Network
   img:
   desc:
-  link: 
+  link: "/research/voip"
 - title: Evaluate Performance of WiMAX
   img:
-  desc:
+  desc: |
+    In WiMAX deployment, the challenges to service providers lie with the Quality
+    of Service (QoS) under varying fading environment while at the same time maximizing
+    for resource utilization. In this research, a rigorous and comprehensive
+    performance study of mobile WiMAX     has  been  made  with  respect  to
+    adaptive  modulation  and  coding  techniques  considering  the  variation  in
+    the speed of the mobile, path-loss, scheduling services and application
+    type for comparing with the fixed     type of modulations.
   link: "/research/wimax/"
