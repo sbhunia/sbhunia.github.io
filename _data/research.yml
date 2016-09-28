@@ -7,6 +7,22 @@
     CR-honeynet aims to avoid attacks on legitimate communications by dedicating a Secondary User (SU) as a honeynode,
     to deter the attacker from attacking legitimate SUs and attack the honeynode instead.
   link: "/research/honeynet"
+- title: Joint Routhing and location management in multihop UAS networks
+  img:
+  desc:
+  link: "/research/uav_routing"
+- title: Neighbor Discovery for Directional Tranceivers
+  img: "images/network.png"
+  desc: |
+    Directional  Radio  Frequency  (RF)  /  Free-Space Optical (FSO) transceivers have the potential
+    to play a significant role in  future generation  wireless networks.  They are  advantageous in
+    terms of  improved spectrum  utilization,  higher data transfer rate,  and lower  probability of
+    interception  from unwanted sources. Despite these advantages, communications using directional
+    transceivers require  establishment and  maintenance of line-of-sight (LOS). Thus, the establishment
+    of the communication link or neighbor discovery plays a significant role in mobile ad hoc networks
+    with RF/FSO directional transceivers. In this project, we design protocols for discovering LOS
+    of a neighbor for both in-band and out-of-band cases.
+  link: "/research/neighbor_discovery"
 - title: Mitigate Jamming using Adaptive Beamforming Antenna
   img: "images/multi_hop_routing_3d.png"
   desc: |
@@ -21,19 +37,7 @@
 - title: Frequency Agile Radio Testbed
   img: "images/dsa.png"
   desc:
-  link:
-- title: Neighbor Discovery for Directional Tranceivers
-  img: "images/network.png"
-  desc: |
-    Directional  Radio  Frequency  (RF)  /  Free-Space Optical (FSO) transceivers have the potential
-    to play a significant role in  future generation  wireless networks.  They are  advantageous in
-    terms of  improved spectrum  utilization,  higher data transfer rate,  and lower  probability of
-    interception  from unwanted sources. Despite these advantages, communications using directional
-    transceivers require  establishment and  maintenance of line-of-sight (LOS). Thus, the establishment
-    of the communication link or neighbor discovery plays a significant role in mobile ad hoc networks
-    with RF/FSO directional transceivers. In this project, we design protocols for discovering LOS
-    of a neighbor for both in-band and out-of-band cases.
-  link: "/research/neighbor_discovery"
+  link: "/research/gnuradio"
 - title: Coexistence between LTE and WiFi
   img:
   desc:
