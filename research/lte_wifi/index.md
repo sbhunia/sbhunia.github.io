@@ -3,5 +3,9 @@ layout: page
 title: Coexistence between LTE and WiFi
 date: 2016-06-06 23:51
 ---
+{% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
+{% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
+
+
 
 TBD

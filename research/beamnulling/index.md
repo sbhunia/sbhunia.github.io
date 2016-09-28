@@ -3,6 +3,10 @@ layout: page
 title: Mitigate Jamming using Adaptive Beamforming Antenna
 date: 2016-09-26 23:51
 ---
+{% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
+{% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
+
+
 
 In multihop ad hoc networks, a jammer can drastically disrupt the flow of information by intentionally interfering with links between a subset of nodes. The impact of such attacks can escalate when the jammer is moving. As a countermeasure for such attacks, adaptive beam-forming techniques can be employed for spatial filtering of the jamming signal. Considering a moving jammer, a distributed beam nulling framework is proposed. The framework uses periodic measurements of the RF environment to detect direction of arrival (DoA) of jamming signal and suppresses the signals arriving from the current and predicted locations of the jammer. Also, in the calculation of the nulled region, this framework considers and counters the effects of randomness in the mobility of the jammer, as well as errors in beam nulling and DoA measurements. Survivability of links and connectivity in such scenarios are studied by simulating various node distributions and different mobility patterns of the attacker. Also, the impact of errors in the estimation of DoA and beam-forming on the overall network performance is also examined.
 

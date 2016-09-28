@@ -3,6 +3,9 @@ layout: page
 title: Sustainance against Jamming using Honeynet in Cognitive Radio Network
 date: 2016-06-06 23:51
 ---
+{% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
+{% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
+
 
 Cognitive Radio Network (CRN) has to stall its packet transmission periodically
 to sense the spectrum for Primary User’s (PU’s) transmission. The limited and

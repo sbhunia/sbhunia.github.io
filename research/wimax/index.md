@@ -3,6 +3,9 @@ layout: page
 title: Evaluate Performance of WiMAX
 date: 2016-10-26 23:51
 ---
+{% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
+{% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
+
 
 WiMAX—the  Worldwide Interoperability for Microwave Access is a promising technology for offering
 high-speed data, video and multimedia services over mobile platform evolving toward all IP networks. The

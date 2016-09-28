@@ -40,8 +40,16 @@
   link: "/research/lte_wifi"
 - title:  3D Obstacle Compliant Mobility Models for UAV networks in ns-3
   img:  "images/uav_mesh_3d_ns3.svg"
-  desc:
-  link: "/research/uav_mesh_3d_ns3/index.md"
+  desc: |
+    UAV networks are envisioned to play a crucial role in the future generations
+    of wireless networks. Due to the high cost of failures in system-based tests,
+    initial analysis and refinement of designs and algorithms for UAV applications
+    are performed through rigorous simulations. To facilitate such simulations for
+    UAV systems, we presents different mobility models for emulation of a UAV's
+     movement. We further extend these models by considering the effect of large
+     obstacles on movement patterns following the three models. The mobility models
+      are prepared as open-source add-ons for ns-3 network simulator.
+  link: "/research/uav_mesh_3d_ns3"
 - title: Enhance Performance of Voice Service for Congested Network
   img:
   desc:
