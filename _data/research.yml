@@ -7,7 +7,7 @@
     CR-honeynet aims to avoid attacks on legitimate communications by dedicating a Secondary User (SU) as a honeynode,
     to deter the attacker from attacking legitimate SUs and attack the honeynode instead.
   link: "/research/honeynet"
-- title: Joint Routhing and location management in multihop UAS networks
+- title: Joint Routing and Location Management in Multihop UAS Networks
   img:
   desc:
   link: "/research/uav_routing"
@@ -36,7 +36,16 @@
   link:  "/research/beamnulling"
 - title: Frequency Agile Radio Testbed
   img: "images/dsa.png"
-  desc:
+  desc: |
+    Rampant dynamic spectrum allocation over time leads to the creation of narrow
+    spectrum holes which can be aggregated to fulfill the bandwidth requirements of
+    users. Even though this approach increases the throughput, it comes at the
+    cost of degraded spectrum utilization due to a rise in the number of required
+    guard bands. This project aims at how a transmitter- receiver pair can
+    coordinate among themselves on choosing the correct frequency and bandwidth
+    for actual data communication. The next objective is to optimize the spectrum
+    usage of each transmission such that the nodes can dynamically adapt to the
+    environment and enhance resource utilization.
   link: "/research/gnuradio"
 - title: Coexistence between LTE and WiFi
   img:
@@ -56,7 +65,7 @@
   link: "/research/uav_mesh_3d_ns3"
 - title: Enhance Performance of Voice Service for Congested Network
   img:
-  desc:
+  desc: 
   link: "/research/voip"
 - title: Evaluate Performance of WiMAX
   img:

@@ -6,6 +6,8 @@ date: 2016-09-26 23:51
 {% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
 {% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
 
+### Problem Statement and Motivation
+
 
 
 UAV networks are envisioned to play a crucial role in the future generations of wireless networks. Due to the high cost of failures in system-based tests, initial analysis and refinement of designs and algorithms for UAV applications are performed through rigorous simulations. To facilitate such simulations for UAV systems, we presents different mobility models for emulation of a UAV's movement. We further extend these models by considering the effect of large obstacles on movement patterns following the three models. The mobility models are prepared as open-source add-ons for ns-3 network simulator.
@@ -15,6 +17,12 @@ There are currently three mobility models with the adaptations implemented:
 - Random Walk
 - Random Direction
 - Gauss-Markov
+
+### People
+  - [Shamik Sengupta](https://www.cse.unr.edu/~shamik/) (University of Nevada, Reno)
+  - [Suman Bhunia](http://www.sbhunia.me) (University of Nevada, Reno)
+  - [Paulo Alexandre Regis](http://www.pregis.me) (University of Nevada, Reno)
+
 
 ### Demo
 
@@ -42,3 +50,6 @@ There are currently three mobility models with the adaptations implemented:
 
 ### Publications
 1. P A Regis, **S Bhunia** and S Sengupta, "Implementation of 3D Obstacle Compliant Mobility Models for UAV networks in ns-3", proc. of The Workshop on ns-3 (WNS3), 2016, Seattle, Washington.  [{{pdfsign}}](/publications/manuscripts/wns3_16.pdf)  [{{pptsign}}](/publications/manuscripts/wns3_16.pptx)
+
+
+### Useful Links 

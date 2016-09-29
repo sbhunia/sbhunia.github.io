@@ -6,6 +6,17 @@ date: 2016-10-26 23:51
 {% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
 {% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
 
+### Problem Statement and Motivation
+
+### People
+### People
+  - Dr. Iti Saha Misra (Jadavpur University)
+  - Dr. Salil K Sanyal (Jadavpur University)
+  - Suman Bhunia (Jadavpur University)
+  - Atri Mukhopadhyay (Jadavpur University)
+  - Tamal Chakraborty (Jadavpur University)
+
+
 
 ### Publications
 1. T Chakraborty, A Mukhopadhyay, **S Bhunia**, I S Misra, S K Sanyal, "An Optimization Technique for Improved VoIP Performance over Wireless LAN", Journal of Networks, Vol-7, Issus-3, 2012, pp. 480-493.   [{{pdfsign}}](/publications/manuscripts/jon12.pdf)

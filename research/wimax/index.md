@@ -6,7 +6,7 @@ date: 2016-10-26 23:51
 {% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
 {% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
 
-
+### Problem Statement and Motivation
 WiMAX—the  Worldwide Interoperability for Microwave Access is a promising technology for offering
 high-speed data, video and multimedia services over mobile platform evolving toward all IP networks. The
 increasing demand of WiMAX for VoIP and high-speed multimedia is due to the simplicity of installation
@@ -19,6 +19,12 @@ type of modulations. The OPNET 14.5.A modeler for WiMAX platform has been used a
 adaptation  at  the  physical  layer  of  the  transmission  in  WiMAX  OFDMA  structure.  Observation  reveals
 that  dynamic  adaptation  of  modulation  and  coding  schemes  based  on  channel  condition  enables  better
 QoS while consuming low overall bandwidth of the system.
+
+### People
+  - Dr. Itit Saha Misra (Jadavpur University)
+  - Dr. Salil K Sanyal (Jadavpur University)
+  - Suman Bhunia (Jadavpur University)
+  - Anindita Kundu (Jadavpur University)
 
 ### Publications
 1. **S Bhunia**, I S Misra, S K Sanyal, A Kundu, "Performance Study of Mobile WiMAX Network with Changing Scenarios Under different Modulation and Coding", International Journal of Communication Systems, John Wiley & Sons, Vol-24, Issue 8, pp. 1087-1104, Aug '11. DOI:[10.1002/dac.1217](http://onlinelibrary.wiley.com/doi/10.1002/dac.1217/full)   [{{pdfsign}}](/publications/manuscripts/ijcs11.pdf)

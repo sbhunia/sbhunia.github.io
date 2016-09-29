@@ -6,7 +6,7 @@ date: 2016-06-06 23:51
 {% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
 {% assign pptsign = '<i class="fa fa-file-powerpoint-o"></i>'%}
 
-
+### Problem Statement and Motivation
 Cognitive Radio Network (CRN) has to stall its packet transmission periodically
 to sense the spectrum for Primary User’s (PU’s) transmission. The limited and
 dynamically available spectrum and fixed periodic schedule of transmission interruption
@@ -30,8 +30,11 @@ queuing model for CRNs, which pose unique modeling challenges, due to their fixe
 
 ### People
   - [Suman Bhunia](http://www.sbhunia.me) (University of Nevada, Reno)
-  - [Shamik Sengupta](https://www.cse.unr.edu/~shamik/) (University of Nevada, Reno)
-  - [Felisa Vazquez-Abad](http://www.compsci.hunter.cuny.edu/~felisav) (Hunter College of City University of New York)
+  - [Dr. Shamik Sengupta](https://www.cse.unr.edu/~shamik/) (University of Nevada, Reno)
+  - [Dr. Felisa Vazquez-Abad](http://www.compsci.hunter.cuny.edu/~felisav) (Hunter College of City University of New York)
+
+### Prototype
+The protype is built using USRP 210 software defined radios, controlled using GNURadio interfaces. 
 
 
 ### Publications
@@ -41,3 +44,5 @@ queuing model for CRNs, which pose unique modeling challenges, due to their fixe
 1. **S Bhunia**, S Sengupta and F Vazquez-Abad, "CR-Honeynet: A learning & decoy based Sustenance Mechanism Against Jamming Attack in CRN", proc. of IEEE MILCOM 2014, Baltimore, doi:10.1109/MILCOM.2014.197. [{{pdfsign}}](/publications/manuscripts/milcom14.pdf) [{{pptsign}}](/publications/manuscripts/milcom14.pptx)
 
 1. **S Bhunia**, X Su, S Sengupta and F Vazquez-Abad, "Stochastic model for Cognitive Radio Networks under jamming attacks and honeypot-based prevention", 15th International Conference on Distributed Computing and Networking (ICDCN), 2014. [{{pdfsign}}](/publications/manuscripts/icdcn14.pdf)  [{{pptsign}}](/publications/manuscripts/icdecn_presentation.pdf)
+
+### Useful Liknks

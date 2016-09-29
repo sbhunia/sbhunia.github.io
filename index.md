@@ -52,6 +52,7 @@ ___________________________________
 - Survivability against Jamming for cognitive radios and dynamic spectrum access network
 - Optimized spectrum assignment with fragmentation and aggregation aware DSA network
 - Maintaining communication in 3D mesh network
+- LOS discovery for directional RF and Free Space Optical transceivers
 
 ----------------------------------
 
@@ -65,4 +66,4 @@ ___________________________________
 
 ### Professional Services:
 - Served as session Chair at IEEE CSS 2015 track: Active Defense Techniques and Systems
-- Technical Program Committee Member of ICIT 2015
+- Technical Program Committee Member of ICIT `2015`, `2016`
