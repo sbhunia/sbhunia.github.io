@@ -14,15 +14,15 @@ date: 2014-10-19 23:51
 
 ### Journal Papers 
 
-6. **S Bhunia**, V Behzadan, P A Regis and S Sengupta, "Adaptive Beam Nulling in Multihop Ad Hoc Networks Against a Jammer in Motion", To appear in Elsevier Computer Networks. [DOI:10.1016/j.comnet.2016.06.030](http://www.sciencedirect.com/science/article/pii/S1389128616302109).   [{{pdfsign}}](manuscripts/comnet_16.pdf)
+1. S Mneimneh, **S Bhunia**, F Vazquez-Abad and S Sengupta, "A Game-Theoretic and Stochastic Survivability Mechanism against Induced Attacks in Cognitive Radio Networks", to appear in Elsevier Pervasive and Mobile Computing. [{{pdfsign}}](manuscripts/pmc_17.pd)
 
-5. S Mneimneh, **S Bhunia**, F Vazquez-Abad and S Sengupta, "A Game-Theoretic and Stochastic Survivability Mechanism against Induced Attacks in Cognitive Radio Networks", submitted to Elsevier Pervasive and Mobile Computing.
+1. **S Bhunia**, V Behzadan, P A Regis and S Sengupta, "Adaptive Beam Nulling in Multihop Ad Hoc Networks Against a Jammer in Motion", Elsevier Computer Networks, Volume 109, Part 1, 9 November 2016, Pages 50-66. [DOI:10.1016/j.comnet.2016.06.030](http://www.sciencedirect.com/science/article/pii/S1389128616302109).   [{{pdfsign}}](manuscripts/comnet_16.pdf)
 
-4. **S Bhunia**, S Sengupta and F Vazquez-Abad, "Performance Analysis of CR-Honeynet to prevent Jamming Attack through Stochastic Modeling", Elsevier Pervasive and Mobile Computing, Volume 21, August 2015, Pages 133–149. DOI:[10.1016/j.pmcj.2015.04.004](http://www.sciencedirect.com/science/article/pii/S1574119215000784).  [{{pdfsign}}](manuscripts/pmc15.pdf)
+1. **S Bhunia**, S Sengupta and F Vazquez-Abad, "Performance Analysis of CR-Honeynet to prevent Jamming Attack through Stochastic Modeling", Elsevier Pervasive and Mobile Computing, Volume 21, August 2015, Pages 133–149. DOI:[10.1016/j.pmcj.2015.04.004](http://www.sciencedirect.com/science/article/pii/S1574119215000784).  [{{pdfsign}}](manuscripts/pmc15.pdf)
 
-3. T Chakraborty, A Mukhopadhyay, **S Bhunia**, I S Misra, S K Sanyal, "An Optimization Technique for Improved VoIP Performance over Wireless LAN", Journal of Networks, Vol-7, Issus-3, 2012, pp. 480-493.   [{{pdfsign}}](manuscripts/jon12.pdf)
+1. T Chakraborty, A Mukhopadhyay, **S Bhunia**, I S Misra, S K Sanyal, "An Optimization Technique for Improved VoIP Performance over Wireless LAN", Journal of Networks, Vol-7, Issus-3, 2012, pp. 480-493.   [{{pdfsign}}](manuscripts/jon12.pdf)
 
-2. **S Bhunia**, I S Misra, S K Sanyal, A Kundu, "Performance Study of Mobile WiMAX Network with Changing Scenarios Under different Modulation and Coding", International Journal of Communication Systems, John Wiley & Sons, Vol-24, Issue 8, pp. 1087-1104, Aug '11. DOI:[10.1002/dac.1217](http://onlinelibrary.wiley.com/doi/10.1002/dac.1217/full)   [{{pdfsign}}](manuscripts/ijcs11.pdf)
+1. **S Bhunia**, I S Misra, S K Sanyal, A Kundu, "Performance Study of Mobile WiMAX Network with Changing Scenarios Under different Modulation and Coding", International Journal of Communication Systems, John Wiley & Sons, Vol-24, Issue 8, pp. 1087-1104, Aug '11. DOI:[10.1002/dac.1217](http://onlinelibrary.wiley.com/doi/10.1002/dac.1217/full)   [{{pdfsign}}](manuscripts/ijcs11.pdf)
 
 
 1. A Kundu, I S Misra, S K Sanyal, **Suman Bhunia**, "VoIP Performance Over Broadband Wireless Networks Under Static and Mobile Environments", International Journal of Wireless & Mobile Networks (IJWMN), pp.82-93, Vol.2, No.4, November 2010.   [{{pdfsign}}](manuscripts/ijwmn10.pdf)
