@@ -87,6 +87,7 @@ Networks", International Conference on Computing, Networking and Communications 
 1. IEEE Globecom `2015`
 1. IEEE ICC `2014`, `2016`
 1. IEEE MILCOM `2012`, `2013`, `2014`
+1. IFIP Networking 2017
 1. ISCIT `2012`
 1. IEEE WoWMoM `2014`, `2016`
 1. Computer Networks (Elsevier)
