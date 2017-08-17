@@ -43,7 +43,7 @@ date: 2014-10-19 23:51
 
 ### Biography:
 
-I am a final year PhD candidate in Computer Science and Engineering at the University of Nevada, Reno, advised by Prof. [Shamik Sengupta](http://www.cse.unr.edu/~shamik/). I am lucky to be working with wonderful colleagues at the computer networking laboratory ([CNL](http://cnl.cse.unr.edu)). My thesis is focused on defense against smart malicious entities in wireless communications. Before joining UNR, I received a Master’s degree in Distributed and Mobile Computing from Jadavpur University, India in 2010, and my Bachelor’s degree in Electronics and Communication Engineering from West Bengal University of Technology, Kolkata, India in 2008.
+I am a postdoctoral scholar at the Computer Science and Engineering at the University of California, Davis. My superviser is Prof. [Prasant Mohapatra](http://faculty.engineering.ucdavis.edu/mohapatra/). I am lucky to be working with a very enthusiastic [group](http://spirit.cs.ucdavis.edu/). Before joing UC Davis, I obtained my PhD degree in Computer Science and Engineering from the University of Nevada, Reno. My PhD advisor was Prof. [Shamik Sengupta](http://www.cse.unr.edu/~shamik/).  My thesis is focused on defense against smart malicious entities in wireless communications. I received a Master’s degree in Distributed and Mobile Computing from Jadavpur University, India in 2010, and my Bachelor’s degree in Electronics and Communication Engineering from West Bengal University of Technology, Kolkata, India in 2008.
 
 ___________________________________
 
@@ -67,3 +67,5 @@ ___________________________________
 ### Professional Services:
 - Served as session Chair at IEEE CSS 2015 track: Active Defense Techniques and Systems
 - Technical Program Committee Member of ICIT `2015`, `2016`
+- Technical Program Committee Member of MILCOM `2017`
+- Technical Program Committee Member of GameSec `2017`
