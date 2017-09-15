@@ -29,6 +29,9 @@ date: 2014-10-19 23:51
 
 ### Conference proceedings
 
+1. 1. **S Bhunia**, and S Sengupta, "Implementation of Interface Agility for Duplex Dynamic Spectrum Access Radio Using USRP", proc. of IEEE MILCOM 2017, Baltimore, Maryland.  [{{pdfsign}}](manuscripts/milcom17.pdf)  [{{pptsign}}](manuscripts/milcom17.pptx)
+
+
 1. **S Bhunia** and S Sengupta, "Distributed Adaptive Beam Nulling to Mitigate Jamming in 3D UAV Mesh
 Networks", International Conference on Computing, Networking and Communications (ICNC) 2017, Silicon Valley, USA, [{{pdfsign}}](manuscripts/icnc17_beamnull.pdf)
 
