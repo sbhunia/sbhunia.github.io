@@ -33,9 +33,9 @@ date: 2014-10-19 23:51
 
 
 1. **S Bhunia** and S Sengupta, "Distributed Adaptive Beam Nulling to Mitigate Jamming in 3D UAV Mesh
-Networks", International Conference on Computing, Networking and Communications (ICNC) 2017, Silicon Valley, USA, [{{pdfsign}}](manuscripts/icnc17_beamnull.pdf) [{{pptsign}}](manuscripts/icnc17_beamnull.pptx)
+Networks", International Conference on Computing, Networking and Communications (ICNC) 2017, Silicon Valley, USA. [{{pdfsign}}](manuscripts/icnc17_beamnull.pdf) [{{pptsign}}](manuscripts/icnc17_beamnull.pptx)
 
-1. P A Regis, **S Bhunia** and S Sengupta, "Enhancing Performance and Longevity of Multi-radio Multi-channel HetNets through Dynamic Path-assignment", International Conference on Computing, Networking and Communications (ICNC) 2017, Silicon Valley, USA, [{{pdfsign}}](manuscripts/icnc17_path.pdf) [{{pptsign}}](manuscripts/icnc17_path.pptx)
+1. P A Regis, **S Bhunia** and S Sengupta, "Enhancing Performance and Longevity of Multi-radio Multi-channel HetNets through Dynamic Path-assignment", International Conference on Computing, Networking and Communications (ICNC) 2017, Silicon Valley, USA. [{{pdfsign}}](manuscripts/icnc17_path.pdf) [{{pptsign}}](manuscripts/icnc17_path.pptx)
 
 1. **S Bhunia**, M Khan, S Sengupta and M Yuksel, "LOS Discovery for Highly Directional Full Duplex RF/FSO Transceivers", IEEE MILCOM 2016, Baltimore, Maryland. [{{pdfsign}}](manuscripts/milcom_16_2d.pdf) [{{pptsign}}](manuscripts/milcom_2016_2d.pptx)
 
@@ -89,12 +89,13 @@ Networks", International Conference on Computing, Networking and Communications 
 ### Review Works
 1. IEEE Globecom `2015`
 1. IEEE ICC `2014`, `2016`
-1. IEEE MILCOM `2012`, `2013`, `2014`
+1. IEEE MILCOM `2012`, `2013`, `2014`, `2017`
 1. IFIP Networking 2017
 1. ISCIT `2012`
 1. IEEE WoWMoM `2014`, `2016`
+1. IEEE Communications Magazine
 1. Computer Networks (Elsevier)
-2. Computer Communications (Elsevier)
+1. Computer Communications (Elsevier)
 1. Physical Communication (Elsevier)
 1. Pervasive and Mobile Computing (Elsevier)
 1. Future Generation Computer Systems (Elsevier)
