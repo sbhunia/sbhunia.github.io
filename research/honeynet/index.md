@@ -36,6 +36,11 @@ queuing model for CRNs, which pose unique modeling challenges, due to their fixe
 ### Prototype
 The protype is built using USRP 210 software defined radios, controlled using GNURadio interfaces. 
 
+<div class="row">
+  <div class="col-md-6">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LphWzKSKIuk" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
 
 ### Publications
 
