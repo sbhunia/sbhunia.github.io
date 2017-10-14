@@ -30,6 +30,9 @@ The testbed is built with several USRP B210 software defined radio interfaces.
 
 
 ### Publications
+
+1. **S Bhunia**, and S Sengupta, "Implementation of Interface Agility for Duplex Dynamic Spectrum Access Radio Using USRP", proc. of IEEE MILCOM 2017, Baltimore, Maryland.  [{{pdfsign}}](manuscripts/milcom17.pdf)  [{{pptsign}}](manuscripts/milcom17.pptx)
+
 1. **S Bhunia**, V Behzadan and S Sengupta, "Enhancement of Spectrum Utilization in Non-Contiguous DSA with Online Defragmentation", proc. of IEEE MILCOM 2015, Tampa, Florida.  [{{pdfsign}}](/publications/manuscripts/milcom15.pdf)  [{{pptsign}}](/Publications/manuscripts/milcom15.pptx)
 
 ### Useful Links
