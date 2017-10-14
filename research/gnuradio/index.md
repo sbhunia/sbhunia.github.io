@@ -21,6 +21,12 @@ Rampant dynamic spectrum allocation over time leads to the creation of narrow sp
 The testbed is built with several USRP B210 software defined radio interfaces. 
 ![Testbed setup](/research/gnuradio/testbed_phys_setup.jpg)
 
+<div class="row">
+  <div class="col-md-6">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IDgFh6Ec3Cw" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
 
 ### Publications
 1. **S Bhunia**, V Behzadan and S Sengupta, "Enhancement of Spectrum Utilization in Non-Contiguous DSA with Online Defragmentation", proc. of IEEE MILCOM 2015, Tampa, Florida.  [{{pdfsign}}](/publications/manuscripts/milcom15.pdf)  [{{pptsign}}](/Publications/manuscripts/milcom15.pptx)
