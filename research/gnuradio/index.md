@@ -19,14 +19,11 @@ Rampant dynamic spectrum allocation over time leads to the creation of narrow sp
 
 ### Prototype
 The testbed is built with several USRP B210 software defined radio interfaces. 
-<div class='col-md-4 col-xs-12'>
-        <img class='img-responsive' src='/research/gnuradio/testbed_phys_setup.jpg'>
-</div>
-      
+ 
       
 <div class="row">
   <div class="col-md-6">
-    ![Testbed setup](/research/gnuradio/testbed_phys_setup.jpg)
+    <img class='img-responsive' src='/research/gnuradio/testbed_phys_setup.jpg'>
   </div>
 </div>
 
