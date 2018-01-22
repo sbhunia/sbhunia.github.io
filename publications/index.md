@@ -80,6 +80,7 @@ Maintenance Between Mobiles", USPTO patent application [PCT/US17/32731](https://
 
 
 ### Thesis
+- "Survivability Against Intelligent Adversary in Next-Generation Wireless Networks", PhD Dissertation at University of Nevada, Reno. [{{pdfsign}}](manuscripts/thesis_phd.pdf)
 - "Performance Evaluation of WiMax Network in Aspect of Modulation and Coding Schemes and Hand-off using Opnet", Master's Thesis at Jadavpur University. [{{pdfsign}}](manuscripts/thesis_mtech.pdf)
 
 
