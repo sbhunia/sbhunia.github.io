@@ -14,7 +14,8 @@ date: 2014-10-19 23:51
 
 ### Journal Papers 
 
-1. **S Bhunia**, P A Regis and S Sengupta, "Distributed Adaptive Beam Nulling to Survive Against Jamming in 3D UAV Mesh Networks", Elsevier Computer Networks, 2018. [{{pdfsign}}](manuscripts/comnet2018.pdf)
+1. **S Bhunia**, P A Regis and S Sengupta, "Distributed Adaptive Beam Nulling to Survive Against Jamming in 3D UAV Mesh Networks", Elsevier Computer Networks, 2018. 
+[DOI:10.1016/j.comnet.2018.03.011](https://doi.org/10.1016/j.comnet.2018.03.011) [{{pdfsign}}](manuscripts/comnet2018.pdf)
 
 1. S Mneimneh, **S Bhunia**, F Vazquez-Abad and S Sengupta, "A Game-Theoretic and Stochastic Survivability Mechanism against Induced Attacks in Cognitive Radio Networks", to appear in Elsevier Pervasive and Mobile Computing. [DOI:10.1016/j.pmcj.2016.12.010](http://dx.doi.org/10.1016/j.pmcj.2016.12.010).  [{{pdfsign}}](manuscripts/pmc_17.pdf)
 
