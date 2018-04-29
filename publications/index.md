@@ -14,6 +14,9 @@ date: 2014-10-19 23:51
 
 ### Journal Papers 
 
+
+1. **S Bhunia**, E Miles, S Sengupta and F Vazquez-Abad, "CR-Honeynet: A Cognitive Radio Learning and Decoy Based Sustenance Mechanism to Avoid Intelligent Jammer",  accepted at IEEE Transactions on Cognitive Communications and Networking. [{{pdfsign}}](manuscripts/tccn18.pdf) 
+
 1. **S Bhunia**, P A Regis and S Sengupta, "Distributed Adaptive Beam Nulling to Survive Against Jamming in 3D UAV Mesh Networks", Elsevier Computer Networks, Volume 137, 2018, Pages 83-97. 
 [DOI:10.1016/j.comnet.2018.03.011](https://doi.org/10.1016/j.comnet.2018.03.011) [{{pdfsign}}](manuscripts/comnet2018.pdf)
 
