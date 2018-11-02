@@ -7,6 +7,7 @@ published: true
 ---
 
 Clonning Github repository
+
 ```
 git clone --bare <old-repository.git>
 cd <old-repository.git>
