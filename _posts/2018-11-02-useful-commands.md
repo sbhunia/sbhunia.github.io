@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: commands
+tags: commands ubuntu
 date: 2018-11-02 13:08
 title: Useful commands
 published: true
