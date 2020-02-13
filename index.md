@@ -43,7 +43,7 @@ date: 2014-10-19 23:51
 
 ### Biography:
 
-I am a postdoctoral scholar at the Computer Science and Engineering at the University of California, Davis where I feel very lucky to be working with a very enthusiastic [group](http://spirit.cs.ucdavis.edu/). My supervisor is Prof. [Prasant Mohapatra](http://faculty.engineering.ucdavis.edu/mohapatra/). Before joining UC Davis, I obtained my PhD degree in Computer Science and Engineering from the University of Nevada, Reno. My PhD advisor was Prof. [Shamik Sengupta](http://www.cse.unr.edu/~shamik/).  My thesis is focused on defense against smart malicious entities in wireless communications. I received a Master’s degree in Distributed and Mobile Computing from Jadavpur University, India in 2010, and my Bachelor’s degree in Electronics and Communication Engineering from West Bengal University of Technology, Kolkata, India in 2008.
+I am a postdoctoral scholar at the Department of Computer Science of Texas A&M University where I feel very lucky to be working with a very enthusiastic group supervised by Prof. [Radu Stoleru](http://faculty.cs.tamu.edu/stoleru/). Before joining TAMU, I was a postdoctoral scholar at the University of Cclifornia - Davis, and before that I obtained my PhD degree in Computer Science and Engineering from the University of Nevada, Reno. My PhD advisor was Prof. [Shamik Sengupta](http://www.cse.unr.edu/~shamik/).  My thesis is focused on defense against smart malicious entities in wireless communications. I received a Master’s degree in Distributed and Mobile Computing from Jadavpur University, India in 2010, and my Bachelor’s degree in Electronics and Communication Engineering from West Bengal University of Technology, Kolkata, India in 2008.
 
 ___________________________________
 
