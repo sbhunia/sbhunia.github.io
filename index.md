@@ -43,7 +43,7 @@ date: 2014-10-19 23:51
 
 ### Biography:
 
-I am a postdoctoral scholar at the Department of Computer Science of Texas A&M University where I feel very lucky to be working with a very enthusiastic group supervised by Prof. [Radu Stoleru](http://faculty.cs.tamu.edu/stoleru/). Before joining TAMU, I was a postdoctoral scholar at the University of Cclifornia - Davis, and before that I obtained my PhD degree in Computer Science and Engineering from the University of Nevada, Reno. My PhD advisor was Prof. [Shamik Sengupta](http://www.cse.unr.edu/~shamik/).  My thesis is focused on defense against smart malicious entities in wireless communications. I received a Master’s degree in Distributed and Mobile Computing from Jadavpur University, India in 2010, and my Bachelor’s degree in Electronics and Communication Engineering from West Bengal University of Technology, Kolkata, India in 2008.
+I joined Miami University of Ohio as an assistant professor in the Fall of 2020. Before that, I was a postdoctoral scholar at Texas A&M University. I obtained Ph.D. in Computer Science and Engineering from the University of Nevada, Reno, under the supervision of Prof. [Shamik Sengupta](http://www.cse.unr.edu/~shamik/).  I received a Master’s degree in Distributed and Mobile Computing from Jadavpur University, India in 2010, and my Bachelor’s degree in Electronics and Communication Engineering from West Bengal University of Technology, Kolkata, India in 2008. 
 
 ___________________________________
 
@@ -51,9 +51,7 @@ ___________________________________
 - Security and privacy in wireless communication
 - Survivability against Jamming for cognitive radios and dynamic spectrum access network
 - Optimized spectrum assignment with fragmentation and aggregation aware DSA network
-- Maintaining communication in 3D mesh network
-- LOS discovery for directional RF and Free Space Optical transceivers
-
+- DIrectional radio and free space optical communication
 ----------------------------------
 
 ### Latest Updates
@@ -64,8 +62,3 @@ ___________________________________
 
 <div style="text-align:center;"><a href="/updates">more</a></div>
 
-### Professional Services:
-- Served as session Chair at IEEE CSS 2015 track: Active Defense Techniques and Systems
-- Technical Program Committee Member of ICIT `2015`, `2016`
-- Technical Program Committee Member of MILCOM `2017`, `2018`, `2019`
-- Technical Program Committee Member of GameSec `2017`
