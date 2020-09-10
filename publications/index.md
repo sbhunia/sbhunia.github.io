@@ -39,7 +39,7 @@ Volume 91, 2019 [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adho
 
 ### Conference proceedings
 
-1. A Murthy, C Green, R Stoleru, **S Bhunia**, C Swanson, Theodora Chaspari, "Machine Learning-based Irrigation Control Optimization", proc. of ACM BuildSys 2019.  
+1. A Murthy, C Green, R Stoleru, **S Bhunia**, C Swanson, Theodora Chaspari, "Machine Learning-based Irrigation Control Optimization", proc. of ACM BuildSys 2019.  [{{pdfsign}}](manuscripts/buildsys19.pdf)
 
 1. **S Bhunia**, and S Sengupta, "Implementation of Interface Agility for Duplex Dynamic Spectrum Access Radio Using USRP", proc. of IEEE MILCOM 2017, Baltimore, Maryland.  [{{pdfsign}}](manuscripts/milcom17.pdf)  [{{pptsign}}](manuscripts/milcom17.pptx)
 
