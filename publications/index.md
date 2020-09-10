@@ -14,8 +14,12 @@ date: 2014-10-19 23:51
 
 ### Journal Papers 
 
+1. MR Khan, **S Bhunia**, M Yuksel, L Kane, "Line-of-Sight Discovery in 3D Using Highly Directional Transceivers",  in IEEE Transactions on Mobile Computing, vol. 18, no. 12, pp. 2885-2898, 2019, [DOI:10.1109/TMC.2018.2885061](https://doi.org/10.1109/TMC.2018.2885061). [{{pdfsign}}](manuscripts/tmc19.pdf)
 
-1. **S Bhunia**, E Miles, S Sengupta and F Vazquez-Abad, "CR-Honeynet: A Cognitive Radio Learning and Decoy Based Sustenance Mechanism to Avoid Intelligent Jammer",  accepted at IEEE Transactions on Cognitive Communications and Networking. [{{pdfsign}}](manuscripts/tccn18.pdf) 
+1. **S Bhunia**, M R Khan, M Yuksel, S Sengupta, "In-Band LOS Discovery Using Highly Directional Transceivers", Ad Hoc Networks,
+Volume 91, 2019 [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adhoc.2019.101875) [{{pdfsign}}](manuscripts/adhoc19.pdf)
+
+1. **S Bhunia**, E Miles, S Sengupta and F Vazquez-Abad, "CR-Honeynet: A Cognitive Radio Learning and Decoy Based Sustenance Mechanism to Avoid Intelligent Jammer",   in IEEE Transactions on Cognitive Communications and Networking, vol. 4, no. 3, pp. 567-581, 2018, [DOI: 10.1109/TCCN.2018.2833549](https://doi.org/10.1109/TCCN.2018.2833549). [{{pdfsign}}](manuscripts/tccn18.pdf) 
 
 1. **S Bhunia**, P A Regis and S Sengupta, "Distributed Adaptive Beam Nulling to Survive Against Jamming in 3D UAV Mesh Networks", Elsevier Computer Networks, Volume 137, 2018, Pages 83-97. 
 [DOI:10.1016/j.comnet.2018.03.011](https://doi.org/10.1016/j.comnet.2018.03.011) [{{pdfsign}}](manuscripts/comnet2018.pdf)
@@ -34,6 +38,8 @@ date: 2014-10-19 23:51
 1. A Kundu, I S Misra, S K Sanyal, **Suman Bhunia**, "VoIP Performance Over Broadband Wireless Networks Under Static and Mobile Environments", International Journal of Wireless & Mobile Networks (IJWMN), pp.82-93, Vol.2, No.4, November 2010.   [{{pdfsign}}](manuscripts/ijwmn10.pdf)
 
 ### Conference proceedings
+
+1. A Murthy, C Green, R Stoleru, **S Bhunia**, C Swanson, Theodora Chaspari, "Machine Learning-based Irrigation Control Optimization", proc. of ACM BuildSys 2019.  
 
 1. **S Bhunia**, and S Sengupta, "Implementation of Interface Agility for Duplex Dynamic Spectrum Access Radio Using USRP", proc. of IEEE MILCOM 2017, Baltimore, Maryland.  [{{pdfsign}}](manuscripts/milcom17.pdf)  [{{pptsign}}](manuscripts/milcom17.pptx)
 
