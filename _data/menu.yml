@@ -23,7 +23,7 @@ mainmenu:
     url: "/cv_suman_bhunia.pdf"
     text: "CV"
     icon_class: "fa-file-text"
-  aboutme:
-    url: "/about/"
-    text: "About Me"
-    icon_class: "fa-info-circle"
+#  aboutme:
+#    url: "/about/"
+#    text: "About Me"
+#    icon_class: "fa-info-circle"
