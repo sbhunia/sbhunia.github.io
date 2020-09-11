@@ -38,6 +38,12 @@ date: 2014-10-19 23:51
 		    </div>
 	</div>
 </div>
+<div?
+	<script language="JavaScript" src="http://www.phdcomics.com/previewfeed_horiz.php"> </script>
+</div>
+
+
+
 <article markdown="1" class="margin-top-large">
 Hi! I am Suman Bhunia, a PhD student in the Department of Computer Science at University of Nevada, Reno (UNR). I am working as a Graduate Research Assistant in the Computer Networking laboratory (CNL). My PhD supervisor is Dr. Shamik Sengupta. I am doing research on Security and vulnerability of Cognitive Radio Network. Before joining UNR, I was a PhD candidate at Graduate Center of City University of New York (CUNY). At CUNY, I was an adjunct lecturer for 2011-'12 academic year and Research Assistant for 2012-'13 academic year.
 
