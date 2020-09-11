@@ -26,8 +26,6 @@ date: 2014-10-19 23:51
               <p>
                 <span itemprop="streetAddress">{{site.data.personal.address.line1}} <br/>
                 {{site.data.personal.address.line2}}</span>
-                <span itemprop="addressLocality">{{site.data.personal.city}}</span>,
-                <span itemprop="addressRegion">{{site.data.personal.state}}</span>
               </p>
             </span>
             <p itemprop="email"> {{site.data.personal.email}}</p>
