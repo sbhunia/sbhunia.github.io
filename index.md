@@ -51,7 +51,8 @@ ___________________________________
 - Security and privacy in wireless communication
 - Survivability against Jamming for cognitive radios and dynamic spectrum access network
 - Optimized spectrum assignment with fragmentation and aggregation aware DSA network
-- DIrectional radio and free space optical communication
+- Directional radio and free space optical communication
+
 ----------------------------------
 
 ### Latest Updates
