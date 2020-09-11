@@ -37,8 +37,6 @@ date: 2014-10-19 23:51
 		      </a>
 		    </div>
 	</div>
-</div>
-<div class="row">
 	<script language="JavaScript" src="http://www.phdcomics.com/previewfeed_horiz.php"> </script>
 </div>
 
