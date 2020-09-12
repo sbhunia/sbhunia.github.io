@@ -31,7 +31,12 @@ date: 2014-10-19 23:51
             <p itemprop="email"> {{site.data.personal.email}}</p>
             <p>&nbsp;</p>
             
+            <i class="fa fa-google" aria-hidden="true"></i>
+            <i class="fa fa-github" aria-hidden="true"></i>
+            <i class="fa fa-linkedin" aria-hidden="true"></i>
             <i class="fa fa-twitter-square" aria-hidden="true"></i>
+            <i class="fa fa-twitter" aria-hidden="true"></i>
+            
             
           </div>
         </div>
