@@ -44,6 +44,8 @@ The protype is built using USRP 210 software defined radios, controlled using GN
 
 ### Publications
 
+1. 1. **S Bhunia**, E Miles, S Sengupta and F Vazquez-Abad, "CR-Honeynet: A Cognitive Radio Learning and Decoy Based Sustenance Mechanism to Avoid Intelligent Jammer",   in IEEE Transactions on Cognitive Communications and Networking, vol. 4, no. 3, pp. 567-581, 2018, [DOI: 10.1109/TCCN.2018.2833549](https://doi.org/10.1109/TCCN.2018.2833549). [{{pdfsign}}](/publicationsmanuscripts/tccn18.pdf) 
+
 1. **S Bhunia**, S Sengupta and F Vazquez-Abad, "Performance Analysis of CR-Honeynet to prevent Jamming Attack through Stochastic Modeling", Elsevier Pervasive and Mobile Computing, Volume 21, August 2015, Pages 133–149. DOI:[10.1016/j.pmcj.2015.04.004](http://www.sciencedirect.com/science/article/pii/S1574119215000784).  [{{pdfsign}}](/publications/manuscripts/pmc15.pdf)
 
 1. **S Bhunia**, S Sengupta and F Vazquez-Abad, "CR-Honeynet: A learning & decoy based Sustenance Mechanism Against Jamming Attack in CRN", proc. of IEEE MILCOM 2014, Baltimore, doi:10.1109/MILCOM.2014.197. [{{pdfsign}}](/publications/manuscripts/milcom14.pdf) [{{pptsign}}](/publications/manuscripts/milcom14.pptx)
