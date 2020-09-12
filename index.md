@@ -42,9 +42,9 @@ date: 2014-10-19 23:51
             <p>
             <ul id="main-menu" class="nav navbar-nav navbar-right">
 
-          {% for menuItem in site.data.menu.mainmenu %}
+          {% for menuItem in site.data.social.mainmenu %}
             <li><a href="{{ menuItem[1].url | prepend: site.baseurl }}">
-              <i class="fa {{menuItem[1].icon_class}}"></i> {{menuItem[1].text}}</a>
+              <i class="fa {{menuItem[1].icon_class}}"></i> </a>
             </li>
           {% endfor %}
 
