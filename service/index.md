@@ -4,7 +4,7 @@ title: Publications
 date: 2014-10-19 23:51
 ---
 
-### Professional Services:
+### Session Chair:
 - Served as session Chair at IEEE CSS 2015 track: Active Defense Techniques and Systems
 
 ### Serving in the Technical Program Committee
