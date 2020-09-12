@@ -30,6 +30,9 @@ date: 2014-10-19 23:51
             </span>
             <p itemprop="email"> {{site.data.personal.email}}</p>
             <p>&nbsp;</p>
+            
+            <i class="fa fa-twitter-square" aria-hidden="true"></i>
+            
           </div>
         </div>
       </div>
