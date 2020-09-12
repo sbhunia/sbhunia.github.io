@@ -98,30 +98,3 @@ Maintenance Between Mobiles", USPTO patent application [PCT/US17/32731](https://
 
 ### Invited Articles
 1. **S. Bhunia** and S. Sengupta, "Feasibility of Channel Hopping in Jamming Attack", IEEE TCSIM Newsletter, Quarterly Newsletter, issue 19, pp. 2-5, 2013. [{{pdfsign}}](manuscripts/tccsim.pdf)
-
-
-### Professional Services:
-- Served as session Chair at IEEE CSS 2015 track: Active Defense Techniques and Systems
-- Technical Program Committee Member of IEEE CCNC `2021`
-- Technical Program Committee Member of IEEE MASS `2020`
-- Technical Program Committee Member of ICIT `2015`, `2016`
-- Technical Program Committee Member of MILCOM `2017`, `2018`, `2019`
-- Technical Program Committee Member of GameSec `2017`
-
-
-### Review Works
-1. IEEE Globecom `2015`
-1. IEEE ICC `2014`, `2016`
-1. IEEE MILCOM `2012`, `2013`, `2014`, `2017`
-1. IFIP Networking 2017
-1. ISCIT `2012`
-1. IEEE WoWMoM `2014`, `2016`
-1. IEEE Communications Magazine
-1. Computer Networks (Elsevier)
-1. Computer Communications (Elsevier)
-1. Physical Communication (Elsevier)
-1. Pervasive and Mobile Computing (Elsevier)
-1. Future Generation Computer Systems (Elsevier)
-1. International Journal of Communication Systems (Wiley)
-1. Wireless Communications and Mobile Computing (Wiley)
-1. International Journal of Distributed Sensor Networks (Hindawi)
