@@ -1,0 +1,13 @@
+mainmenu:
+  scholar:
+    url: "https://scholar.google.com/citations?user=KvvkHMIAAAAJ&hl=en&oi=ao"
+    icon_class: "fa-google"
+  github:
+    url: "https://github.com/sbhunia"
+    icon_class: "fa-github"
+  linkedin:
+    url: "https://www.linkedin.com/in/sbhunia/"
+    icon_class: "fa-linkedin"
+  twitter:
+    url: "/"
+    icon_class: "fa-twitter"
