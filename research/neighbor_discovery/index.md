@@ -32,6 +32,11 @@ The effectiveness of the proposed method is evaluated through a prototype, built
 
 
 ### Publications
+1. MR Khan, **S Bhunia**, M Yuksel, L Kane, "Line-of-Sight Discovery in 3D Using Highly Directional Transceivers",  in IEEE Transactions on Mobile Computing, vol. 18, no. 12, pp. 2885-2898, 2019, [DOI:10.1109/TMC.2018.2885061](https://doi.org/10.1109/TMC.2018.2885061). [{{pdfsign}}](/publications/manuscripts/tmc19.pdf)
+
+1. **S Bhunia**, M R Khan, M Yuksel, S Sengupta, "In-Band LOS Discovery Using Highly Directional Transceivers", Ad Hoc Networks,
+Volume 91, 2019 [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adhoc.2019.101875) [{{pdfsign}}](/publications/manuscripts/adhoc19.pdf)
+
 1. **S Bhunia**, M Khan, S Sengupta and M Yuksel, "LOS Discovery for Highly Directional Full Duplex RF/FSO Transceivers", to appear in IEEE MILCOM 2016, Baltimore, Maryland. [{{pdfsign}}](/publications/manuscripts/milcom_16_2d.pdf)
 
 1. M Khan, **S Bhunia**, M Yuksel and S Sengupta, "LOS Discovery in 3D for Highly Directional Transceivers", to appear in IEEE MILCOM 2016, Baltimore, Maryland. [{{pdfsign}}](/publications/manuscripts/milcom_16_3d.pdf)
