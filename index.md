@@ -33,7 +33,7 @@ date: 2014-10-19 23:51
               <ul id="main-menu" class="nav navbar-nav">
                 {% for menuItem in site.data.social.mainmenu %}
                   <li><a href="{{ menuItem[1].url | prepend: site.baseurl }}">
-                    <i class="fa {{menuItem[1].icon_class}}"></i> </a>
+                    <i class="fa {{menuItem[1].icon_class}} fa-lg"></i> </a>
                   </li>
                 {% endfor %}
               </ul>
