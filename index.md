@@ -31,12 +31,25 @@ date: 2014-10-19 23:51
             <p itemprop="email"> {{site.data.personal.email}}</p>
             <p>&nbsp;</p>
             
+            <p>
             <i class="fa fa-google" aria-hidden="true"></i>
             <i class="fa fa-github" aria-hidden="true"></i>
             <i class="fa fa-linkedin" aria-hidden="true"></i>
             <i class="fa fa-twitter-square" aria-hidden="true"></i>
             <i class="fa fa-twitter" aria-hidden="true"></i>
+            </p>
             
+            <p>
+            <ul id="main-menu" class="nav navbar-nav navbar-right">
+
+          {% for menuItem in site.data.menu.mainmenu %}
+            <li><a href="{{ menuItem[1].url | prepend: site.baseurl }}">
+              <i class="fa {{menuItem[1].icon_class}}"></i> {{menuItem[1].text}}</a>
+            </li>
+          {% endfor %}
+
+        </ul>
+            </p>
             
           </div>
         </div>
