@@ -15,6 +15,10 @@ mainmenu:
     url: "/teaching"
     text: "Teaching"
     icon_class: "fa-university"
+  service:
+    url: "/service"
+    text: "Service"
+    icon_class: "fa-handshake-o"
   blog:
     url: "/blog/"
     text: "Blog"
