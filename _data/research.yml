@@ -1,3 +1,8 @@
+- title: Preserving Privacy and Security in 5G network slicing
+  img:
+  desc: |
+    The cellular phone system represents the most ubiquitous and trusted communication infrastructure in the world. The cellular system has evolved a lot in the past two decades, starting from a basic audio communication system to the current smart phone system. In the last few months, the COVID pandemic has made us realize the cellular network's enormous importance more, and it has become the most integral part of human life. As the whole nation is looking forward to the jump from 4G to 5G LTE network, we look for the brighter side of 100x faster download speed, 10x decrease in latency, and 100x increase in network capacity. However, with all these advantages comes a greater risk of privacy of the users. The Cybersecurity & Infrastructure Agency (CISA) director Christopher Krebs stated in the August 2020 report [1]: “From my perspective, 5G is the single biggest critical infrastructure build that the globe has seen in the last 25 years and, coupled with the growth of cloud computing, automation, and future of artificial intelligence, demands focused attention today to secure tomorrow.” To achieve higher bandwidth and broader coverage, the 5G loosen the network architecture's tight control, which opens several vulnerabilities.
+  link: "/research/5G_privacy"
 - title: Sustainance against Jamming using Honeynet in Cognitive Radio Network
   img: "images/cahannel_allocation.jpg"
   desc: |
