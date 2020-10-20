@@ -8,6 +8,10 @@ _site/
 # OSX
 # =========================
 
+# Jekyll
+#=========================
+.jekyll-cache/
+
 .DS_Store
 .AppleDouble
 .LSOverride
