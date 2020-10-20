@@ -19,6 +19,10 @@ mainmenu:
     url: "/service"
     text: "Service"
     icon_class: "fa-handshake-o"
+  service:
+    url: "/advisees"
+    text: "Advisees"
+    icon_class: "fa-graduation-cap"
   blog:
     url: "/blog/"
     text: "Blog"
