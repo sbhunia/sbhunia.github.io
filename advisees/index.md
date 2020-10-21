@@ -33,5 +33,4 @@ date: 2020-10-20 23:51
 
 
 #### Digital Triage Management Application
-- Jiangbei Lin (Fall 20-Spring 21) [{{linedin}}]()     [{{github}}]() [{{twitter}}]() [{{email}}]() [{{website}}]()
- 
+- Jiangbei Lin (Fall 20-Spring 21) [{{linedin}}](www.linkedin.com/in/jiangbei-lin-085aa81b9)     [{{github}}](https://github.com/linj16) 
