@@ -23,17 +23,17 @@ date: 2020-10-20 23:51
 ### Capstone Projects
 
 #### Distributed Storage for First responders
-- Patrick Liem (Fall 20-Spring 21) [{{linedin}}](https://www.linkedin.com/in/patrick-liem/)     [{{github}}](https://github.com/patrickliem)  [{{email}}](mailto:patrickliem00@gmail.com)
+- Patrick Liem (Fall 20-Spring 21) [{{linedin}}](https://www.linkedin.com/in/patrick-liem/)     [{{github}}](https://github.com/patrickliem)  [{{email}}](patrickliem00@gmail.com)
 
 - Riley Gabbard (Fall 20-Spring 21) [{{linedin}}](https://www.linkedin.com/in/riley-gabbard-b01878130)     [{{github}}](https://github.com/RileyGabbard) [{{email}}](mailto:rileygabbard@gmail.com)
 
 - Nick Ferritto (Fall 20-Spring 21) [{{linedin}}](https://www.linkedin.com/in/nick-ferritto-7509a1171/) [{{email}}](mailto:nferritto@att.net)
 
-- Sean Morton (Fall 20-Spring 21) [{{linedin}}]()     [{{github}}]() [{{twitter}}]() [{{email}}]() [{{website}}]()
+- Sean Morton (Fall 20-Spring 21) [{{linedin}}](https://www.linkedin.com/in/sean-morton-66685116b/)   [{{email}}](smorton684@gmail.com)
 
 
 #### Digital Triage Management Application
-- Jiangbei Lin (Fall 20-Spring 21) [{{linedin}}](www.linkedin.com/in/jiangbei-lin-085aa81b9)     [{{github}}](https://github.com/linj16)
+- Jiangbei Lin (Fall 20-Spring 21) [{{linedin}}](www.linkedin.com/in/jiangbei-lin-085aa81b9)     [{{github}}](https://github.com/linj16) [{{email}}](1072112733@qq.com)
 - Zhaowei Guo
 - Zhibin Lyu
-- Weifan Liu 
+- Weifan Liu  [{{email}}](mailto:1365225174@qq.com)
