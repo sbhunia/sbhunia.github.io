@@ -55,6 +55,7 @@ ___________________________________
 
 ### Research Interests:
 - Security and privacy in wireless communication
+- Blockchain based secure application for Edge Computing
 - Survivability against Jamming for cognitive radios and dynamic spectrum access network
 - Optimized spectrum assignment with fragmentation and aggregation aware DSA network
 - Directional radio and free space optical communication

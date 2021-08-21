@@ -7,12 +7,15 @@ date: 2014-10-19 23:51
 ### Session Chair:
 - Served as session Chair at IEEE CSS 2015 track: Active Defense Techniques and Systems
 
-### Serving in the Technical Program Committee
+### Technical Program Committee of Conferences
 - TPC member of IEEE CCNC `2021`
 - TPC member of IEEE MASS `2020`
 - TPC member of ICIT `2015`, `2016`
 - TPC member of MILCOM `2017`, `2018`, `2019`
 - TPC member of GameSec `2017`
+
+### Workshops
+- TPC member of TCB6GN 2021 (Organized with CCNC 2021)
 
 
 ### Review Works
