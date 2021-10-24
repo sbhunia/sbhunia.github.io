@@ -23,7 +23,8 @@ date: 2020-10-20 23:51
 - Sam Kuhbander	[{{linedin}}](https://www.linkedin.com/in/samuel-kuhbander/)	[{{github}}](https://github.com/samkuhbander)		[{{twitter}}](https://twitter.com/KuhbanderSam)	[{{email}}](mailto:kuhbansc@miamioh.edu)
 - Daniel Cruz	[{{linedin}}](https://www.linkedin.com/in/daniel-g-cruz)	[{{email}}](mailto:cruzdg@miamioh.edu)
 - Sara Grimes	[{{linedin}}](https://www.linkedin.com/in/sara-grimes-9a09661a5)				[{{email}}](mailto:grimessi@miamioh.edu)
-
+- Nam Hoang	[{{linedin}}](https://www.linkedin.com/in/nam-hoang-13246a107/)	[{{github}}](https://github.com/namnbk) {{email}}](mailto:hoangnd@miamioh.edu)
+-	Huy Nguyen	[{{github}}](https://github.com/yahuy1)   {{email}}](mailto:nguyenhg@miamioh.edu)
 
 ### Capstone Projects
 #### Blockchain based First-Responder application (Fall 21-Spring 22)
