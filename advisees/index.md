@@ -21,13 +21,13 @@ date: 2020-10-20 23:51
 ### Undergraduate Students:
 - Nick Perry	[{{linedin}}](https://www.linkedin.com/in/nicholas-a-perry)	[{{github}}](https://github.com/nick-perry14)			[{{email}}](mailto:perryna4@miamioh.edu)
 - Sam Kuhbander	[{{linedin}}](https://www.linkedin.com/in/samuel-kuhbander/)	[{{github}}](https://github.com/samkuhbander)		[{{twitter}}](https://twitter.com/KuhbanderSam)	[{{email}}](mailto:kuhbansc@miamioh.edu)
-- Daniel Cruz	[{{linedin}}](www.linkedin.com/in/daniel-g-cruz)	[{{email}}](mailto:cruzdg@miamioh.edu)
-- Sara Grimes	[{{linedin}}](www.linkedin.com/in/sara-grimes-9a09661a5)				[{{email}}](mailto:grimessi@miamioh.edu)
+- Daniel Cruz	[{{linedin}}](https://www.linkedin.com/in/daniel-g-cruz)	[{{email}}](mailto:cruzdg@miamioh.edu)
+- Sara Grimes	[{{linedin}}](https://www.linkedin.com/in/sara-grimes-9a09661a5)				[{{email}}](mailto:grimessi@miamioh.edu)
 
 
 ### Capstone Projects
 #### Blockchain based First-Responder application (Fall 21-Spring 22)
-- Zach Katz	[{{linedin}}](https://www.linkedin.com/in/zach-katz-32101019a)	[{{github}}](GitHub.com/zakatz)			[{{email}}](mailto:katzza@miamioh.edu)
+- Zach Katz	[{{linedin}}](https://www.linkedin.com/in/zach-katz-32101019a)	[{{github}}](https://GitHub.com/zakatz)			[{{email}}](mailto:katzza@miamioh.edu)
 - Jorge Nadjar	[{{linedin}}](https://www.linkedin.com/in/jorge-nadjar/)	[{{github}}](https://github.com/jorgenadjar)			[{{email}}](mailto:nadjarjn@miamioh.edu)
 - Max Beedy	[{{linedin}}](https://www.linkedin.com/in/max-beedy-a04332224/)			[{{email}}](mailto:beedyml@miamioh.edu)
 
