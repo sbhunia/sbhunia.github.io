@@ -16,7 +16,7 @@ date: 2020-10-20 23:51
 
 ### Graduate Student:
 - Monu Chaudhary	[{{linedin}}](https://www.linkedin.com/in/monu-chaudhary/)				[{{email}}](mailto:chaudhm3@miamioh.edu)
-- Akshay Ramuhalli (Under Dr. Radu Stoleru) (MS, 2019) [{{linedin}}](https://www.linkedin.com/in/akshay-ramuhally/)
+- Angela Famera [{{linedin}}](https://www.linkedin.com/in/angelafamera/)				[{{email}}](mailto:fameraag@miamioh.edu)
 
 ### Undergraduate Students:
 - Nick Perry	[{{linedin}}](https://www.linkedin.com/in/nicholas-a-perry)	[{{github}}](https://github.com/nick-perry14)			[{{email}}](mailto:perryna4@miamioh.edu)
