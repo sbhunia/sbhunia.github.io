@@ -15,36 +15,36 @@ date: 2020-10-20 23:51
 
 
 ### Graduate Student:
-- Monu Chaudhary	[{{linedin}}](https://www.linkedin.com/in/monu-chaudhary/)				[{{email}}](chaudhm3@miamioh.edu)
+- Monu Chaudhary	[{{linedin}}](https://www.linkedin.com/in/monu-chaudhary/)				[{{email}}](mailto:chaudhm3@miamioh.edu)
 - Akshay Ramuhalli (Under Dr. Radu Stoleru) (MS, 2019) [{{linedin}}](https://www.linkedin.com/in/akshay-ramuhally/)
-- Nick Perry	[{{linedin}}](https://www.linkedin.com/in/nicholas-a-perry)	[{{github}}](https://github.com/nick-perry14)			[{{email}}](perryna4@miamioh.edu)
 
 ### Undergraduate Students:
-- Sam Kuhbander	[{{linedin}}](https://www.linkedin.com/in/samuel-kuhbander/)	[{{github}}](https://github.com/samkuhbander)		[{{twitter}}](https://twitter.com/KuhbanderSam)	[{{email}}](kuhbansc@miamioh.edu)
-- Daniel Cruz	[{{linedin}}](www.linkedin.com/in/daniel-g-cruz)	[{{email}}](cruzdg@miamioh.edu)
-- Sara Grimes	[{{linedin}}](www.linkedin.com/in/sara-grimes-9a09661a5)				[{{email}}](grimessi@miamioh.edu)
+- Nick Perry	[{{linedin}}](https://www.linkedin.com/in/nicholas-a-perry)	[{{github}}](https://github.com/nick-perry14)			[{{email}}](mailto:perryna4@miamioh.edu)
+- Sam Kuhbander	[{{linedin}}](https://www.linkedin.com/in/samuel-kuhbander/)	[{{github}}](https://github.com/samkuhbander)		[{{twitter}}](https://twitter.com/KuhbanderSam)	[{{email}}](mailto:kuhbansc@miamioh.edu)
+- Daniel Cruz	[{{linedin}}](www.linkedin.com/in/daniel-g-cruz)	[{{email}}](mailto:cruzdg@miamioh.edu)
+- Sara Grimes	[{{linedin}}](www.linkedin.com/in/sara-grimes-9a09661a5)				[{{email}}](mailto:grimessi@miamioh.edu)
 
 
 ### Capstone Projects
-#### Blockchain based First-Responder application
-- Zach Katz	[{{linedin}}](https://www.linkedin.com/in/zach-katz-32101019a)	[{{github}}](GitHub.com/zakatz)			[{{email}}](katzza@miamioh.edu)
-- Jorge Nadjar	[{{linedin}}](https://www.linkedin.com/in/jorge-nadjar/)	[{{github}}](https://github.com/jorgenadjar)			[{{email}}](nadjarjn@miamioh.edu)
+#### Blockchain based First-Responder application (Fall 21-Spring 22)
+- Zach Katz	[{{linedin}}](https://www.linkedin.com/in/zach-katz-32101019a)	[{{github}}](GitHub.com/zakatz)			[{{email}}](mailto:katzza@miamioh.edu)
+- Jorge Nadjar	[{{linedin}}](https://www.linkedin.com/in/jorge-nadjar/)	[{{github}}](https://github.com/jorgenadjar)			[{{email}}](mailto:nadjarjn@miamioh.edu)
 
 
-#### Distributed Storage for First responders
+#### Distributed Storage for First responders (Fall 20-Spring 21)
 [{{pptsign}}](ppt/2021_distributed_storage.pptx)
 
-- Patrick Liem (Fall 20-Spring 21) [{{linedin}}](https://www.linkedin.com/in/patrick-liem/)     [{{github}}](https://github.com/patrickliem)  [{{email}}](patrickliem00@gmail.com)
+- Patrick Liem  [{{linedin}}](https://www.linkedin.com/in/patrick-liem/)     [{{github}}](https://github.com/patrickliem)  [{{email}}](mailto:patrickliem00@gmail.com)
 
-- Riley Gabbard (Fall 20-Spring 21) [{{linedin}}](https://www.linkedin.com/in/riley-gabbard-b01878130)     [{{github}}](https://github.com/RileyGabbard) [{{email}}](mailto:rileygabbard@gmail.com)
+- Riley Gabbard [{{linedin}}](https://www.linkedin.com/in/riley-gabbard-b01878130)     [{{github}}](https://github.com/RileyGabbard) [{{email}}](mailto:rileygabbard@gmail.com)
 
-- Nick Ferritto (Fall 20-Spring 21) [{{linedin}}](https://www.linkedin.com/in/nick-ferritto-7509a1171/) [{{email}}](mailto:nferritto@att.net)
+- Nick Ferritto  [{{linedin}}](https://www.linkedin.com/in/nick-ferritto-7509a1171/) [{{email}}](mailto:nferritto@att.net)
 
-- Sean Morton (Fall 20-Spring 21) [{{linedin}}](https://www.linkedin.com/in/sean-morton-66685116b/)   [{{email}}](smorton684@gmail.com)
+- Sean Morton [{{linedin}}](https://www.linkedin.com/in/sean-morton-66685116b/)   [{{email}}](mailto:smorton684@gmail.com)
 
 
-#### Digital Triage Management Application
-- Jiangbei Lin (Fall 20-Spring 21) [{{linedin}}](https:/www.linkedin.com/in/jiangbei-lin-085aa81b9)     [{{github}}](https://github.com/linj16) [{{email}}](1072112733@qq.com)
-- Zhaowei Guo
-- Zhibin Lyu
-- Weifan Liu  [{{email}}](mailto:1365225174@qq.com) [{{github}}](https://github.com/weifan1999)
+#### Digital Triage Management Application ((Fall 20-Spring 21))
+- Jiangbei Lin [{{linedin}}](https:/www.linkedin.com/in/jiangbei-lin-085aa81b9)     [{{github}}](https://github.com/linj16) [{{email}}](mailto:1072112733@qq.com)
+- Zhaowei Guo [{{email}}](mailto:guoz20@miamioh.edu)
+- Zhibin Lyu [{{email}}](mailto:lyuz4@miamioh.edu)
+- Weifan Liu   [{{github}}](https://github.com/weifan1999) [{{email}}](mailto:1365225174@qq.com)
