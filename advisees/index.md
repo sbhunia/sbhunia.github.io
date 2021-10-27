@@ -37,7 +37,7 @@ date: 2020-10-20 23:51
 - Zach Katz	[{{linedin}}](https://www.linkedin.com/in/zach-katz-32101019a)	[{{github}}](https://GitHub.com/zakatz)			[{{email}}](mailto:katzza@miamioh.edu)
 - Jorge Nadjar	[{{linedin}}](https://www.linkedin.com/in/jorge-nadjar/)	[{{github}}](https://github.com/jorgenadjar)			[{{email}}](mailto:nadjarjn@miamioh.edu)
 - Max Beedy	[{{linedin}}](https://www.linkedin.com/in/max-beedy-a04332224/)			[{{email}}](mailto:beedyml@miamioh.edu)
-- Matt Blackert	[{{linedin}}](www.linkedin.com/in/matthewrblackert)	[{{github}}](https://github.com/blackemr) [{{email}}](mailto:blackemr@miamioh.edu)
+- Matt Blackert	[{{linedin}}](https://www.linkedin.com/in/matthewrblackert)	[{{github}}](https://github.com/blackemr) [{{email}}](mailto:blackemr@miamioh.edu)
 - Thomas  Nguyen	[{{linedin}}](https://www.linkedin.com/in/nguyen-thomas-khoa/)	[{{github}}](https://github.com/khoakazy12345)  [{{email}}](mailto:nguyenk7@miamioh.edu)
 
 
