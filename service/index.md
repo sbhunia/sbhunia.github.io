@@ -5,7 +5,8 @@ date: 2014-10-19 23:51
 ---
 
 ### Session Chair:
-- Served as session Chair at IEEE CSS 2015 track: Active Defense Techniques and Systems
+- Session chair for 19th IEEEAnnual Consumer Communications & Networking Conference (CCNC 2022), session: "Interference Management & Resource Allocation"
+- Session Chair at IEEE CSS 2015 track: Active Defense Techniques and Systems
 
 
 
