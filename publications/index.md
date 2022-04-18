@@ -39,9 +39,9 @@ Volume 91, 2019 [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adho
 
 ### Conference proceedings
 
-1. E Caroscio, J Paul, J Murray, and S Bhunia, "Analyzing the Ransomware Attack on D.C. Metropolitan Police Department by Babuk", 2022 IEEE International Systems Conference (SysCon) [{{pdfsign}}](manuscripts/syscon22.pdf)
+1. E Caroscio, J Paul, J Murray, and S Bhunia, "Analyzing the Ransomware Attack on D.C. Metropolitan Police Department by Babuk", 2022 IEEE International Systems Conference (SysCon). [{{pdfsign}}](manuscripts/syscon22.pdf) [{{pptsign}}](syscon22_presentation.pptx)
 
-1. J Vazquez-Estrada, S Bhunia, M Khan†, Y Qian, and N Tran Huu, "Neighbor Discovery in a LoRa Assisted Multi-Transceiver Free-Space-Optical Network", proc. of IEEE Wireless Communications and Networking Conference (WCNC), 2022. [{{pdfsign}}](manuscripts/wcnc22.pdf).
+1. J Vazquez-Estrada, S Bhunia, M Khan†, Y Qian, and N Tran Huu, "Neighbor Discovery in a LoRa Assisted Multi-Transceiver Free-Space-Optical Network", proc. of IEEE Wireless Communications and Networking Conference (WCNC), 2022. [{{pdfsign}}](manuscripts/wcnc22.pdf) [{{pptsign}}](wcnc_nodediscovery.pptx)
 
 1. J Vazquez-Estrada, S Bhunia, M Khan†, Y Qian, and N Tran Huu, "Neighbor Discovery in a Multi-Transceiver Free-Space-Optical Ad Hoc Network", proc. of IEEE Consumer Communications & Networking Conference (CCNC), 2022. [{{pdfsign}}](manuscripts/ccnc22.pdf)
 
