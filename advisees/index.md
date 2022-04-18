@@ -33,7 +33,8 @@ date: 2020-10-20 23:51
 
 
 ### Capstone Projects
-#### Blockchain based First-Responder application (Fall 21-Spring 22)
+#### Blockchain based First-Responder application (Fall 21-Spring 22) [Demo](https://sites.miamioh.edu/cse-senior-design-expo/2022/04/ambulance-incentive-system-project/)
+
 - Zach Katz	[{{linedin}}](https://www.linkedin.com/in/zach-katz-32101019a)	[{{github}}](https://GitHub.com/zakatz)			[{{email}}](mailto:katzza@miamioh.edu)
 - Jorge Nadjar	[{{linedin}}](https://www.linkedin.com/in/jorge-nadjar/)	[{{github}}](https://github.com/jorgenadjar)			[{{email}}](mailto:nadjarjn@miamioh.edu)
 - Max Beedy	[{{linedin}}](https://www.linkedin.com/in/max-beedy-a04332224/)			[{{email}}](mailto:beedyml@miamioh.edu)
@@ -41,8 +42,9 @@ date: 2020-10-20 23:51
 - Thomas  Nguyen	[{{linedin}}](https://www.linkedin.com/in/nguyen-thomas-khoa/)	[{{github}}](https://github.com/khoakazy12345)  [{{email}}](mailto:nguyenk7@miamioh.edu)
 
 
-#### Distributed Storage for First responders (Fall 20-Spring 21)
+#### Distributed Storage for First responders (Fall 20-Spring 21) [Demo](https://sites.miamioh.edu/cse-senior-design-expo/2021/04/cocc-distributed-storage/)
 [{{pptsign}}](ppt/2021_distributed_storage.pptx)
+
 
 - Patrick Liem  [{{linedin}}](https://www.linkedin.com/in/patrick-liem/)     [{{github}}](https://github.com/patrickliem)  [{{email}}](mailto:patrickliem00@gmail.com)
 - Riley Gabbard [{{linedin}}](https://www.linkedin.com/in/riley-gabbard-b01878130)     [{{github}}](https://github.com/RileyGabbard) [{{email}}](mailto:rileygabbard@gmail.com)
@@ -50,7 +52,7 @@ date: 2020-10-20 23:51
 - Sean Morton [{{linedin}}](https://www.linkedin.com/in/sean-morton-66685116b/)   [{{email}}](mailto:smorton684@gmail.com)
 
 
-#### Digital Triage Management Application ((Fall 20-Spring 21))
+#### Digital Triage Management Application ((Fall 20-Spring 21)) [Demo](https://sites.miamioh.edu/cse-senior-design-expo/2021/04/cocc-smart-app/)
 - Jiangbei Lin [{{linedin}}](https:/www.linkedin.com/in/jiangbei-lin-085aa81b9)     [{{github}}](https://github.com/linj16) [{{email}}](mailto:1072112733@qq.com)
 - Zhaowei Guo [{{email}}](mailto:guoz20@miamioh.edu)
 - Zhibin Lyu [{{email}}](mailto:lyuz4@miamioh.edu)
