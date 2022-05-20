@@ -47,9 +47,6 @@ Volume 91, 2019 [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adho
 [{{pdfsign}}](/publications/manuscripts/wcnc22.pdf)
 [{{pptsign}}](/publications/manuscripts/wcnc_nodediscovery.pptx)
 
-1. J Vazquez-Estrada, S Bhunia, M Khan†, Y Qian, and N Tran Huu, "Neighbor Discovery in a Multi-Transceiver Free-Space-Optical Ad Hoc Network", proc. of IEEE Consumer Communications & Networking Conference (CCNC), 2022. [{{pdfsign}}](manuscripts/ccnc22.pdf)
-
-
 1. L Sterle and **S Bhunia**, "On SolarWinds Orion Platform Security Breach", proc. of SWC 2021, Atlanta, Georgia, USA. [{{pdfsign}}](manuscripts/swc2021.pdf)
 
 1. P A Regis, **S Bhunia**, A N Patra, and S Sengupta, "Deep-learning assisted Cross-Layer Routing in Multi-hop Wireless Network", proc. of WF-IoT 2021, New Orleans, Louisiana, USA. [{{pdfsign}}](manuscripts/wfiot2021.pdf)
@@ -98,6 +95,14 @@ Networks", International Conference on Computing, Networking and Communications 
 1. **S Bhunia**, A Kundu, I S Misra, S K Sanyal, "Reducing Hand-Off Latency in WiMAX Network Using Cross Layer Information", proc. of International Conference on Advances in Computer Engineering (ACE)-2010, pp.346-348,20-21 June 2010, Bangalore, India. [{{pdfsign}}](manuscripts/ace10.pdf) [{{pptsign}}](manuscripts/ace10.ppt)
 
 1. A Kundu, **S Bhunia**, "Study of OPNET and performance evaluation of WiMAX network under various terrain conditions in OPNET", proc. of National Conference on Microwave and Communication NCMicroCom-2010, February 2010. [{{pdfsign}}](manuscripts/ncmicrocom.pdf) [{{pptsign}}](manuscripts/ncmicrocom.ppt)
+
+
+### Poster Presentations
+
+1. J Vazquez-Estrada, S Bhunia, M Khan†, Y Qian, and N Tran Huu, "Neighbor Discovery in a Multi-Transceiver Free-Space-Optical Ad Hoc Network", proc. of IEEE Consumer Communications & Networking Conference (CCNC), 2022. [{{pdfsign}}](manuscripts/ccnc22.pdf)
+
+1. S. Bhunia, R. Stoleru, A. Haroon, M. Sagor, A. Altaweel, M. Chao, M. Maurice, R. Blalock, "Poster: EdgeKeeper – Resilient and Lightweight Coordination for Mobile Edge Computing Systems", proc. of The 20th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022). [{{pdfsign}}](manuscripts/mobisys22.pdf)
+
 
 ### Patent Invention Disclosure
 - M Khan, **S Bhunia**, M Yuksel and S Sengupta, "Directional Link Discovery and
