@@ -14,6 +14,11 @@ date: 2014-10-19 23:51
 
 ### Journal Papers
 
+1. A Altaweel, R Stoleru, G Gu, AK Maity, S Bhunia, "On Detecting Route Hijacking Attack in Opportunistic Mobile Networks", accepted at IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING. [{{pdfsign}}](/publications/manuscripts/tdsc22.pdf)
+
+1. A Altaweel, C Yang, R Stoleru, S Bhunia, M Sagor, M Maurice, R Blalock, "RSock: A Resilient Routing Protocol for Mobile Fog/Edge Networks", accepted at Elsevier Ad Hoc Networks.  [{{pdfsign}}](/publications/manuscripts/adhoc22.pdf)
+
+
 1. MR Khan, **S Bhunia**, M Yuksel, L Kane, "Line-of-Sight Discovery in 3D Using Highly Directional Transceivers",  in IEEE Transactions on Mobile Computing, vol. 18, no. 12, pp. 2885-2898, 2019, [DOI:10.1109/TMC.2018.2885061](https://doi.org/10.1109/TMC.2018.2885061). [{{pdfsign}}](manuscripts/tmc19.pdf)
 
 1. **S Bhunia**, M R Khan, M Yuksel, S Sengupta, "In-Band LOS Discovery Using Highly Directional Transceivers", Ad Hoc Networks,
