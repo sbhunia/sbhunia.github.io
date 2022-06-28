@@ -14,15 +14,16 @@ date: 2014-10-19 23:51
 
 ### Journal Papers
 
-1. A Altaweel, R Stoleru, G Gu, AK Maity, S Bhunia, "On Detecting Route Hijacking Attack in Opportunistic Mobile Networks", accepted at IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING. [{{pdfsign}}](/publications/manuscripts/tdsc22.pdf)
+1. A Altaweel, R Stoleru, G Gu, AK Maity, **S Bhunia**, "On Detecting Route Hijacking Attack in Opportunistic Mobile Networks", in IEEE Transactions on Dependable and Secure Computing, 2022, [DOI: 10.1109/TDSC.2022.3186029](https://doi.org/10.1109/TDSC.2022.3186029). [{{pdfsign}}](/publications/manuscripts/tdsc22.pdf)
 
-1. A Altaweel, C Yang, R Stoleru, S Bhunia, M Sagor, M Maurice, R Blalock, "RSock: A Resilient Routing Protocol for Mobile Fog/Edge Networks", accepted at Elsevier Ad Hoc Networks.  [{{pdfsign}}](/publications/manuscripts/adhoc22.pdf)
+1. A Altaweel, C Yang, R Stoleru, **S Bhunia**, M Sagor, M Maurice, R Blalock, "RSock: A Resilient Routing Protocol for Mobile Fog/Edge Networks", Elsevier Ad Hoc Networks, Volume 134,
+2022, [DOI:10.1016/j.adhoc.2022.102926](https://doi.org/10.1016/j.adhoc.2022.102926).   [{{pdfsign}}](/publications/manuscripts/adhoc22.pdf)
 
 
 1. MR Khan, **S Bhunia**, M Yuksel, L Kane, "Line-of-Sight Discovery in 3D Using Highly Directional Transceivers",  in IEEE Transactions on Mobile Computing, vol. 18, no. 12, pp. 2885-2898, 2019, [DOI:10.1109/TMC.2018.2885061](https://doi.org/10.1109/TMC.2018.2885061). [{{pdfsign}}](manuscripts/tmc19.pdf)
 
 1. **S Bhunia**, M R Khan, M Yuksel, S Sengupta, "In-Band LOS Discovery Using Highly Directional Transceivers", Ad Hoc Networks,
-Volume 91, 2019 [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adhoc.2019.101875) [{{pdfsign}}](manuscripts/adhoc19.pdf)
+Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adhoc.2019.101875). [{{pdfsign}}](manuscripts/adhoc19.pdf)
 
 1. **S Bhunia**, E Miles, S Sengupta and F Vazquez-Abad, "CR-Honeynet: A Cognitive Radio Learning and Decoy Based Sustenance Mechanism to Avoid Intelligent Jammer",   in IEEE Transactions on Cognitive Communications and Networking, vol. 4, no. 3, pp. 567-581, 2018, [DOI: 10.1109/TCCN.2018.2833549](https://doi.org/10.1109/TCCN.2018.2833549). [{{pdfsign}}](manuscripts/tccn18.pdf)
 
@@ -44,11 +45,11 @@ Volume 91, 2019 [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adho
 
 ### Conference proceedings
 
-1. E Caroscio, J Paul, J Murray, and S Bhunia, "Analyzing the Ransomware Attack on D.C. Metropolitan Police Department by Babuk", 2022 IEEE International Systems Conference (SysCon).
+1. E Caroscio, J Paul, J Murray, and **S Bhunia**, "Analyzing the Ransomware Attack on D.C. Metropolitan Police Department by Babuk", 2022 IEEE International Systems Conference (SysCon).
 [{{pdfsign}}](/publications/manuscripts/syscon22.pdf)
 [{{pptsign}}](/publications/manuscripts/syscon22_presentation.pptx)
 
-1. J Vazquez-Estrada, S Bhunia, M Khan†, Y Qian, and N Tran Huu, "Neighbor Discovery in a LoRa Assisted Multi-Transceiver Free-Space-Optical Network", proc. of IEEE Wireless Communications and Networking Conference (WCNC), 2022.
+1. J Vazquez-Estrada, **S Bhunia**, M Khan, Y Qian, and N Tran Huu, "Neighbor Discovery in a LoRa Assisted Multi-Transceiver Free-Space-Optical Network", proc. of IEEE Wireless Communications and Networking Conference (WCNC), 2022.
 [{{pdfsign}}](/publications/manuscripts/wcnc22.pdf)
 [{{pptsign}}](/publications/manuscripts/wcnc_nodediscovery.pptx)
 
@@ -122,3 +123,9 @@ Maintenance Between Mobiles", USPTO patent application [PCT/US17/32731](https://
 ### Thesis
 - "Survivability Against Intelligent Adversary in Next-Generation Wireless Networks", PhD Dissertation at University of Nevada, Reno. [{{pdfsign}}](manuscripts/thesis_phd.pdf)
 - "Performance Evaluation of WiMax Network in Aspect of Modulation and Coding Schemes and Hand-off using Opnet", Master's Thesis at Jadavpur University. [{{pdfsign}}](manuscripts/thesis_mtech.pdf)
+
+_________________
+
+- [Elsevier policy on sharing Articles on personal website](https://www.elsevier.com/authors/submit-your-paper/sharing-and-promoting-your-article)
+
+- [IEEE policy on sharing article on personal website](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/)
