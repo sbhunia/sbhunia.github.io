@@ -4,9 +4,18 @@ title: Teaching
 date: 2015-09-12 23:51
 ---
 ### At Miami University:
-- CSE 470/570 - Special Topics: Ethical Hacking [`Fall-21`](CSE470M-fall-21.pdf)
-- CSE 467/567 - Computer and Network Security [`Spring-21`](CSE467_567-spring-21.pdf), [`Spring-22`](syllabus/CSE467_567-spring-22.pdf)
-- CSE 271 – Object-Oriented Programming [`Fall-20`](CSE271-fall-20.pdf), [`Spring-21`](CSE271-spring-21.pdf)
+- CSE 470/570 - Special Topics: Ethical Hacking
+  [`Fall-21`](/teaching/syllabus/CSE470M-fall-21.pdf),
+  [`Fall-22`](/teaching/syllabus/CSE470_570-fall-22.pdf)
+
+- CSE 467/567 - Computer and Network Security
+  [`Spring-21`](CSE467_567-spring-21.pdf),
+  [`Spring-22`](syllabus/CSE467_567-spring-22.pdf)
+
+- CSE 271 – Object-Oriented Programming
+  [`Fall-20`](CSE271-fall-20.pdf),
+  [`Spring-21`](CSE271-spring-21.pdf)
+
 - CSE 274 – Data Abstraction and Data Structures `Fall-20`
 
 ### At University of Nevada Reno:

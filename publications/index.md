@@ -45,6 +45,15 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 ### Conference proceedings
 
+1. **S. Bhunia**, R. Stoleru, A. Haroon, M. Sagor, A. Altaweel, M. Chao, M. Maurice, and R. Blalock, "EdgeKeeper: Resilient and lightweight coordination for mobile edge clouds," in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2022.
+[{{pdfsign}}](/publications/manuscripts/mass22_edgekeeper.pdf)
+
+
+1. M. Sagor, R. Stoleru, A. Haroon, **S. Bhunia**, M. Chao, A. Altaweel, M. Maurice, and R. Blalock, "R-Drive: Resilient data storage and sharing for mobile edge clouds," in IEEE International Conference on
+Mobile AdHoc and Smart Systems (MASS), 2022.
+[{{pdfsign}}](/publications/manuscripts/mass22_rdrive.pdf)
+
+
 1. E Caroscio, J Paul, J Murray, and **S Bhunia**, "Analyzing the Ransomware Attack on D.C. Metropolitan Police Department by Babuk", 2022 IEEE International Systems Conference (SysCon).
 [{{pdfsign}}](/publications/manuscripts/syscon22.pdf)
 [{{pptsign}}](/publications/manuscripts/syscon22_presentation.pptx)
@@ -105,9 +114,10 @@ Networks", International Conference on Computing, Networking and Communications 
 
 ### Poster and Short Papers
 
-1. J Vazquez-Estrada, S Bhunia, M Khan†, Y Qian, and N Tran Huu, "Neighbor Discovery in a Multi-Transceiver Free-Space-Optical Ad Hoc Network", proc. of IEEE Consumer Communications & Networking Conference (CCNC), 2022. [{{pdfsign}}](manuscripts/ccnc22.pdf)
+1. J Vazquez-Estrada, S Bhunia, M Khan†, Y Qian, and N Tran Huu, "Neighbor Discovery in a Multi-Transceiver Free-Space-Optical Ad Hoc Network", proc. of IEEE Consumer Communications & Networking Conference (CCNC), 2022. [{{pdfsign}}](/publications/manuscripts/ccnc22.pdf)
 
-1. S. Bhunia, R. Stoleru, A. Haroon, M. Sagor, A. Altaweel, M. Chao, M. Maurice, R. Blalock, "Poster: EdgeKeeper – Resilient and Lightweight Coordination for Mobile Edge Computing Systems", proc. of The 20th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022). [{{pdfsign}}](manuscripts/mobisys22.pdf)
+1. S. Bhunia, R. Stoleru, A. Haroon, M. Sagor, A. Altaweel, M. Chao, M. Maurice, R. Blalock, "Poster: EdgeKeeper – Resilient and Lightweight Coordination for Mobile Edge Computing Systems", proc. of The 20th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022). [{{pdfsign}}](/publications/manuscripts/mobisys22.pdf)
+[{{pptsign}}](/publications/manuscripts/mobisys22.pptx)
 
 ### Invited Articles
 1. **S. Bhunia** and S. Sengupta, "Feasibility of Channel Hopping in Jamming Attack", IEEE TCSIM Newsletter, Quarterly Newsletter, issue 19, pp. 2-5, 2013. [{{pdfsign}}](manuscripts/tccsim.pdf)
