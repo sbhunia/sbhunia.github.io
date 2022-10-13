@@ -114,7 +114,7 @@ Networks", International Conference on Computing, Networking and Communications 
 
 ### Poster and Short Papers
 
-1. J Vazquez-Estrada, S Bhunia, M Khan†, Y Qian, and N Tran Huu, "Neighbor Discovery in a Multi-Transceiver Free-Space-Optical Ad Hoc Network", proc. of IEEE Consumer Communications & Networking Conference (CCNC), 2022. [{{pdfsign}}](/publications/manuscripts/ccnc22.pdf)
+1. J Vazquez-Estrada, S Bhunia, M Khan, Y Qian, and N Tran Huu, "Neighbor Discovery in a Multi-Transceiver Free-Space-Optical Ad Hoc Network", proc. of IEEE Consumer Communications & Networking Conference (CCNC), 2022. [{{pdfsign}}](/publications/manuscripts/ccnc22.pdf)
 
 1. S. Bhunia, R. Stoleru, A. Haroon, M. Sagor, A. Altaweel, M. Chao, M. Maurice, R. Blalock, "Poster: EdgeKeeper – Resilient and Lightweight Coordination for Mobile Edge Computing Systems", proc. of The 20th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022). [{{pdfsign}}](/publications/manuscripts/mobisys22.pdf)
 [{{pptsign}}](/publications/manuscripts/mobisys22.pptx)
