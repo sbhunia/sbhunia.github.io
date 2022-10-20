@@ -45,24 +45,24 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 ### Conference proceedings
 
-1. **S. Bhunia**, R. Stoleru, A. Haroon, M. Sagor, A. Altaweel, M. Chao, M. Maurice, and R. Blalock, "EdgeKeeper: Resilient and lightweight coordination for mobile edge clouds," in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2022.
+1. S. Bhunia, R. Stoleru, A. Haroon, M. Sagor, A. Altaweel, M. Chao, M. Maurice, and R. Blalock, "EdgeKeeper: Resilient and lightweight coordination for mobile edge clouds," in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2022.
 [{{pdfsign}}](/publications/manuscripts/mass22_edgekeeper.pdf)
 
 
-1. M. Sagor, R. Stoleru, A. Haroon, **S. Bhunia**, M. Chao, A. Altaweel, M. Maurice, and R. Blalock, "R-Drive: Resilient data storage and sharing for mobile edge clouds," in IEEE International Conference on
-Mobile AdHoc and Smart Systems (MASS), 2022.
+1. M. Sagor, R. Stoleru, A. Haroon, S. Bhunia, M. Chao, A. Altaweel, M. Maurice, and R. Blalock, "R-Drive: Resilient data storage and sharing for mobile edge clouds," in IEEE International Conference on
+Mobile AdHoc and Smart Systems (MASS), 2022. **(Awarded as the Best Paper)**
 [{{pdfsign}}](/publications/manuscripts/mass22_rdrive.pdf)
 
 
-1. E Caroscio, J Paul, J Murray, and **S Bhunia**, "Analyzing the Ransomware Attack on D.C. Metropolitan Police Department by Babuk", 2022 IEEE International Systems Conference (SysCon).
+1. E Caroscio, J Paul, J Murray, and S Bhunia, "Analyzing the Ransomware Attack on D.C. Metropolitan Police Department by Babuk", 2022 IEEE International Systems Conference (SysCon).
 [{{pdfsign}}](/publications/manuscripts/syscon22.pdf)
 [{{pptsign}}](/publications/manuscripts/syscon22_presentation.pptx)
 
-1. J Vazquez-Estrada, **S Bhunia**, M Khan, Y Qian, and N Tran Huu, "Neighbor Discovery in a LoRa Assisted Multi-Transceiver Free-Space-Optical Network", proc. of IEEE Wireless Communications and Networking Conference (WCNC), 2022.
+1. J Vazquez-Estrada, S Bhunia, M Khan, Y Qian, and N Tran Huu, "Neighbor Discovery in a LoRa Assisted Multi-Transceiver Free-Space-Optical Network", proc. of IEEE Wireless Communications and Networking Conference (WCNC), 2022.
 [{{pdfsign}}](/publications/manuscripts/wcnc22.pdf)
 [{{pptsign}}](/publications/manuscripts/wcnc_nodediscovery.pptx)
 
-1. L Sterle and **S Bhunia**, "On SolarWinds Orion Platform Security Breach", proc. of SWC 2021, Atlanta, Georgia, USA. [{{pdfsign}}](manuscripts/swc2021.pdf)
+1. L Sterle and S Bhunia, "On SolarWinds Orion Platform Security Breach", proc. of SWC 2021, Atlanta, Georgia, USA. [{{pdfsign}}](manuscripts/swc2021.pdf)
 
 1. P A Regis, **S Bhunia**, A N Patra, and S Sengupta, "Deep-learning assisted Cross-Layer Routing in Multi-hop Wireless Network", proc. of WF-IoT 2021, New Orleans, Louisiana, USA. [{{pdfsign}}](manuscripts/wfiot2021.pdf)
 
