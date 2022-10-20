@@ -51,7 +51,8 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 1. M. Sagor, R. Stoleru, A. Haroon, S. Bhunia, M. Chao, A. Altaweel, M. Maurice, and R. Blalock, "R-Drive: Resilient data storage and sharing for mobile edge clouds," in IEEE International Conference on
 Mobile AdHoc and Smart Systems (MASS), 2022. <span style="color:red">**Awarded as the Best Paper**</span>.
-[{{pdfsign}}](/publications/manuscripts/mass22_rdrive.pdf)
+[{{pdfsign}}](/publications/manuscripts/mass22_rdrive.pdf) 
+[{{pptsign}}](/publications/manuscripts/rdrive_presentation.pdf)
 
 
 1. E Caroscio, J Paul, J Murray, and S Bhunia, "Analyzing the Ransomware Attack on D.C. Metropolitan Police Department by Babuk", 2022 IEEE International Systems Conference (SysCon).
