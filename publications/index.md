@@ -45,13 +45,15 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 ### Conference proceedings
 
+1. Arthur Carvalho, Liudmila Zavolokina, Suman Bhunia, Monu Chaudhary, "Promoting Inclusiveness and Fairness through NFTs: The Case of Student-Athletes and NILs", in ACM CHI Conference on Human Factors in Computing Systems 2023. [{{pdfsign}}](publications/manuscripts/chi23.pdf)
+
 1. S. Bhunia, R. Stoleru, A. Haroon, M. Sagor, A. Altaweel, M. Chao, M. Maurice, and R. Blalock, "EdgeKeeper: Resilient and lightweight coordination for mobile edge clouds," in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2022.
 [{{pdfsign}}](/publications/manuscripts/mass22_edgekeeper.pdf)
 
 
 1. M. Sagor, R. Stoleru, A. Haroon, S. Bhunia, M. Chao, A. Altaweel, M. Maurice, and R. Blalock, "R-Drive: Resilient data storage and sharing for mobile edge clouds," in IEEE International Conference on
 Mobile AdHoc and Smart Systems (MASS), 2022. <span style="color:red">**Awarded as the Best Paper**</span>.
-[{{pdfsign}}](/publications/manuscripts/mass22_rdrive.pdf) 
+[{{pdfsign}}](/publications/manuscripts/mass22_rdrive.pdf)
 [{{pptsign}}](/publications/manuscripts/rdrive_presentation.pdf)
 
 
