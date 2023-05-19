@@ -3,27 +3,37 @@ layout: page
 title: Advisees
 date: 2020-10-20 23:51
 ---
-{% assign linedin = ' &emsp; <i class="fa fa-linkedin"></i>'%}
-{% assign github = ' &emsp; <i class="fa fa-github"></i>'%}
-{% assign twitter = ' &emsp; <i class="fa fa-twitter"></i>'%}
-{% assign email = ' &emsp; <i class="fa fa-envelope-o"></i>'%}
-{% assign website = ' &emsp; <i class="fa fa-globe"></i>'%}
-{% assign pptsign =  <i class="fa fa-file-powerpoint-o"></i>'%}
-{% assign link = '<i class="fa fa-link"></i>'%}
+{% assign linedin = '<i class="fa fa-linkedin"></i>'%}
+{% assign github = '&emsp; <i class="fa fa-github"></i>'%}
+{% assign twitter = '&emsp; <i class="fa fa-twitter"></i>'%}
+{% assign email = '&emsp; <i class="fa fa-envelope-o"></i>'%}
+{% assign website = '&emsp; <i class="fa fa-globe"></i>'%}
+{% assign pptsign =  <iclass="fa fa-file-powerpoint-o"></i>'%}
+{% assign link = '<iclass="fa fa-link"></i>'%}
+{% assign pdfsign = '<i class="fa fa-file-pdf-o"></i>'%}
+
 
 
 
 
 ### Graduate Student:
-- Monu Chaudhary	[{{linedin}}](https://www.linkedin.com/in/monu-chaudhary/)				[{{email}}](mailto:chaudhm3@miamioh.edu)
-- Angela Famera [{{linedin}}](https://www.linkedin.com/in/angelafamera/)				[{{email}}](mailto:fameraag@miamioh.edu)
+
+- `May 2024` Pratiksha Shrestha [{{linkedin}}](https://www.linkedin.com/in/pratiksha-shrestha/)
+
+- `May 2024` Owen Campbell 
+
+- `Dec 2023` Jessica Vazquez-Estrada	[{{linedin}}](https://www.linkedin.com/in/jessica-vazquez-3305a6217/)	[{{github}}](https://github.com/vazqueje) [{{email}}](mailto:vazqueje@miamioh.edu)
+
+- `Jul 2023` Nick Perry [{{linedin}}](https://www.linkedin.com/in/nicholas-a-perry/)
+
+- `Jul 2023` Monu Chaudhary	[{{linedin}}](https://www.linkedin.com/in/monu-chaudhary/)				[{{email}}](mailto:chaudhm3@miamioh.edu)
+
+- `Dec 2022` Angela Famera   [{{linedin}}](https://www.linkedin.com/in/angelafamera/)		Thesis: "Cross-Device Federated Intrusion Detector for Early Stage Botnet Detection" [{{pdfsign}}](/advisees/thesis/Famera_Masters_Thesis.pdf)
 
 ### Undergraduate Students:
-- Jessica Vazquez-Estrada	[{{linedin}}](https://www.linkedin.com/in/jessica-vazquez-3305a6217/)	[{{github}}](https://github.com/vazqueje) [{{email}}](mailto:vazqueje@miamioh.edu)
 - Nero Tran Huu	[{{linedin}}](https://www.linkedin.com/in/nerotranhuu/)	[{{github}}](https://github.com/nerotran) [{{email}}](mailto:tranhuq@miamioh.edu)
 - Nick Perry	[{{linedin}}](https://www.linkedin.com/in/nicholas-a-perry)	[{{github}}](https://github.com/nick-perry14)			[{{email}}](mailto:perryna4@miamioh.edu)
 - Sam Kuhbander	[{{linedin}}](https://www.linkedin.com/in/samuel-kuhbander/)	[{{github}}](https://github.com/samkuhbander)		[{{twitter}}](https://twitter.com/KuhbanderSam)	[{{email}}](mailto:kuhbansc@miamioh.edu)
-- Daniel Cruz	[{{linedin}}](https://www.linkedin.com/in/daniel-g-cruz)	[{{email}}](mailto:cruzdg@miamioh.edu)
 - Sara Grimes	[{{linedin}}](https://www.linkedin.com/in/sara-grimes-9a09661a5)				[{{email}}](mailto:grimessi@miamioh.edu)
 - Nam Hoang	[{{linedin}}](https://www.linkedin.com/in/nam-hoang-13246a107/)	[{{github}}](https://github.com/namnbk) [{{email}}](mailto:hoangnd@miamioh.edu)
 -	Huy Nguyen	[{{linedin}}](https://github.com/yahuy1)   [{{email}}](mailto:nguyenhg@miamioh.edu)
