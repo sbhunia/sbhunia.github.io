@@ -49,7 +49,8 @@ date: 2014-10-19 23:51
 ----------------------------------
 
 ### Biography:
-I joined Miami University of Ohio as an assistant professor in the Fall of 2020. Before that, I was a postdoctoral scholar at Texas A&M University. I obtained Ph.D. in Computer Science and Engineering from the University of Nevada, Reno, under the supervision of Prof. [Shamik Sengupta](http://www.cse.unr.edu/~shamik/). At UNR, I was awarded the Outstanding Graduating Graduate Student award which is awarded only one student in the University. I received a Master’s degree in Distributed and Mobile Computing from Jadavpur University, India in 2010, and my Bachelor’s degree in Electronics and Communication Engineering from West Bengal University of Technology, Kolkata, India in 2008.
+I joined Miami University of Ohio as an assistant professor in the Fall of 2020. Before that, I was a postdoctoral scholar at Texas A&M University. I obtained Ph.D. in Computer Science and Engineering from the University of Nevada, Reno, under the supervision of Prof. [Shamik Sengupta](http://www.cse.unr.edu/~shamik/). At UNR, I was awarded the Outstanding Graduating Graduate Student award which is awarded only one student in the University. I received a Master’s degree in Distributed and Mobile Computing from Jadavpur University, India in 2010, and my Bachelor’s degree in Electronics and Communication Engineering from West Bengal University of Technology, Kolkata, India in 2008. I started the [Miami University Cybersecurity Club](https://miamicyber.org/) in the summer of 2021.
+
 
 ___________________________________
 
