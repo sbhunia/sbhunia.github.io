@@ -11,6 +11,8 @@ date: 2015-09-12 23:51
 - CSE 467/567 - Computer and Network Security
   [`Spring-21`](CSE467_567-spring-21.pdf),
   [`Spring-22`](syllabus/CSE467_567-spring-22.pdf)
+  [`Fall-23`](syllabus/CSE467_567-fall-23.pdf)
+
 
 - CSE 271 – Object-Oriented Programming
   [`Fall-20`](CSE271-fall-20.pdf),
