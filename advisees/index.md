@@ -41,6 +41,14 @@ date: 2020-10-20 23:51
 
 ### Capstone Projects
 
+#### CTF Competion Design (Fall 23 - Spring 24)
+
+- Aaron Bryant [{{linkedin}}](https://www.linkedin.com/in/aaron-bryant-1776311a2/)
+- Ashley Scheffler [{{linkedin}}]
+- Sam Lothrop [{{linkedin}}](https://www.linkedin.com/in/samuel-lothrop-b1a7b71a8/)
+- Maurice Smith [{{linkedin}}](https://www.linkedin.com/in/maurice-smith2024/)
+
+
 #### Peer Review System using blockchain	(Fall 22 - Spring 23) [Demo](https://sites.miamioh.edu/cse-senior-design-expo/2023/04/peer-review-system/)
 
 - Joe Alcini [{{linkedin}}](https://www.linkedin.com/in/josephalcini/)
