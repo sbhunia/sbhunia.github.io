@@ -8,6 +8,3 @@ mainmenu:
   linkedin:
     url: "https://www.linkedin.com/in/sbhunia/"
     icon_class: "fa-linkedin"
-  twitter:
-    url: "https://twitter.com/SumanBhunia_"
-    icon_class: "fa-twitter"
