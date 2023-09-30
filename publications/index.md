@@ -14,11 +14,7 @@ date: 2014-10-19 23:51
 
 ### Journal Papers
 
-1. X Lai, H Jiang, S Bhunia,H Tran, "Reducing Latency in MEC Networks with Short-packet Communications" in IEEE Transactions on Vehicular Technology, 2023. [{{pdfsign}}](/publications/manuscripts/tvt23.pdf)
-
-
-
-
+1. X Lai, H Jiang, S Bhunia,H Tran, "Reducing Latency in MEC Networks with Short-packet Communications" in IEEE Transactions on Vehicular Technology, 2023. [DOI: 10.1109/TVT.2023.3320578](https://ieeexplore.ieee.org/document/10266729) [{{pdfsign}}](/publications/manuscripts/tvt23.pdf)
 
 
 1. A Altaweel, R Stoleru, G Gu, AK Maity, **S Bhunia**, "On Detecting Route Hijacking Attack in Opportunistic Mobile Networks", in IEEE Transactions on Dependable and Secure Computing, 2022, [DOI: 10.1109/TDSC.2022.3186029](https://doi.org/10.1109/TDSC.2022.3186029). [{{pdfsign}}](/publications/manuscripts/tdsc22.pdf)
