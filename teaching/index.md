@@ -4,9 +4,15 @@ title: Teaching
 date: 2015-09-12 23:51
 ---
 ### At Miami University:
+
+- CYB 134 - Introduction to Cybersecurity 
+  [`Summer-23`](/teaching/syllabus/CYB134-winter-24.pdf)
+
+
 - CSE 470/570 - Special Topics: Ethical Hacking
   [`Fall-21`](/teaching/syllabus/CSE470M-fall-21.pdf),
   [`Fall-22`](/teaching/syllabus/CSE470_570-fall-22.pdf)
+
 
 - CSE 467/567 - Computer and Network Security
   [`Spring-21`](CSE467_567-spring-21.pdf),
