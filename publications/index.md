@@ -54,7 +54,7 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 1. Nicholas Perry and Suman Bhunia, "Crossfire Attack Detection in 6G Networks with the Internet of Things(IoT)", in IFIP International Internet Of Things (IFIP-IoT) 2023. [{{pdfsign}}](/publications/manuscripts/ifipiot23.pdf) 
 
 
-1. Peter Jamieson, Suman Bhunia and Dhananjai M. Rao, "With ChatGPT, do we have to rewrite our learning objectives - CASE study in Cybersecurity", in IEEE Frontiers in Education Conference (FIE) 2023. [{{pdfsign}}](/publications/manuscripts/fie23.pdf) 
+1. Peter Jamieson, Suman Bhunia and Dhananjai M. Rao, "With ChatGPT, do we have to rewrite our learning objectives - CASE study in Cybersecurity", in IEEE Frontiers in Education Conference (FIE) 2023. [{{pdfsign}}](/publications/manuscripts/fie23.pdf) [{{pptsign}}](/publications/manuscripts/fie23.pptx)
 
 
 2. S. Bhunia, R. Stoleru, A. Haroon, M. Sagor, A. Altaweel, M. Chao, M. Maurice, and R. Blalock, "EdgeKeeper: Resilient and lightweight coordination for mobile edge clouds," in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2022.
