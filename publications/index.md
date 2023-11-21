@@ -132,6 +132,8 @@ Networks", International Conference on Computing, Networking and Communications 
 
 1. A Kundu, **S Bhunia**, "Study of OPNET and performance evaluation of WiMAX network under various terrain conditions in OPNET", proc. of National Conference on Microwave and Communication NCMicroCom-2010, February 2010. [{{pdfsign}}](manuscripts/ncmicrocom.pdf) [{{pptsign}}](manuscripts/ncmicrocom.ppt)
 
+-------------------------
+
 
 ### Poster and Short Papers
 
@@ -139,6 +141,9 @@ Networks", International Conference on Computing, Networking and Communications 
 
 1. S. Bhunia, R. Stoleru, A. Haroon, M. Sagor, A. Altaweel, M. Chao, M. Maurice, R. Blalock, "Poster: EdgeKeeper – Resilient and Lightweight Coordination for Mobile Edge Computing Systems", proc. of The 20th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2022). [{{pdfsign}}](/publications/manuscripts/mobisys22.pdf)
 [{{pptsign}}](/publications/manuscripts/mobisys22.pptx)
+
+
+----------------------------
 
 ### Invited Articles
 1. **S. Bhunia** and S. Sengupta, "Feasibility of Channel Hopping in Jamming Attack", IEEE TCSIM Newsletter, Quarterly Newsletter, issue 19, pp. 2-5, 2013. [{{pdfsign}}](manuscripts/tccsim.pdf)
