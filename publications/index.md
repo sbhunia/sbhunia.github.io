@@ -46,15 +46,23 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 1. A Kundu, I S Misra, S K Sanyal, **Suman Bhunia**, "VoIP Performance Over Broadband Wireless Networks Under Static and Mobile Environments", International Journal of Wireless & Mobile Networks (IJWMN), pp.82-93, Vol.2, No.4, November 2010.   [{{pdfsign}}](manuscripts/ijwmn10.pdf)
 
+----------------
+
 ### Conference proceedings
 
-1. Arthur Carvalho, Liudmila Zavolokina, Suman Bhunia, Monu Chaudhary, "Promoting Inclusiveness and Fairness through NFTs: The Case of Student-Athletes and NILs", in ACM CHI Conference on Human Factors in Computing Systems 2023. [{{pdfsign}}](/publications/manuscripts/chi23.pdf) [{{pptsign}}](/publications/manuscripts/chi23.pptx)
+
+1. A. Carvalho, L. Zavolokina, S. Bhunia, M. Chaudhary, and N. Yoganathan, “Promoting Inclusiveness and Fairness through NFTs: The Case of Student-Athletes and NILs,” in Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, Hamburg, Germany, 2023, pp. 1–9. [{{pdfsign}}](/publications/manuscripts/chi23.pdf) [{{pptsign}}](/publications/manuscripts/chi23.pptx)
 
 
-1. Nicholas Perry and Suman Bhunia, "Crossfire Attack Detection in 6G Networks with the Internet of Things(IoT)", in IFIP International Internet Of Things (IFIP-IoT) 2023. [{{pdfsign}}](/publications/manuscripts/ifipiot23.pdf) 
+1. N. Perry§and S. Bhunia, “Crossfire Attack Detection in 6G Networks with the Internet of Things (IoT),” in IFIP International Internet Of Things (IFIP-IoT), Dallas, USA, Nov. 2023. [{{pdfsign}}](/publications/manuscripts/ifipiot23.pdf) 
 
 
-1. Peter Jamieson, Suman Bhunia and Dhananjai M. Rao, "With ChatGPT, do we have to rewrite our learning objectives - CASE study in Cybersecurity", in IEEE Frontiers in Education Conference (FIE) 2023. [{{pdfsign}}](/publications/manuscripts/fie23.pdf) [{{pptsign}}](/publications/manuscripts/fie23.pptx)
+1. P. Jamieson, S. Bhunia, and D. M. Rao, “With ChatGPT, do we have to rewrite our learning objectives-CASE study in Cybersecurity,” in IEEE Frontiers in Education Conference (FIE), College Station, TX, Oct. 2023. [{{pdfsign}}](/publications/manuscripts/fie23.pdf) [{{pptsign}}](/publications/manuscripts/fie23.pptx)
+
+1. J. Beerman, D. Berent, Z. Falter, and S. Bhunia, “A Review of Colonial Pipeline Ran- somware Attack,” in 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW).[{{pdfsign}}](/publications/manuscripts/ccgrid23.pdf) 
+
+
+2. N. Hoang, P. Devabhakthini, R. M. Shukla, and S. Bhunia, “Network Coverage Improvement during Natural Disaster using Self-Organizing Maps,” in 2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME). Tenerife, Spain: IEEE, 2023, pp. 1–6. [{{pdfsign}}](/publications/manuscripts/ICECCME23.pdf)
 
 
 2. S. Bhunia, R. Stoleru, A. Haroon, M. Sagor, A. Altaweel, M. Chao, M. Maurice, and R. Blalock, "EdgeKeeper: Resilient and lightweight coordination for mobile edge clouds," in IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2022.
