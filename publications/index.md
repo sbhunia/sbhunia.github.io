@@ -14,6 +14,9 @@ date: 2014-10-19 23:51
 
 ### Journal Papers
 
+1. M Sagor, A Haroon, R Stoleru, S Bhunia, A Altaweel, M Chao, L Jin, M Maurice, R Blalock, "DistressNet-NG: A Resilient Data Storage and Sharing Framework for Mobile Edge Computing in Cyber-Physical Systems", in ACM Transactions on Cyber-Physical Systems, 2024. [{{pdfsign}}](/publications/manuscripts/cps23.pdf)
+
+
 1. X Lai, H Jiang, S Bhunia,H Tran, "Reducing Latency in MEC Networks with Short-packet Communications" in IEEE Transactions on Vehicular Technology, 2023. [DOI: 10.1109/TVT.2023.3320578](https://ieeexplore.ieee.org/document/10266729) [{{pdfsign}}](/publications/manuscripts/tvt23.pdf)
 
 
