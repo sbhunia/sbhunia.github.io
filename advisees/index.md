@@ -20,13 +20,13 @@ date: 2020-10-20 23:51
 
 - `May 2024` Owen Campbell Topic: Blockchain based auction system for resource hiring in Medical field.
 
-- `Dec 2023` Jessica Vazquez-Estrada	[{{linkedin}}](https://www.linkedin.com/in/jessica-vazquez-3305a6217/)	[{{github}}](https://github.com/vazqueje) Topic: Secure Neighbor Discovery in Free Space Optical Communication Network
+- `Dec 2023` Jessica Vazquez-Estrada	[{{linkedin}}](https://www.linkedin.com/in/jessica-vazquez-3305a6217/)	[{{github}}](https://github.com/vazqueje) Thesis: Secure Neighbor Discovery in Directional Wireless Ad Hoc Networks
 
-- `Jul 2023` Nick Perry [{{linkedin}}](https://www.linkedin.com/in/nicholas-a-perry/) [{{github}}](https://github.com/nick-perry14) Thesis: Preventing Cross-fire attack in 6G based IoT network
+- `Jul 2023` Nick Perry [{{linkedin}}](https://www.linkedin.com/in/nicholas-a-perry/) [{{github}}](https://github.com/nick-perry14) Thesis: Neural Network-Based Crossfire Attack Detection in SDN-Enabled Cellular Network
 
-- `Jul 2023` Monu Chaudhary	[{{linekdin}}](https://www.linkedin.com/in/monu-chaudhary/)		[{{github}}](https://github.com/Monu-Chaudhary)		[{{email}}](mailto:chaudhm3@miamioh.edu) Topic: Bloackchain enabled reward sharing for NIL based collectibles
+- `Jul 2023` Monu Chaudhary	[{{linekdin}}](https://www.linkedin.com/in/monu-chaudhary/)		[{{github}}](https://github.com/Monu-Chaudhary)		[{{email}}](mailto:chaudhm3@miamioh.edu) Thesis: Fairness in NIL-based NFT marketplace 
 
-- `Dec 2022` Angela Famera   [{{linkedin}}](https://www.linkedin.com/in/angelafamera/)	[{{github}}](https://github.com/afamera)	Thesis: "Cross-Device Federated Intrusion Detector for Early Stage Botnet Detection" [{{pdfsign}}](/advisees/thesis/Famera_Masters_Thesis.pdf)
+- `Dec 2022` Angela Famera   [{{linkedin}}](https://www.linkedin.com/in/angelafamera/)	[{{github}}](https://github.com/afamera)	Thesis: Cross-Device Federated Intrusion Detector for Early Stage Botnet Propagation [{{pdfsign}}](/advisees/thesis/Famera_Masters_Thesis.pdf)
 
 ### Undergraduate Students:
 - Nero Tran Huu	[{{linkedin}}](https://www.linkedin.com/in/nerotranhuu/)	[{{github}}](https://github.com/nerotran) [{{email}}](mailto:tranhuq@miamioh.edu)
@@ -41,6 +41,8 @@ date: 2020-10-20 23:51
 
 ### Capstone Projects
 
+
+
 #### CTF Competion Design (Fall 23 - Spring 24)
 
 - Aaron Bryant [{{linkedin}}](https://www.linkedin.com/in/aaron-bryant-1776311a2/)
@@ -48,6 +50,11 @@ date: 2020-10-20 23:51
 - Sam Lothrop [{{linkedin}}](https://www.linkedin.com/in/samuel-lothrop-b1a7b71a8/)
 - Maurice Smith [{{linkedin}}](https://www.linkedin.com/in/maurice-smith2024/)
 
+#### Hide and Seek Game for Attack/Defense Analysis
+- Obed Amaning-Yeboah
+- Jared Butler
+- Riley Taylor
+- Deniz Misirlioglu	  
 
 #### Peer Review System using blockchain	(Fall 22 - Spring 23) [Demo](https://sites.miamioh.edu/cse-senior-design-expo/2023/04/peer-review-system/)
 
