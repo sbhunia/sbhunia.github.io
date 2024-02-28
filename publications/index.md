@@ -14,10 +14,10 @@ date: 2014-10-19 23:51
 
 ### Journal Papers
 
-1. M Sagor, A Haroon, R Stoleru, S Bhunia, A Altaweel, M Chao, L Jin, M Maurice, R Blalock, "DistressNet-NG: A Resilient Data Storage and Sharing Framework for Mobile Edge Computing in Cyber-Physical Systems", in ACM Transactions on Cyber-Physical Systems, 2024. [{{pdfsign}}](/publications/manuscripts/cps23.pdf)
+1. M Sagor, A Haroon, R Stoleru, S Bhunia, A Altaweel, M Chao, L Jin, M Maurice, R Blalock, "DistressNet-NG: A Resilient Data Storage and Sharing Framework for Mobile Edge Computing in Cyber-Physical Systems", in ACM Transactions on Cyber-Physical Systems, 2024. [DOI:10.1145/3639057](https://doi.org/10.1145/3639057). [{{pdfsign}}](/publications/manuscripts/cps23.pdf)
 
 
-1. X Lai, H Jiang, S Bhunia,H Tran, "Reducing Latency in MEC Networks with Short-packet Communications" in IEEE Transactions on Vehicular Technology, 2023. [DOI: 10.1109/TVT.2023.3320578](https://ieeexplore.ieee.org/document/10266729) [{{pdfsign}}](/publications/manuscripts/tvt23.pdf)
+1. X Lai, H Jiang, S Bhunia,H Tran, "Reducing Latency in MEC Networks with Short-packet Communications" in IEEE Transactions on Vehicular Technology, 2023. [DOI: 10.1109/TVT.2023.3320578](https://ieeexplore.ieee.org/document/10266729). [{{pdfsign}}](/publications/manuscripts/tvt23.pdf)
 
 
 1. A Altaweel, R Stoleru, G Gu, AK Maity, **S Bhunia**, "On Detecting Route Hijacking Attack in Opportunistic Mobile Networks", in IEEE Transactions on Dependable and Secure Computing, 2022, [DOI: 10.1109/TDSC.2022.3186029](https://doi.org/10.1109/TDSC.2022.3186029). [{{pdfsign}}](/publications/manuscripts/tdsc22.pdf)
@@ -53,6 +53,11 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 ### Conference proceedings
 
+1. A. G. Famera§, R. M. Shukla, and S. Bhunia, “Cross-Device Federated Intrusion Detector for Early Stage Botnet Propagation in IoT,” in 2024 IEEE International Systems Conference  (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_famera.pdf) 
+
+1. S. Bhunia, Y. Qian†, and M. R. Khan, “Electronically Steerable Mobile Optical-Wireless Mesh-Network,” in 2024 IEEE International Systems Conference (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_esmowm.pdf) 
+
+1. S. Bhunia, O. Campbell§, A. Carvalho, and V. Alluri, “SCeFSTA: Smart Contract enabled Fair, Secure, and Transparent Auction for Healthcare Transportation,” in 2024 IEEE International Systems Conference (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_ambulance.pdf) 
 
 1. A. Carvalho, L. Zavolokina, S. Bhunia, M. Chaudhary, and N. Yoganathan, “Promoting Inclusiveness and Fairness through NFTs: The Case of Student-Athletes and NILs,” in Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, Hamburg, Germany, 2023, pp. 1–9. [{{pdfsign}}](/publications/manuscripts/chi23.pdf) [{{pptsign}}](/publications/manuscripts/chi23.pptx)
 
