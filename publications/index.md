@@ -55,7 +55,7 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 1. A. G. Famera§, R. M. Shukla, and S. Bhunia, “Cross-Device Federated Intrusion Detector for Early Stage Botnet Propagation in IoT,” in 2024 IEEE International Systems Conference  (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_famera.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_fl.pptx)
 
-1. S. Bhunia, Y. Qian†, and M. R. Khan, “Electronically Steerable Mobile Optical-Wireless Mesh-Network,” in 2024 IEEE International Systems Conference (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_esmowm.pdf) 
+1. S. Bhunia, Y. Qian†, and M. R. Khan, “Electronically Steerable Mobile Optical-Wireless Mesh-Network,” in 2024 IEEE International Systems Conference (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_esmowm.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_fso.pptx)
 
 1. S. Bhunia, O. Campbell§, A. Carvalho, and V. Alluri, “SCeFSTA: Smart Contract enabled Fair, Secure, and Transparent Auction for Healthcare Transportation,” in 2024 IEEE International Systems Conference (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_ambulance.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_scefsta.pptx)
 
