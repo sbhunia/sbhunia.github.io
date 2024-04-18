@@ -59,6 +59,13 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 1. S. Bhunia, O. Campbell§, A. Carvalho, and V. Alluri, “SCeFSTA: Smart Contract enabled Fair, Secure, and Transparent Auction for Healthcare Transportation,” in 2024 IEEE International Systems Conference (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_ambulance.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_scefsta.pptx)
 
+
+1. H He, J Self, K French, S Bhunia, M Salman and P Regis, "Zerologon Explored: In-Depth Analysis and Mitigation Strategies for Microsoft's Critical Vulnerability" in ET-EDGE 2024, Philadelphia, USA [{{pdfsign}}](/publications/manuscripts/et_edge_zerologon.pdf) 
+
+1. C Stejskal, A Perminov, A Lester, S Bhunia, M Salman and P Regis, "Analyzing the Impact and Implications of COMB: A Comprehensive Study of 3 Billion Breached Credentials" in ET-EDGE 2024, Philadelphia, USA. [{{pdfsign}}](/publications/manuscripts/et_edge_comb.pdf) 
+
+1. J Sorn, P Carroll, Z Pang, S Bhunia, M Salman and P Regis, "Exploring the CAM4 Data Breach: Security Vulnerabilities and Response Strategies" in ET-EDGE 2024, Philadelphia, USA. [{{pdfsign}}](/publications/manuscripts/et_edge_cam4.pdf) 
+
 1. A. Carvalho, L. Zavolokina, S. Bhunia, M. Chaudhary, and N. Yoganathan, “Promoting Inclusiveness and Fairness through NFTs: The Case of Student-Athletes and NILs,” in Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, Hamburg, Germany, 2023, pp. 1–9. [{{pdfsign}}](/publications/manuscripts/chi23.pdf) [{{pptsign}}](/publications/manuscripts/chi23.pptx)
 
 
