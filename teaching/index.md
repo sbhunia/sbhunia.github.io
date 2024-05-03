@@ -12,6 +12,7 @@ date: 2015-09-12 23:51
 - CSE 470/570 - Special Topics: Ethical Hacking
   [`Fall-21`](/teaching/syllabus/CSE470M-fall-21.pdf),
   [`Fall-22`](/teaching/syllabus/CSE470_570-fall-22.pdf)
+  [`Spring-24`](/teaching/syllabus/CSE470_570-spring-24.pdf)
 
 
 - CSE 467/567 - Computer and Network Security
