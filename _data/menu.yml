@@ -27,10 +27,10 @@ mainmenu:
     url: "/blog/"
     text: "Blog"
     icon_class: "fa-newspaper-o"
-#  cv:
-#    url: "/cv_suman_bhunia.pdf"
-#    text: "CV"
-#    icon_class: "fa-file-text"
+ cv:
+   url: "https://github.com/sbhunia/sbhunia.github.io/blob/master/cv_suman_bhunia.pdf"
+   text: "CV"
+   icon_class: "fa-file-text"
 #  aboutme:
 #    url: "/about/"
 #    text: "About Me"
