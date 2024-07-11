@@ -53,7 +53,11 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 ### Conference proceedings
 
-1. A. G. Famera§, R. M. Shukla, and S. Bhunia, “Cross-Device Federated Intrusion Detector for Early Stage Botnet Propagation in IoT,” in 2024 IEEE International Systems Conference  (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_famera.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_fl.pptx)
+1. P Shrestha, S Bhunia, A Carvalho, C Anderson, G. Lee, "A Case Study on Blockchain-based Anonymous Reviewer Incentive Token (BARIT)", in IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC) 2024. [{{pdfsign}}](/publications/manuscripts/smc24.pdf)
+
+
+
+1. AG Famera, RM Shukla, and S Bhunia, “Cross-Device Federated Intrusion Detector for Early Stage Botnet Propagation in IoT,” in 2024 IEEE International Systems Conference  (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_famera.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_fl.pptx)
 
 1. S. Bhunia, Y. Qian†, and M. R. Khan, “Electronically Steerable Mobile Optical-Wireless Mesh-Network,” in 2024 IEEE International Systems Conference (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_esmowm.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_fso.pptx)
 
@@ -151,6 +155,10 @@ Networks", International Conference on Computing, Networking and Communications 
 
 
 ### Poster and Short Papers
+
+
+1. A Carvalho, S Bhunia, "Verifying AI Content Authenticity Using Decentralized Technologies", in Americas Conference on Information Systems (AMCIS) 2024. [{{pdfsign}}](/publications/manuscripts/amcis24.pdf)
+
 
 1. J Vazquez-Estrada, S Bhunia, M Khan, Y Qian, and N Tran Huu, "Neighbor Discovery in a Multi-Transceiver Free-Space-Optical Ad Hoc Network", proc. of IEEE Consumer Communications & Networking Conference (CCNC), 2022. [{{pdfsign}}](/publications/manuscripts/ccnc22.pdf)
 
