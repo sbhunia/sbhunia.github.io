@@ -59,26 +59,20 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 1. AG Famera, RM Shukla, and S Bhunia, “Cross-Device Federated Intrusion Detector for Early Stage Botnet Propagation in IoT,” in 2024 IEEE International Systems Conference  (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_famera.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_fl.pptx)
 
-1. S. Bhunia, Y. Qian†, and M. R. Khan, “Electronically Steerable Mobile Optical-Wireless Mesh-Network,” in 2024 IEEE International Systems Conference (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_esmowm.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_fso.pptx)
+1. S. Bhunia, Y. Qian, and M. R. Khan, “Electronically Steerable Mobile Optical-Wireless Mesh-Network,” in 2024 IEEE International Systems Conference (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_esmowm.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_fso.pptx)
 
 1. S. Bhunia, O. Campbell, A. Carvalho, and V. Alluri, “SCeFSTA: Smart Contract enabled Fair, Secure, and Transparent Auction for Healthcare Transportation,” in 2024 IEEE International Systems Conference (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_ambulance.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_scefsta.pptx)
 
 
-1. H He, J Self, K French, S Bhunia, M Salman and P Regis, "Zerologon Explored: In-Depth Analysis and Mitigation Strategies for Microsoft's Critical Vulnerability" in ET-EDGE 2024, Philadelphia, USA [{{pdfsign}}](/publications/manuscripts/et_edge_zerologon.pdf) 
-
-1. C Stejskal, A Perminov, A Lester, S Bhunia, M Salman and P Regis, "Analyzing the Impact and Implications of COMB: A Comprehensive Study of 3 Billion Breached Credentials" in ET-EDGE 2024, Philadelphia, USA. [{{pdfsign}}](/publications/manuscripts/et_edge_comb.pdf) 
-
-1. J Sorn, P Carroll, Z Pang, S Bhunia, M Salman and P Regis, "Exploring the CAM4 Data Breach: Security Vulnerabilities and Response Strategies" in ET-EDGE 2024, Philadelphia, USA. [{{pdfsign}}](/publications/manuscripts/et_edge_cam4.pdf) 
 
 1. A. Carvalho, L. Zavolokina, S. Bhunia, M. Chaudhary, and N. Yoganathan, “Promoting Inclusiveness and Fairness through NFTs: The Case of Student-Athletes and NILs,” in Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, Hamburg, Germany, 2023, pp. 1–9. [{{pdfsign}}](/publications/manuscripts/chi23.pdf) [{{pptsign}}](/publications/manuscripts/chi23.pptx)
 
 
-1. N. Perry§and S. Bhunia, “Crossfire Attack Detection in 6G Networks with the Internet of Things (IoT),” in IFIP International Internet Of Things (IFIP-IoT), Dallas, USA, Nov. 2023. [{{pdfsign}}](/publications/manuscripts/ifipiot23.pdf) 
+1. N. Perry and S. Bhunia, “Crossfire Attack Detection in 6G Networks with the Internet of Things (IoT),” in IFIP International Internet Of Things (IFIP-IoT), Dallas, USA, Nov. 2023. [{{pdfsign}}](/publications/manuscripts/ifipiot23.pdf) 
 
 
 1. P. Jamieson, S. Bhunia, and D. M. Rao, “With ChatGPT, do we have to rewrite our learning objectives-CASE study in Cybersecurity,” in IEEE Frontiers in Education Conference (FIE), College Station, TX, Oct. 2023. [{{pdfsign}}](/publications/manuscripts/fie23.pdf) [{{pptsign}}](/publications/manuscripts/fie23.pptx)
 
-1. J. Beerman, D. Berent, Z. Falter, and S. Bhunia, “A Review of Colonial Pipeline Ran- somware Attack,” in 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW).[{{pdfsign}}](/publications/manuscripts/ccgrid23.pdf) 
 
 
 2. N. Hoang, P. Devabhakthini, R. M. Shukla, and S. Bhunia, “Network Coverage Improvement during Natural Disaster using Self-Organizing Maps,” in 2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME). Tenerife, Spain: IEEE, 2023, pp. 1–6. [{{pdfsign}}](/publications/manuscripts/ICECCME23.pdf)
@@ -102,8 +96,6 @@ Mobile AdHoc and Smart Systems (MASS), 2022. <span style="color:red">**Awarded a
 [{{pdfsign}}](/publications/manuscripts/wcnc22.pdf)
 [{{pptsign}}](/publications/manuscripts/wcnc_nodediscovery.pptx)
 
-1. L Sterle and S Bhunia, "On SolarWinds Orion Platform Security Breach", proc. of SWC 2021, Atlanta, Georgia, USA. [{{pdfsign}}](manuscripts/swc2021.pdf)
-
 1. P A Regis, **S Bhunia**, A N Patra, and S Sengupta, "Deep-learning assisted Cross-Layer Routing in Multi-hop Wireless Network", proc. of WF-IoT 2021, New Orleans, Louisiana, USA. [{{pdfsign}}](manuscripts/wfiot2021.pdf)
 
 1. A Murthy, C Green, R Stoleru, **S Bhunia**, C Swanson, Theodora Chaspari, "Machine Learning-based Irrigation Control Optimization", proc. of ACM BuildSys 2019, New York, NY, USA.  [{{pdfsign}}](manuscripts/buildsys19.pdf)
@@ -120,7 +112,7 @@ Networks", International Conference on Computing, Networking and Communications 
 
 1. M Khan, **S Bhunia**, M Yuksel and S Sengupta, "LOS Discovery in 3D for Highly Directional Transceivers", IEEE MILCOM 2016, Baltimore, Maryland. [{{pdfsign}}](manuscripts/milcom_16_3d.pdf) [{{pptsign}}](manuscripts/milcom_2016_3D.pptx)
 
-1. P A Regis, **S Bhunia** and S Sengupta, "Implementation of 3D Obstacle Compliant Mobility Models for UAV networks in ns-3", proc. of The Workshop on ns-3 (WNS3), 2016, Seattle, Washington.  [{{pdfsign}}](manuscripts/wns3_16.pdf)  [{{pptsign}}](manuscripts/wns3_16.pptx)
+
 
 1. **S Bhunia**, V Behzadan and S Sengupta, "Enhancement of Spectrum Utilization in Non-Contiguous DSA with Online Defragmentation", proc. of IEEE MILCOM 2015, Tampa, Florida.  [{{pdfsign}}](manuscripts/milcom15.pdf)  [{{pptsign}}](manuscripts/milcom15.pptx)
 
@@ -167,6 +159,28 @@ Networks", International Conference on Computing, Networking and Communications 
 
 
 ----------------------------
+
+### Workshop Proceedings
+
+1. M. Chaudhary and S. Bhunia, “Understanding Blockchain Trilemma, Causes and Solutions,” in International Workshop on Smart Data Advancements, Copenhagen, Denmark. IEEE, 2024. [{{pdfsign}}](/publications/manuscripts/cybernatics24_trillema.pdf) 
+
+1. J. Cao, A. Null, M. Stewart, S. Bhunia, and M. Salman, “Combatting the TrickBot Threat: Analysis, Impact, and Defensive Strategies in Cybersecurity,” in International Workshop on
+Emerging Technology in IoT, Copenhagen, Denmark. IEEE, 2024. [{{pdfsign}}](/publications/manuscripts/cybernatics24_trickbot.pdf) 
+
+1. H He, J Self, K French, S Bhunia, M Salman and P Regis, "Zerologon Explored: In-Depth Analysis and Mitigation Strategies for Microsoft's Critical Vulnerability" in ET-EDGE 2024, Philadelphia, USA [{{pdfsign}}](/publications/manuscripts/et_edge_zerologon.pdf) 
+
+1. C Stejskal, A Perminov, A Lester, S Bhunia, M Salman and P Regis, "Analyzing the Impact and Implications of COMB: A Comprehensive Study of 3 Billion Breached Credentials" in ET-EDGE 2024, Philadelphia, USA. [{{pdfsign}}](/publications/manuscripts/et_edge_comb.pdf) 
+
+1. J Sorn, P Carroll, Z Pang, S Bhunia, M Salman and P Regis, "Exploring the CAM4 Data Breach: Security Vulnerabilities and Response Strategies" in ET-EDGE 2024, Philadelphia, USA. [{{pdfsign}}](/publications/manuscripts/et_edge_cam4.pdf) 
+
+1. J. Beerman, D. Berent, Z. Falter, and S. Bhunia, “A Review of Colonial Pipeline Ran- somware Attack,” in 2023 IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW).[{{pdfsign}}](/publications/manuscripts/ccgrid23.pdf) 
+
+1. L Sterle and S Bhunia, "On SolarWinds Orion Platform Security Breach", proc. of SWC 2021, Atlanta, Georgia, USA. [{{pdfsign}}](manuscripts/swc2021.pdf)
+
+
+1. P A Regis, **S Bhunia** and S Sengupta, "Implementation of 3D Obstacle Compliant Mobility Models for UAV networks in ns-3", proc. of The Workshop on ns-3 (WNS3), 2016, Seattle, Washington.  [{{pdfsign}}](manuscripts/wns3_16.pdf)  [{{pptsign}}](manuscripts/wns3_16.pptx)
+
+
 
 ### Invited Articles
 1. **S. Bhunia** and S. Sengupta, "Feasibility of Channel Hopping in Jamming Attack", IEEE TCSIM Newsletter, Quarterly Newsletter, issue 19, pp. 2-5, 2013. [{{pdfsign}}](manuscripts/tccsim.pdf)
