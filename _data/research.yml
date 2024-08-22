@@ -3,6 +3,40 @@
 #   desc: |
     
 #   link: "/research/"
+
+
+- title: Blockchain-based Application for Privacy and Reliability
+  img: "images/blockchain.png"
+  desc: |
+     This research focuses on using blockchain technology to create smarter and more 
+     efficient systems that benefit society. We developed tools like SCeFSTA 
+     and BARIT, which use blockchain to solve real-world problems. SCeFSTA helps 
+     improve healthcare transportation by making it easier to manage resources, 
+     ensure payments are secure, and allow different providers to compete fairly. 
+     On the other hand, BARIT is designed to make the academic peer review process
+      better by rewarding reviewers in a secure and anonymous way. Through these
+       projects, we show how blockchain can be used to create systems that 
+       are not only more secure but also more fair and efficient, helping to build 
+       a smarter and more connected world.
+  link: "/research/blockchain"
+
+
+- title: Enhancing Emergency Communication Networks with Edge Computing and UAVs
+  img: "images/distressnet.png"
+  desc: |
+    This research focuses on improving how mobile and emergency communication networks perform, 
+    especially in challenging situations like natural disasters. 
+    One of his key projects, EdgeKeeper, is designed to help first 
+    responders, like firefighters and paramedics, communicate more 
+    effectively when traditional networks are down. Imagine a team 
+    of rescue workers equipped with mobile devices that can form 
+    their own mini-network, allowing them to share information and
+     coordinate better during emergencies. EdgeKeeper ensures that 
+     this network remains reliable even if some devices stop working 
+     or lose connection. It manages essential tasks like naming devices, 
+     storing important information, and monitoring the network's status, 
+     making sure everything runs smoothly and efficiently.
+  link: "/research/edge"
 - title: Preserving Privacy and Security in Wireless Networks 
   img: "images/5g_testbed.png"
   desc: |

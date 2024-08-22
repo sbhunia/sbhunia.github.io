@@ -16,17 +16,38 @@ date: 2020-10-20 23:51
 
 ### Graduate Student:
 
-- `May 2024` Pratiksha Shrestha [{{linkedin}}](https://www.linkedin.com/in/pratiksha-shrestha/) Topic: Privacy preserving peer-review reward system using Blockchain and Zero Knoledge Proof.
+- `May 2025` Jitendra Sharma
+[{{linkedin}}](https://www.linkedin.com/in/ji10drasharma/) 
+Thesis: Detecting AI-Generated Images With Embedding
 
-- `May 2024` Owen Campbell Topic: Blockchain based auction system for resource hiring in Medical field.
 
-- `Dec 2023` Jessica Vazquez-Estrada	[{{linkedin}}](https://www.linkedin.com/in/jessica-vazquez-3305a6217/)	[{{github}}](https://github.com/vazqueje) Thesis: Secure Neighbor Discovery in Directional Wireless Ad Hoc Networks
+- `May 2024` Pratiksha Shrestha 
+[{{linkedin}}](https://www.linkedin.com/in/pratiksha-shrestha/) 
+Thesis: BARIT: Blockchain-based Anonymous Reviewer Incentive Token
+[{{pdfsign}}](/advisees/thesis/pratiksha_thesis.pdf)
 
-- `Jul 2023` Nick Perry [{{linkedin}}](https://www.linkedin.com/in/nicholas-a-perry/) [{{github}}](https://github.com/nick-perry14) Thesis: Neural Network-Based Crossfire Attack Detection in SDN-Enabled Cellular Network
+- `May 2024` Owen Campbell 
+Thesis: SCEFSTA: Smart Contract Enabled Fair, Secure, and Transparent Auction for Healthcare Transportation
+<!---[{{pdfsign}}](/advisees/thesis/Owen_C_Thesis.pdf)-->
 
-- `Jul 2023` Monu Chaudhary	[{{linekdin}}](https://www.linkedin.com/in/monu-chaudhary/)		[{{github}}](https://github.com/Monu-Chaudhary)		[{{email}}](mailto:chaudhm3@miamioh.edu) Thesis: Fairness in NIL-based NFT marketplace 
+
+
+- `Dec 2023` Jessica Vazquez-Estrada	
+[{{linkedin}}](https://www.linkedin.com/in/jessica-vazquez-3305a6217/)	
+[{{github}}](https://github.com/vazqueje) 
+Thesis: Secure Neighbor Discovery in Directional Wireless Ad Hoc Networks
+[{{pdfsign}}](/advisees/thesis/JessicaVazquez_ThesisDefense.pdf)
+
+
+- `Jul 2023` Nick Perry [{{linkedin}}](https://www.linkedin.com/in/nicholas-a-perry/) [{{github}}](https://github.com/nick-perry14) Thesis: Neural Network-Based Crossfire Attack Detection in SDN-Enabled Cellular Networks
+[{{pdfsign}}](/advisees/thesis/Nick_Perry_Thesis.pdf)
+
+
+
+- `Jul 2023` Monu Chaudhary	[{{linkedin}}](https://www.linkedin.com/in/monu-chaudhary-373241230/)		[{{github}}](https://github.com/Monu-Chaudhary)		Thesis: Fairness in NIL-based NFT marketplace [{{pdfsign}}](/advisees/thesis/Monu_Thesis.pdf)
 
 - `Dec 2022` Angela Famera   [{{linkedin}}](https://www.linkedin.com/in/angelafamera/)	[{{github}}](https://github.com/afamera)	Thesis: Cross-Device Federated Intrusion Detector for Early Stage Botnet Propagation [{{pdfsign}}](/advisees/thesis/Famera_Masters_Thesis.pdf)
+
 
 ### Undergraduate Students:
 - Nero Tran Huu	[{{linkedin}}](https://www.linkedin.com/in/nerotranhuu/)	[{{github}}](https://github.com/nerotran) [{{email}}](mailto:tranhuq@miamioh.edu)
@@ -82,7 +103,6 @@ date: 2020-10-20 23:51
 
 
 #### Distributed Storage for First responders (Fall 20-Spring 21) [Demo](https://sites.miamioh.edu/cse-senior-design-expo/2021/04/cocc-distributed-storage/)
-[{{pptsign}}](ppt/2021_distributed_storage.pptx)
 
 
 - Patrick Liem  [{{linkedin}}](https://www.linkedin.com/in/patrick-liem/)     [{{github}}](https://github.com/patrickliem)  [{{email}}](mailto:patrickliem00@gmail.com)
