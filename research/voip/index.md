@@ -8,7 +8,10 @@ date: 2016-10-26 23:51
 
 ### Problem Statement and Motivation
 
-### People
+This work focuses on enhancing the performance and quality of service (QoS) in wireless networks, particularly for Voice over IP (VoIP) applications. One significant area of his research involves optimizing VoIP performance over IEEE 802.11b Wireless LANs. By analyzing the factors that impact the performance of access points, such as packet loss and delay, authors developed an optimization algorithm to configure these parameters effectively. The study, conducted using the OPNET 14.5.A simulator, demonstrated substantial improvements in packet loss rates and overall QoS, emphasizing the importance of fine-tuning network parameters to meet the stringent requirements of real-time voice communication. This work contributes to the body of knowledge by providing a practical approach to improving VoIP performance in wireless LANs, addressing challenges related to congestion, latency, and packet loss.
+Another notable contribution is his extensive evaluation of mobile WiMAX networks. His research investigates the performance of these networks under various conditions, including different modulation and coding schemes, varying mobile speeds, and path-loss models. Utilizing adaptive modulation and coding (AMC) techniques, the team studies show significant enhancements in network performance, particularly for high-speed mobile users. Additionally, the research identifies the extended real-time polling service (ertPS) as the most effective scheduling service for VoIP applications, balancing the trade-offs between delay, jitter, and packet loss. Furthermore, the team explored the integration of WiMAX and WLAN networks, demonstrating that such integrated networks offer superior performance in terms of network capacity and QoS compared to standalone systems. This work is critical for advancing the capabilities of next-generation wireless networks, providing a robust framework for supporting high-quality VoIP services in both static and mobile environments.
+
+
 ### People
   - Dr. Iti Saha Misra (Jadavpur University)
   - Dr. Salil K Sanyal (Jadavpur University)

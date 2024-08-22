@@ -32,6 +32,9 @@ The effectiveness of the proposed method is evaluated through a prototype, built
 
 
 ### Publications
+
+1. S. Bhunia, Y. Qian†, and M. R. Khan, “Electronically Steerable Mobile Optical-Wireless Mesh-Network,” in 2024 IEEE International Systems Conference (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_esmowm.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_fso.pptx)
+
 1. MR Khan, **S Bhunia**, M Yuksel, L Kane, "Line-of-Sight Discovery in 3D Using Highly Directional Transceivers",  in IEEE Transactions on Mobile Computing, vol. 18, no. 12, pp. 2885-2898, 2019, [DOI:10.1109/TMC.2018.2885061](https://doi.org/10.1109/TMC.2018.2885061). [{{pdfsign}}](/publications/manuscripts/tmc19.pdf)
 
 1. **S Bhunia**, M R Khan, M Yuksel, S Sengupta, "In-Band LOS Discovery Using Highly Directional Transceivers", Ad Hoc Networks,

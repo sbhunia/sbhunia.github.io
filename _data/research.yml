@@ -1,4 +1,9 @@
-- title: Preserving Privacy and Security in 5G network slicing
+# - title: 
+#   img: "images/"
+#   desc: |
+    
+#   link: "/research/"
+- title: Preserving Privacy and Security in Wireless Networks 
   img: "images/5g_testbed.png"
   desc: |
     The cellular phone system represents the most ubiquitous and trusted communication infrastructure in the world.
@@ -21,10 +26,6 @@
     CR-honeynet aims to avoid attacks on legitimate communications by dedicating a Secondary User (SU) as a honeynode,
     to deter the attacker from attacking legitimate SUs and attack the honeynode instead.
   link: "/research/honeynet"
-- title: Joint Routing and Location Management in Multihop UAS Networks
-  img:
-  desc:
-  link: "/research/uav_routing"
 - title: Neighbor Discovery for Directional Tranceivers
   img: "images/network.png"
   desc: |
@@ -61,10 +62,6 @@
     usage of each transmission such that the nodes can dynamically adapt to the
     environment and enhance resource utilization.
   link: "/research/gnuradio"
-- title: Coexistence between LTE and WiFi
-  img:
-  desc:
-  link: "/research/lte_wifi"
 - title:  3D Obstacle Compliant Mobility Models for UAV networks in ns-3
   img:  "images/uav_mesh_3d_ns3.svg"
   desc: |
@@ -79,7 +76,22 @@
   link: "/research/uav_mesh_3d_ns3"
 - title: Enhance Performance of Voice Service for Congested Network
   img:
-  desc:
+  desc: |
+    This research focuses on improving Voice over IP (VoIP) performance on 
+    wireless networks, ensuring clearer and more reliable internet voice
+     calls. One of his significant contributions involves optimizing 
+     Wi-Fi networks for better VoIP quality. He developed a unique method
+      to adjust network settings, reducing issues like dropped calls and 
+      delays. This was tested using a simulation program, which showed 
+      notable improvements in call quality. Additionally, Dr. Bhunia 
+      studied the performance of WiMAX, a wireless technology that 
+      covers larger areas than Wi-Fi, especially when users are mobile, 
+      such as in cars or trains. He discovered that using adaptive 
+      modulation and coding (AMC) techniques enhances the performance 
+      for high-speed mobile users. His research identified the extended 
+      real-time polling service (ertPS) as the best scheduling service 
+      for VoIP applications due to its balance of delay, jitter, and 
+      packet loss. 
   link: "/research/voip"
 - title: Evaluate Performance of WiMAX
   img:

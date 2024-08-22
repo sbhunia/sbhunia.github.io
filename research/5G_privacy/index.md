@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Preserving Privacy and Security in 5G network slicing
+title: Preserving Privacy and Security in 6G network slicing
 
 date: 2016-06-06 23:51
 ---
@@ -22,6 +22,11 @@ The proposed work aims to build a small scale testbed with LTE base station and 
 N/A
 
 ### Publications
-N/A
+
+1. AG Famera, RM Shukla, and S Bhunia, “Cross-Device Federated Intrusion Detector for Early Stage Botnet Propagation in IoT,” in 2024 IEEE International Systems Conference  (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_famera.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_fl.pptx)
+
+
+1. N. Perry§and S. Bhunia, “Crossfire Attack Detection in 6G Networks with the Internet of Things (IoT),” in IFIP International Internet Of Things (IFIP-IoT), Dallas, USA, Nov. 2023. [{{pdfsign}}](/publications/manuscripts/ifipiot23.pdf) 
+
 
 ### Useful Liknks
