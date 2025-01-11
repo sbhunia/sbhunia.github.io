@@ -14,6 +14,9 @@ date: 2014-10-19 23:51
 
 ### Journal Papers
 
+1. S. Bhunia, M. Blackert, H. Deal, A. DePero, and A. Patra, “Analyzing The 2021 Kaseya Ransomware Attack: Combined Spearphishing Through SonicWall SSLVPN Vulnerability,” IET Information Security, 2025. [{{pdfsign}}](/publications/manuscripts/is_2025kaseya.pdf)
+
+
 1. M Sagor, A Haroon, R Stoleru, S Bhunia, A Altaweel, M Chao, L Jin, M Maurice, R Blalock, "DistressNet-NG: A Resilient Data Storage and Sharing Framework for Mobile Edge Computing in Cyber-Physical Systems", in ACM Transactions on Cyber-Physical Systems, 2024. [DOI:10.1145/3639057](https://doi.org/10.1145/3639057). [{{pdfsign}}](/publications/manuscripts/cps23.pdf)
 
 
@@ -53,8 +56,12 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 ### Conference proceedings
 
-1. P Shrestha, S Bhunia, A Carvalho, C Anderson, G. Lee, "A Case Study on Blockchain-based Anonymous Reviewer Incentive Token (BARIT)", in IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC) 2024. [{{pdfsign}}](/publications/manuscripts/smc24.pdf)
 
+1. D. M. Middendorf, S. Bhunia, and A. Carvalho, “Lessons from the Field: Practical Frameworks for CTF Competition Success,” in 2025 IEEE International systems Conference (IEEE SysCon 2025), Montreal, Canada, Apr. 2025, p. 8. [{{pdfsign}}](/publications/manuscripts/syscon25_ctf.pdf)
+
+1. P. A. Jamieson, O. Amaning-Yeboah, J. Butler, D. Misirlioglu, R. Taylor, and S. Bhunia, “A Red/Blue Video Game for Hide&Seek Analysis for Hardware Trojans and the Seeker’s Dilemma,” in 2025 IEEE International systems Conference (IEEE SysCon 2025), Montreal, Canada, Apr. 2025, p. 7. [{{pdfsign}}](/publications/manuscripts/syscon25_game.pdf)
+
+1. P Shrestha, S Bhunia, A Carvalho, C Anderson, G. Lee, "A Case Study on Blockchain-based Anonymous Reviewer Incentive Token (BARIT)", in IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC) 2024. [{{pdfsign}}](/publications/manuscripts/smc24.pdf)
 
 
 1. AG Famera, RM Shukla, and S Bhunia, “Cross-Device Federated Intrusion Detector for Early Stage Botnet Propagation in IoT,” in 2024 IEEE International Systems Conference  (IEEE SysCon 2024), Montreal, Canada, Apr. 2024. [{{pdfsign}}](/publications/manuscripts/syscon24_famera.pdf) [{{pptsign}}](/publications/manuscripts/syscon24_fl.pptx)
@@ -161,6 +168,8 @@ Networks", International Conference on Computing, Networking and Communications 
 ----------------------------
 
 ### Workshop Proceedings
+
+1. S. Karki, E. Han, N. Mahmud, S. Bhunia, J. Femiani, and V. Raychoudhury, “OmniAcc: Personalized Accessibility Assistant Using Generative AI,” in Workshop on AI for Urban Planning, AAAI 2025’s Workshop, 2025. [{{pdfsign}}](/publications/manuscripts/AAAI_2025.pdf) 
 
 1. M. Chaudhary and S. Bhunia, “Understanding Blockchain Trilemma, Causes and Solutions,” in International Workshop on Smart Data Advancements, Copenhagen, Denmark. IEEE, 2024. [{{pdfsign}}](/publications/manuscripts/cybernatics24_trillema.pdf) 
 
