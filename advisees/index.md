@@ -62,6 +62,20 @@ Thesis: Secure Neighbor Discovery in Directional Wireless Ad Hoc Networks
 
 ### Capstone Projects
 
+#### Drag-and-Drop Survey Builder using Blockchain (Fall 24 - Spring 25)
+- Max Dupler            [{{linkedin}}](https://www.linkedin.com/in/max-dupler/)
+- Ryan Van Witzenburg   [{{linkedin}}](https://www.linkedin.com/in/ryanvanwitz/)
+- Nicholas McCarty      [{{linkedin}}](https://www.linkedin.com/in/nicholas-mccarty-667450251/)
+- A.J Anastasia         [{{linkedin}}](https://www.linkedin.com/in/a-j-anastasia-9615a5270/)
+
+
+#### Cracking the Code: A CTF Exhibition (Spring 24 - Fall 24) [{{pdfsign}}](/advisees/ppt/ctf2.pptx)
+
+- Dylan Middendorf  [{{linkedin}}](https://www.linkedin.com/in/dylan-middendorf)
+- Mihir Tamrakar    [{{linkedin}}](https://www.linkedin.com/in/mihir-tamrakar) 
+- Zack Cox          
+- Robbie Pasci      
+- Patrick Suter     
 
 
 #### CTF Competion Design (Fall 23 - Spring 24)
