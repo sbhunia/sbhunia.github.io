@@ -6,7 +6,7 @@ date: 2015-09-12 23:51
 ### At Miami University:
 
 - CYB 435 - Offensive Security
-  [`Spring-25`]()
+  [`Spring-25`](syllabus/CYB435_spring_25.pdf)
 
 
 
