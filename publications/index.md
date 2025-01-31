@@ -14,7 +14,9 @@ date: 2014-10-19 23:51
 
 ### Journal Papers
 
-1. S. Bhunia, M. Blackert, H. Deal, A. DePero, and A. Patra, “Analyzing The 2021 Kaseya Ransomware Attack: Combined Spearphishing Through SonicWall SSLVPN Vulnerability,” IET Information Security, 2025. [{{pdfsign}}](/publications/manuscripts/is_2025kaseya.pdf)
+1. S. Bhunia, M. Blackert, H. Deal, A. DePero, and A. Patra, “Analyzing The 2021 Kaseya Ransomware Attack: Combined Spearphishing Through SonicWall SSLVPN Vulnerability,” IET Information Security, 2025. 
+  [DOI:10.1049/ise2/1655307](https://doi.org/10.1049/ise2/1655307)
+  [{{pdfsign}}](/publications/manuscripts/is_2025kaseya.pdf)
 
 
 1. M Sagor, A Haroon, R Stoleru, S Bhunia, A Altaweel, M Chao, L Jin, M Maurice, R Blalock, "DistressNet-NG: A Resilient Data Storage and Sharing Framework for Mobile Edge Computing in Cyber-Physical Systems", in ACM Transactions on Cyber-Physical Systems, 2024. [DOI:10.1145/3639057](https://doi.org/10.1145/3639057). [{{pdfsign}}](/publications/manuscripts/cps23.pdf)
