@@ -58,6 +58,9 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 ### Conference proceedings
 
+1. G. Goodman, S. Bhunia, and P. Jamieson, “Benchmarking of LLM Based Generative AI for CSE Undergraduate Curriculum,” in 2025 ASEE Annual Conference & Exposition, 2025. [{{pdfsign}}](/publications/manuscripts/asee25cse.pdf)
+
+1. P. Jamieson, G. Ricco, B. Swanson, B. V. Scoy, and S. Bhunia, “LLM Prompting Methodology and Taxonomy to Benchmark our Engineering Curriculums,” in 2025 ASEE Annual Conference & Exposition, 2025.
 
 1. D. M. Middendorf, S. Bhunia, and A. Carvalho, “Lessons from the Field: Practical Frameworks for CTF Competition Success,” in 2025 IEEE International systems Conference (IEEE SysCon 2025), Montreal, Canada, Apr. 2025, p. 8. [{{pdfsign}}](/publications/manuscripts/syscon25_ctf.pdf)
 
