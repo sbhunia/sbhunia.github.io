@@ -14,6 +14,10 @@ date: 2014-10-19 23:51
 
 ### Journal Papers
 
+1. C. Anderson, P. Shrestha§, S. Bhunia, A. Carvalho, and Y. G. Lee, “Blockchain-based token system for incentivizing peer review: A design science approach,” Decision Support Systems, p. 114514, 2025.
+[DOI:10.1049/ise2/1655307](https://doi.org/10.1016/j.dss.2025.114514)
+  [{{pdfsign}}](/publications/manuscripts/dss25.pdf)
+
 1. S. Bhunia, M. Blackert, H. Deal, A. DePero, and A. Patra, “Analyzing The 2021 Kaseya Ransomware Attack: Combined Spearphishing Through SonicWall SSLVPN Vulnerability,” IET Information Security, 2025. 
   [DOI:10.1049/ise2/1655307](https://doi.org/10.1049/ise2/1655307)
   [{{pdfsign}}](/publications/manuscripts/is_2025kaseya.pdf)
@@ -173,6 +177,10 @@ Networks", International Conference on Computing, Networking and Communications 
 ----------------------------
 
 ### Workshop Proceedings
+
+1. J. Hamlett, S. Bhunia, and P. Jamieson, “A proof-of-concept implementation of a glitch hardware trojan,” in Proceedings of the 2025 ACM Workshop on Secure and Trustworthy Cyber-physical Systems, 2025, pp. 48–57.
+
+1. P. Jamieson, S. Bhunia, J. Chen, C. Lallo, B. Rile, R. Ferreira, G. A. Wilke, J. A. Nacif, A. Patooghy, and A.-H. A. Badawy, “Work-in-progress: Risc-v-dilemma-1: A hardware trojan benchmark based on seeker’s dilemma approach,” in Proceedings of the 2025 ACM Workshop on Secure and Trustworthy Cyber-physical Systems, 2025, pp. 58–62.
 
 1. S. Karki, E. Han, N. Mahmud, S. Bhunia, J. Femiani, and V. Raychoudhury, “OmniAcc: Personalized Accessibility Assistant Using Generative AI,” in Workshop on AI for Urban Planning, AAAI 2025’s Workshop, 2025. [{{pdfsign}}](/publications/manuscripts/AAAI_2025.pdf) 
 

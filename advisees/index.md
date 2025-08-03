@@ -16,17 +16,28 @@ date: 2020-10-20 23:51
 
 ### Graduate Student:
 
+- `May 2026` Yogesh Chaudhary
+[{{linkedin}}](https://www.linkedin.com/in/yogeshchaudhary101/), 
+Thesis: Toward Language Revitalization: Extremely Low-Resource Neural Machine Translation for
+Myaamia Language
+
+- `May 2026` Sai Aneesha Valluru
+[{{linkedin}}](https://www.linkedin.com/in/aneeshavalluru/), 
+Thesis: LLM-BASED KNOWLEDGE EXTRACTION AND AUTOMATIC CODE GENERATION CHATBOT FOR QM2-BEAMLINE
+
+
 - `May 2025` Jitendra Sharma
-[{{linkedin}}](https://www.linkedin.com/in/ji10drasharma/) 
-Thesis: Detecting AI-Generated Images With Embedding
+[{{linkedin}}](https://www.linkedin.com/in/ji10drasharma/), 
+Thesis: Embedding-based Detection of AI-Generated Images: A Vector Similarity and Blockchain-backed Approach
+<!-- [{{pdfsign}}](/advisees/thesis/Jitendra_Sharma_Thesis_Report.pdf) -->
 
 
 - `May 2024` Pratiksha Shrestha 
-[{{linkedin}}](https://www.linkedin.com/in/pratiksha-shrestha/) 
+[{{linkedin}}](https://www.linkedin.com/in/pratiksha-shrestha/), 
 Thesis: BARIT: Blockchain-based Anonymous Reviewer Incentive Token
 [{{pdfsign}}](/advisees/thesis/pratiksha_thesis.pdf)
 
-- `May 2024` Owen Campbell 
+- `May 2024` Owen Campbell, 
 Thesis: SCEFSTA: Smart Contract Enabled Fair, Secure, and Transparent Auction for Healthcare Transportation
 <!---[{{pdfsign}}](/advisees/thesis/Owen_C_Thesis.pdf)-->
 
@@ -34,19 +45,22 @@ Thesis: SCEFSTA: Smart Contract Enabled Fair, Secure, and Transparent Auction fo
 
 - `Dec 2023` Jessica Vazquez-Estrada	
 [{{linkedin}}](https://www.linkedin.com/in/jessica-vazquez-3305a6217/)	
-[{{github}}](https://github.com/vazqueje) 
+[{{github}}](https://github.com/vazqueje), 
 Thesis: Secure Neighbor Discovery in Directional Wireless Ad Hoc Networks
 [{{pdfsign}}](/advisees/thesis/JessicaVazquez_ThesisDefense.pdf)
 
 
-- `Jul 2023` Nick Perry [{{linkedin}}](https://www.linkedin.com/in/nicholas-a-perry/) [{{github}}](https://github.com/nick-perry14) Thesis: Neural Network-Based Crossfire Attack Detection in SDN-Enabled Cellular Networks
+- `Jul 2023` Nick Perry [{{linkedin}}](https://www.linkedin.com/in/nicholas-a-perry/) [{{github}}](https://github.com/nick-perry14),
+Thesis: Neural Network-Based Crossfire Attack Detection in SDN-Enabled Cellular Networks
 [{{pdfsign}}](/advisees/thesis/Nick_Perry_Thesis.pdf)
 
 
 
-- `Jul 2023` Monu Chaudhary	[{{linkedin}}](https://www.linkedin.com/in/monu-chaudhary-373241230/)		[{{github}}](https://github.com/Monu-Chaudhary)		Thesis: Fairness in NIL-based NFT marketplace [{{pdfsign}}](/advisees/thesis/Monu_Thesis.pdf)
+- `Jul 2023` Monu Chaudhary	[{{linkedin}}](https://www.linkedin.com/in/monu-chaudhary-373241230/)		[{{github}}](https://github.com/Monu-Chaudhary),
+Thesis: Fairness in NIL-based NFT marketplace [{{pdfsign}}](/advisees/thesis/Monu_Thesis.pdf)
 
-- `Dec 2022` Angela Famera   [{{linkedin}}](https://www.linkedin.com/in/angelafamera/)	[{{github}}](https://github.com/afamera)	Thesis: Cross-Device Federated Intrusion Detector for Early Stage Botnet Propagation [{{pdfsign}}](/advisees/thesis/Famera_Masters_Thesis.pdf)
+- `Dec 2022` Angela Famera   [{{linkedin}}](https://www.linkedin.com/in/angelafamera/)	[{{github}}](https://github.com/afamera),
+Thesis: Cross-Device Federated Intrusion Detector for Early Stage Botnet Propagation [{{pdfsign}}](/advisees/thesis/Famera_Masters_Thesis.pdf)
 
 
 ### Undergraduate Students:
