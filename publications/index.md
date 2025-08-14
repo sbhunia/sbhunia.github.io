@@ -176,7 +176,7 @@ Networks", International Conference on Computing, Networking and Communications 
 
 ----------------------------
 
-### Workshop Proceedings
+<!-- ### Workshop Proceedings
 
 1. J. Hamlett, S. Bhunia, and P. Jamieson, “A proof-of-concept implementation of a glitch hardware trojan,” in Proceedings of the 2025 ACM Workshop on Secure and Trustworthy Cyber-physical Systems, 2025, pp. 48–57.
 
@@ -200,7 +200,7 @@ Emerging Technology in IoT, Copenhagen, Denmark. IEEE, 2024. [{{pdfsign}}](/publ
 1. L Sterle and S Bhunia, "On SolarWinds Orion Platform Security Breach", proc. of SWC 2021, Atlanta, Georgia, USA. [{{pdfsign}}](manuscripts/swc2021.pdf)
 
 
-1. P A Regis, **S Bhunia** and S Sengupta, "Implementation of 3D Obstacle Compliant Mobility Models for UAV networks in ns-3", proc. of The Workshop on ns-3 (WNS3), 2016, Seattle, Washington.  [{{pdfsign}}](manuscripts/wns3_16.pdf)  [{{pptsign}}](manuscripts/wns3_16.pptx)
+1. P A Regis, **S Bhunia** and S Sengupta, "Implementation of 3D Obstacle Compliant Mobility Models for UAV networks in ns-3", proc. of The Workshop on ns-3 (WNS3), 2016, Seattle, Washington.  [{{pdfsign}}](manuscripts/wns3_16.pdf)  [{{pptsign}}](manuscripts/wns3_16.pptx) -->
 
 
 
