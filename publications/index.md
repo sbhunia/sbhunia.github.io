@@ -62,6 +62,9 @@ Volume 91, 2019, [DOI:10.1016/j.adhoc.2019.101875](https://doi.org/10.1016/j.adh
 
 ### Conference proceedings
 
+1. J. Sharma, A. Carvalho, and S. Bhunia, “Provenance of AI-Generated images: A vector similarity and blockchain-based approach,” in 2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC), Las Vegas, USA, Jan. 2026.
+[{{pdfsign}}](/publications/manuscripts/ccnc26.pdf)
+
 1. G. Goodman, S. Bhunia, and P. Jamieson, “Benchmarking of LLM Based Generative AI for CSE Undergraduate Curriculum,” in 2025 ASEE Annual Conference & Exposition, 2025. [{{pdfsign}}](/publications/manuscripts/asee25cse.pdf)
 
 1. P. Jamieson, G. Ricco, B. Swanson, B. V. Scoy, and S. Bhunia, “LLM Prompting Methodology and Taxonomy to Benchmark our Engineering Curriculums,” in 2025 ASEE Annual Conference & Exposition, 2025.
@@ -176,7 +179,7 @@ Networks", International Conference on Computing, Networking and Communications 
 
 ----------------------------
 
-<!-- ### Workshop Proceedings
+### Workshop Proceedings
 
 1. J. Hamlett, S. Bhunia, and P. Jamieson, “A proof-of-concept implementation of a glitch hardware trojan,” in Proceedings of the 2025 ACM Workshop on Secure and Trustworthy Cyber-physical Systems, 2025, pp. 48–57.
 
@@ -200,7 +203,7 @@ Emerging Technology in IoT, Copenhagen, Denmark. IEEE, 2024. [{{pdfsign}}](/publ
 1. L Sterle and S Bhunia, "On SolarWinds Orion Platform Security Breach", proc. of SWC 2021, Atlanta, Georgia, USA. [{{pdfsign}}](manuscripts/swc2021.pdf)
 
 
-1. P A Regis, **S Bhunia** and S Sengupta, "Implementation of 3D Obstacle Compliant Mobility Models for UAV networks in ns-3", proc. of The Workshop on ns-3 (WNS3), 2016, Seattle, Washington.  [{{pdfsign}}](manuscripts/wns3_16.pdf)  [{{pptsign}}](manuscripts/wns3_16.pptx) -->
+1. P A Regis, S Bhunia and S Sengupta, "Implementation of 3D Obstacle Compliant Mobility Models for UAV networks in ns-3", proc. of The Workshop on ns-3 (WNS3), 2016, Seattle, Washington.  [{{pdfsign}}](manuscripts/wns3_16.pdf)  [{{pptsign}}](manuscripts/wns3_16.pptx)
 
 
 
